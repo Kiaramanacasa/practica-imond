@@ -99,3 +99,80 @@ COPY (
         ON ch.channel_key = n.channel_key
     ORDER BY n.nps_id
 ) TO 'dw/tablero_nps.csv' (HEADER);
+
+
+-- ---------------------------------------------------------------------
+-- TABLERO_PAGOS: una fila por pago (todos los estados).
+-- metodo: GATEWAY = Mercado Pago (pasarela de pago online).
+-- "fallido" vale 1 si el pago fue rechazado, para calcular la tasa.
+-- La fecha es la del pedido, igual que en el resto del tablero.
+-- ---------------------------------------------------------------------
+COPY (
+    SELECT
+        p.payment_id,
+        p.order_id,
+        d.fecha,
+        ch.name AS canal,
+        pr.name AS provincia,
+        CASE p.method
+            WHEN 'CARD'     THEN 'Tarjeta'
+            WHEN 'GATEWAY'  THEN 'Mercado Pago'
+            WHEN 'CASH'     THEN 'Efectivo'
+            WHEN 'TRANSFER' THEN 'Transferencia'
+            ELSE p.method
+        END AS metodo,
+        CASE p.status
+            WHEN 'PAID'     THEN 'Pagado'
+            WHEN 'FAILED'   THEN 'Fallido'
+            WHEN 'REFUNDED' THEN 'Reembolsado'
+            WHEN 'PENDING'  THEN 'Pendiente'
+            ELSE p.status
+        END AS estado,
+        p.amount AS monto,
+        CASE WHEN p.status = 'FAILED' THEN 1 ELSE 0 END AS fallido
+    FROM fact_payment AS p
+    JOIN dim_date AS d
+        ON d.date_key = p.date_key
+    JOIN dim_channel AS ch
+        ON ch.channel_key = p.channel_key
+    JOIN fact_sales_order AS o
+        ON o.order_id = p.order_id
+    LEFT JOIN dim_province AS pr
+        ON pr.province_key = o.province_key
+    ORDER BY p.payment_id
+) TO 'dw/tablero_pagos.csv' (HEADER);
+
+
+-- ---------------------------------------------------------------------
+-- TABLERO_ENVIOS: una fila por envío de Correo Argentino.
+-- dias_entrega = días entre el pedido y la entrega (vacío si no se
+-- entregó). "entregado" vale 1 si el envío llegó a destino.
+-- ---------------------------------------------------------------------
+COPY (
+    SELECT
+        s.shipment_id,
+        s.order_id,
+        d.fecha,
+        ch.name AS canal,
+        pr.name AS provincia,
+        COALESCE(st.name, 'Online') AS tienda,
+        CASE s.status
+            WHEN 'DELIVERED' THEN 'Entregado'
+            WHEN 'SHIPPED'   THEN 'En camino'
+            WHEN 'READY'     THEN 'Listo para despachar'
+            WHEN 'CANCELLED' THEN 'Cancelado'
+            ELSE s.status
+        END AS estado,
+        s.delivery_days AS dias_entrega,
+        CASE WHEN s.status = 'DELIVERED' THEN 1 ELSE 0 END AS entregado
+    FROM fact_shipment AS s
+    JOIN dim_date AS d
+        ON d.date_key = s.date_key
+    JOIN dim_channel AS ch
+        ON ch.channel_key = s.channel_key
+    LEFT JOIN dim_province AS pr
+        ON pr.province_key = s.province_key
+    LEFT JOIN dim_store AS st
+        ON st.store_key = s.store_key
+    ORDER BY s.shipment_id
+) TO 'dw/tablero_envios.csv' (HEADER);
