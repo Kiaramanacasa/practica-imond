@@ -53,7 +53,7 @@ COPY (
 COPY (
     SELECT
         w.session_id,
-        d.fecha,
+        strftime(d.fecha, '%Y%m%d') AS fecha,
         ch.name AS canal,
         CASE
             WHEN c.customer_id IS NOT NULL THEN 'C-' || c.customer_id
