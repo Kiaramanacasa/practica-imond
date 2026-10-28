@@ -16,7 +16,7 @@ sql/               transformaciones en SQL, en orden de ejecución:
   01_dimensiones.sql   crea las 9 dimensiones
   02_hechos.sql        crea las 6 tablas de hechos
   03_consultas.sql     consultas clave de análisis
-  04_tablero.sql       genera las 7 tablas planas del tablero
+  04_tablero.sql       genera las 7 tablas planas del tablero (marts)
 run_sql.py         ejecuta los archivos de sql/ y arma el data warehouse
 requirements.txt   dependencias de Python (DuckDB)
 dw/                salida: dimensiones, hechos, tablas del tablero (CSV) y modelo_estrella.md
