@@ -1,0 +1,1441 @@
+periodo_tipo,periodo,canal,provincia,metodo,pagos,fallidos,tasa_fallos,nivel
+anio,2024,Tienda Online,Buenos Aires,Todos,1622,104,6.4,
+anio,2024,Tienda Online,Buenos Aires,Tarjeta,932,49,5.3,1.0
+anio,2024,Tienda Online,Buenos Aires,Mercado Pago,690,55,8.0,0.7403
+anio,2024,Tienda Online,Córdoba,Todos,859,60,7.0,
+anio,2024,Tienda Online,Córdoba,Tarjeta,505,20,4.0,1.0
+anio,2024,Tienda Online,Córdoba,Mercado Pago,354,40,11.3,0.701
+anio,2024,Tienda Online,Mendoza,Todos,520,37,7.1,
+anio,2024,Tienda Online,Mendoza,Tarjeta,298,13,4.4,1.0
+anio,2024,Tienda Online,Mendoza,Mercado Pago,222,24,10.8,0.745
+anio,2024,Tienda Online,Santa Fe,Todos,936,65,6.9,
+anio,2024,Tienda Online,Santa Fe,Tarjeta,528,27,5.1,1.0
+anio,2024,Tienda Online,Santa Fe,Mercado Pago,408,38,9.3,0.7727
+anio,2024,Tienda Online,Todas,Todos,3937,266,6.8,
+anio,2024,Tienda Online,Todas,Tarjeta,2263,109,4.8,1.0
+anio,2024,Tienda Online,Todas,Mercado Pago,1674,157,9.4,0.7397
+anio,2024,Tiendas Físicas,Buenos Aires,Todos,829,12,1.4,
+anio,2024,Tiendas Físicas,Buenos Aires,Tarjeta,411,12,2.9,1.0
+anio,2024,Tiendas Físicas,Buenos Aires,Efectivo,333,0,0.0,0.8102
+anio,2024,Tiendas Físicas,Buenos Aires,Transferencia,85,0,0.0,0.2068
+anio,2024,Tiendas Físicas,Córdoba,Todos,709,12,1.7,
+anio,2024,Tiendas Físicas,Córdoba,Tarjeta,362,12,3.3,1.0
+anio,2024,Tiendas Físicas,Córdoba,Efectivo,259,0,0.0,0.7155
+anio,2024,Tiendas Físicas,Córdoba,Transferencia,88,0,0.0,0.2431
+anio,2024,Tiendas Físicas,Mendoza,Todos,529,4,0.8,
+anio,2024,Tiendas Físicas,Mendoza,Tarjeta,264,4,1.5,1.0
+anio,2024,Tiendas Físicas,Mendoza,Efectivo,211,0,0.0,0.7992
+anio,2024,Tiendas Físicas,Mendoza,Transferencia,54,0,0.0,0.2045
+anio,2024,Tiendas Físicas,Santa Fe,Todos,634,6,0.9,
+anio,2024,Tiendas Físicas,Santa Fe,Tarjeta,324,6,1.9,1.0
+anio,2024,Tiendas Físicas,Santa Fe,Efectivo,229,0,0.0,0.7068
+anio,2024,Tiendas Físicas,Santa Fe,Transferencia,81,0,0.0,0.25
+anio,2024,Tiendas Físicas,Todas,Todos,2701,34,1.3,
+anio,2024,Tiendas Físicas,Todas,Tarjeta,1361,34,2.5,1.0
+anio,2024,Tiendas Físicas,Todas,Efectivo,1032,0,0.0,0.7583
+anio,2024,Tiendas Físicas,Todas,Transferencia,308,0,0.0,0.2263
+anio,2024,Todos,Buenos Aires,Todos,2451,116,4.7,
+anio,2024,Todos,Buenos Aires,Tarjeta,1343,61,4.5,1.0
+anio,2024,Todos,Buenos Aires,Mercado Pago,690,55,8.0,0.5138
+anio,2024,Todos,Buenos Aires,Efectivo,333,0,0.0,0.248
+anio,2024,Todos,Buenos Aires,Transferencia,85,0,0.0,0.0633
+anio,2024,Todos,Córdoba,Todos,1568,72,4.6,
+anio,2024,Todos,Córdoba,Tarjeta,867,32,3.7,1.0
+anio,2024,Todos,Córdoba,Mercado Pago,354,40,11.3,0.4083
+anio,2024,Todos,Córdoba,Efectivo,259,0,0.0,0.2987
+anio,2024,Todos,Córdoba,Transferencia,88,0,0.0,0.1015
+anio,2024,Todos,Mendoza,Todos,1049,41,3.9,
+anio,2024,Todos,Mendoza,Tarjeta,562,17,3.0,1.0
+anio,2024,Todos,Mendoza,Mercado Pago,222,24,10.8,0.395
+anio,2024,Todos,Mendoza,Efectivo,211,0,0.0,0.3754
+anio,2024,Todos,Mendoza,Transferencia,54,0,0.0,0.0961
+anio,2024,Todos,Santa Fe,Todos,1570,71,4.5,
+anio,2024,Todos,Santa Fe,Tarjeta,852,33,3.9,1.0
+anio,2024,Todos,Santa Fe,Mercado Pago,408,38,9.3,0.4789
+anio,2024,Todos,Santa Fe,Efectivo,229,0,0.0,0.2688
+anio,2024,Todos,Santa Fe,Transferencia,81,0,0.0,0.0951
+anio,2024,Todos,Todas,Todos,6638,300,4.5,
+anio,2024,Todos,Todas,Tarjeta,3624,143,3.9,1.0
+anio,2024,Todos,Todas,Mercado Pago,1674,157,9.4,0.4619
+anio,2024,Todos,Todas,Efectivo,1032,0,0.0,0.2848
+anio,2024,Todos,Todas,Transferencia,308,0,0.0,0.085
+anio,2025,Tienda Online,Buenos Aires,Todos,1421,108,7.6,
+anio,2025,Tienda Online,Buenos Aires,Tarjeta,793,44,5.5,1.0
+anio,2025,Tienda Online,Buenos Aires,Mercado Pago,628,64,10.2,0.7919
+anio,2025,Tienda Online,Córdoba,Todos,715,46,6.4,
+anio,2025,Tienda Online,Córdoba,Tarjeta,426,19,4.5,1.0
+anio,2025,Tienda Online,Córdoba,Mercado Pago,289,27,9.3,0.6784
+anio,2025,Tienda Online,Mendoza,Todos,497,38,7.6,
+anio,2025,Tienda Online,Mendoza,Tarjeta,296,14,4.7,1.0
+anio,2025,Tienda Online,Mendoza,Mercado Pago,201,24,11.9,0.6791
+anio,2025,Tienda Online,Santa Fe,Todos,716,53,7.4,
+anio,2025,Tienda Online,Santa Fe,Tarjeta,415,22,5.3,1.0
+anio,2025,Tienda Online,Santa Fe,Mercado Pago,301,31,10.3,0.7253
+anio,2025,Tienda Online,Todas,Todos,3349,245,7.3,
+anio,2025,Tienda Online,Todas,Tarjeta,1930,99,5.1,1.0
+anio,2025,Tienda Online,Todas,Mercado Pago,1419,146,10.3,0.7352
+anio,2025,Tiendas Físicas,Buenos Aires,Todos,598,5,0.8,
+anio,2025,Tiendas Físicas,Buenos Aires,Tarjeta,290,5,1.7,1.0
+anio,2025,Tiendas Físicas,Buenos Aires,Efectivo,229,0,0.0,0.7897
+anio,2025,Tiendas Físicas,Buenos Aires,Transferencia,79,0,0.0,0.2724
+anio,2025,Tiendas Físicas,Córdoba,Todos,533,6,1.1,
+anio,2025,Tiendas Físicas,Córdoba,Tarjeta,283,6,2.1,1.0
+anio,2025,Tiendas Físicas,Córdoba,Efectivo,192,0,0.0,0.6784
+anio,2025,Tiendas Físicas,Córdoba,Transferencia,58,0,0.0,0.2049
+anio,2025,Tiendas Físicas,Mendoza,Todos,381,4,1.0,
+anio,2025,Tiendas Físicas,Mendoza,Tarjeta,189,4,2.1,1.0
+anio,2025,Tiendas Físicas,Mendoza,Efectivo,151,0,0.0,0.7989
+anio,2025,Tiendas Físicas,Mendoza,Transferencia,41,0,0.0,0.2169
+anio,2025,Tiendas Físicas,Santa Fe,Todos,470,5,1.1,
+anio,2025,Tiendas Físicas,Santa Fe,Tarjeta,245,5,2.0,1.0
+anio,2025,Tiendas Físicas,Santa Fe,Efectivo,167,0,0.0,0.6816
+anio,2025,Tiendas Físicas,Santa Fe,Transferencia,58,0,0.0,0.2367
+anio,2025,Tiendas Físicas,Todas,Todos,1982,20,1.0,
+anio,2025,Tiendas Físicas,Todas,Tarjeta,1007,20,2.0,1.0
+anio,2025,Tiendas Físicas,Todas,Efectivo,739,0,0.0,0.7339
+anio,2025,Tiendas Físicas,Todas,Transferencia,236,0,0.0,0.2344
+anio,2025,Todos,Buenos Aires,Todos,2019,113,5.6,
+anio,2025,Todos,Buenos Aires,Tarjeta,1083,49,4.5,1.0
+anio,2025,Todos,Buenos Aires,Mercado Pago,628,64,10.2,0.5799
+anio,2025,Todos,Buenos Aires,Efectivo,229,0,0.0,0.2114
+anio,2025,Todos,Buenos Aires,Transferencia,79,0,0.0,0.0729
+anio,2025,Todos,Córdoba,Todos,1248,52,4.2,
+anio,2025,Todos,Córdoba,Tarjeta,709,25,3.5,1.0
+anio,2025,Todos,Córdoba,Mercado Pago,289,27,9.3,0.4076
+anio,2025,Todos,Córdoba,Efectivo,192,0,0.0,0.2708
+anio,2025,Todos,Córdoba,Transferencia,58,0,0.0,0.0818
+anio,2025,Todos,Mendoza,Todos,878,42,4.8,
+anio,2025,Todos,Mendoza,Tarjeta,485,18,3.7,1.0
+anio,2025,Todos,Mendoza,Mercado Pago,201,24,11.9,0.4144
+anio,2025,Todos,Mendoza,Efectivo,151,0,0.0,0.3113
+anio,2025,Todos,Mendoza,Transferencia,41,0,0.0,0.0845
+anio,2025,Todos,Santa Fe,Todos,1186,58,4.9,
+anio,2025,Todos,Santa Fe,Tarjeta,660,27,4.1,1.0
+anio,2025,Todos,Santa Fe,Mercado Pago,301,31,10.3,0.4561
+anio,2025,Todos,Santa Fe,Efectivo,167,0,0.0,0.253
+anio,2025,Todos,Santa Fe,Transferencia,58,0,0.0,0.0879
+anio,2025,Todos,Todas,Todos,5331,265,5.0,
+anio,2025,Todos,Todas,Tarjeta,2937,119,4.1,1.0
+anio,2025,Todos,Todas,Mercado Pago,1419,146,10.3,0.4831
+anio,2025,Todos,Todas,Efectivo,739,0,0.0,0.2516
+anio,2025,Todos,Todas,Transferencia,236,0,0.0,0.0804
+mes,2024-01,Tienda Online,Buenos Aires,Todos,111,12,10.8,
+mes,2024-01,Tienda Online,Buenos Aires,Tarjeta,56,6,10.7,1.0
+mes,2024-01,Tienda Online,Buenos Aires,Mercado Pago,55,6,10.9,0.9821
+mes,2024-01,Tienda Online,Córdoba,Todos,71,5,7.0,
+mes,2024-01,Tienda Online,Córdoba,Tarjeta,44,1,2.3,1.0
+mes,2024-01,Tienda Online,Córdoba,Mercado Pago,27,4,14.8,0.6136
+mes,2024-01,Tienda Online,Mendoza,Todos,32,2,6.3,
+mes,2024-01,Tienda Online,Mendoza,Tarjeta,19,1,5.3,1.0
+mes,2024-01,Tienda Online,Mendoza,Mercado Pago,13,1,7.7,0.6842
+mes,2024-01,Tienda Online,Santa Fe,Todos,78,6,7.7,
+mes,2024-01,Tienda Online,Santa Fe,Tarjeta,46,1,2.2,1.0
+mes,2024-01,Tienda Online,Santa Fe,Mercado Pago,32,5,15.6,0.6957
+mes,2024-01,Tienda Online,Todas,Todos,292,25,8.6,
+mes,2024-01,Tienda Online,Todas,Tarjeta,165,9,5.5,1.0
+mes,2024-01,Tienda Online,Todas,Mercado Pago,127,16,12.6,0.7697
+mes,2024-01,Tiendas Físicas,Buenos Aires,Todos,77,1,1.3,
+mes,2024-01,Tiendas Físicas,Buenos Aires,Tarjeta,43,1,2.3,1.0
+mes,2024-01,Tiendas Físicas,Buenos Aires,Efectivo,25,0,0.0,0.5814
+mes,2024-01,Tiendas Físicas,Buenos Aires,Transferencia,9,0,0.0,0.2093
+mes,2024-01,Tiendas Físicas,Córdoba,Todos,54,0,0.0,
+mes,2024-01,Tiendas Físicas,Córdoba,Tarjeta,22,0,0.0,1.0
+mes,2024-01,Tiendas Físicas,Córdoba,Efectivo,22,0,0.0,1.0
+mes,2024-01,Tiendas Físicas,Córdoba,Transferencia,10,0,0.0,0.4545
+mes,2024-01,Tiendas Físicas,Mendoza,Todos,40,0,0.0,
+mes,2024-01,Tiendas Físicas,Mendoza,Tarjeta,20,0,0.0,1.0
+mes,2024-01,Tiendas Físicas,Mendoza,Efectivo,15,0,0.0,0.75
+mes,2024-01,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.25
+mes,2024-01,Tiendas Físicas,Santa Fe,Todos,46,1,2.2,
+mes,2024-01,Tiendas Físicas,Santa Fe,Tarjeta,23,1,4.3,1.0
+mes,2024-01,Tiendas Físicas,Santa Fe,Efectivo,20,0,0.0,0.8696
+mes,2024-01,Tiendas Físicas,Santa Fe,Transferencia,3,0,0.0,0.1304
+mes,2024-01,Tiendas Físicas,Todas,Todos,217,2,0.9,
+mes,2024-01,Tiendas Físicas,Todas,Tarjeta,108,2,1.9,1.0
+mes,2024-01,Tiendas Físicas,Todas,Efectivo,82,0,0.0,0.7593
+mes,2024-01,Tiendas Físicas,Todas,Transferencia,27,0,0.0,0.25
+mes,2024-01,Todos,Buenos Aires,Todos,188,13,6.9,
+mes,2024-01,Todos,Buenos Aires,Tarjeta,99,7,7.1,1.0
+mes,2024-01,Todos,Buenos Aires,Mercado Pago,55,6,10.9,0.5556
+mes,2024-01,Todos,Buenos Aires,Efectivo,25,0,0.0,0.2525
+mes,2024-01,Todos,Buenos Aires,Transferencia,9,0,0.0,0.0909
+mes,2024-01,Todos,Córdoba,Todos,125,5,4.0,
+mes,2024-01,Todos,Córdoba,Tarjeta,66,1,1.5,1.0
+mes,2024-01,Todos,Córdoba,Mercado Pago,27,4,14.8,0.4091
+mes,2024-01,Todos,Córdoba,Efectivo,22,0,0.0,0.3333
+mes,2024-01,Todos,Córdoba,Transferencia,10,0,0.0,0.1515
+mes,2024-01,Todos,Mendoza,Todos,72,2,2.8,
+mes,2024-01,Todos,Mendoza,Tarjeta,39,1,2.6,1.0
+mes,2024-01,Todos,Mendoza,Efectivo,15,0,0.0,0.3846
+mes,2024-01,Todos,Mendoza,Mercado Pago,13,1,7.7,0.3333
+mes,2024-01,Todos,Mendoza,Transferencia,5,0,0.0,0.1282
+mes,2024-01,Todos,Santa Fe,Todos,124,7,5.6,
+mes,2024-01,Todos,Santa Fe,Tarjeta,69,2,2.9,1.0
+mes,2024-01,Todos,Santa Fe,Mercado Pago,32,5,15.6,0.4638
+mes,2024-01,Todos,Santa Fe,Efectivo,20,0,0.0,0.2899
+mes,2024-01,Todos,Santa Fe,Transferencia,3,0,0.0,0.0435
+mes,2024-01,Todos,Todas,Todos,509,27,5.3,
+mes,2024-01,Todos,Todas,Tarjeta,273,11,4.0,1.0
+mes,2024-01,Todos,Todas,Mercado Pago,127,16,12.6,0.4652
+mes,2024-01,Todos,Todas,Efectivo,82,0,0.0,0.3004
+mes,2024-01,Todos,Todas,Transferencia,27,0,0.0,0.0989
+mes,2024-02,Tienda Online,Buenos Aires,Todos,117,4,3.4,
+mes,2024-02,Tienda Online,Buenos Aires,Tarjeta,66,2,3.0,1.0
+mes,2024-02,Tienda Online,Buenos Aires,Mercado Pago,51,2,3.9,0.7727
+mes,2024-02,Tienda Online,Córdoba,Todos,89,7,7.9,
+mes,2024-02,Tienda Online,Córdoba,Tarjeta,50,4,8.0,1.0
+mes,2024-02,Tienda Online,Córdoba,Mercado Pago,39,3,7.7,0.78
+mes,2024-02,Tienda Online,Mendoza,Todos,43,3,7.0,
+mes,2024-02,Tienda Online,Mendoza,Tarjeta,26,3,11.5,1.0
+mes,2024-02,Tienda Online,Mendoza,Mercado Pago,17,0,0.0,0.6538
+mes,2024-02,Tienda Online,Santa Fe,Todos,71,5,7.0,
+mes,2024-02,Tienda Online,Santa Fe,Tarjeta,43,3,7.0,1.0
+mes,2024-02,Tienda Online,Santa Fe,Mercado Pago,28,2,7.1,0.6512
+mes,2024-02,Tienda Online,Todas,Todos,320,19,5.9,
+mes,2024-02,Tienda Online,Todas,Tarjeta,185,12,6.5,1.0
+mes,2024-02,Tienda Online,Todas,Mercado Pago,135,7,5.2,0.7297
+mes,2024-02,Tiendas Físicas,Buenos Aires,Todos,79,1,1.3,
+mes,2024-02,Tiendas Físicas,Buenos Aires,Tarjeta,37,1,2.7,1.0
+mes,2024-02,Tiendas Físicas,Buenos Aires,Efectivo,32,0,0.0,0.8649
+mes,2024-02,Tiendas Físicas,Buenos Aires,Transferencia,10,0,0.0,0.2703
+mes,2024-02,Tiendas Físicas,Córdoba,Todos,52,1,1.9,
+mes,2024-02,Tiendas Físicas,Córdoba,Tarjeta,26,1,3.8,1.0
+mes,2024-02,Tiendas Físicas,Córdoba,Efectivo,17,0,0.0,0.6538
+mes,2024-02,Tiendas Físicas,Córdoba,Transferencia,9,0,0.0,0.3462
+mes,2024-02,Tiendas Físicas,Mendoza,Todos,47,0,0.0,
+mes,2024-02,Tiendas Físicas,Mendoza,Tarjeta,25,0,0.0,1.0
+mes,2024-02,Tiendas Físicas,Mendoza,Efectivo,18,0,0.0,0.72
+mes,2024-02,Tiendas Físicas,Mendoza,Transferencia,4,0,0.0,0.16
+mes,2024-02,Tiendas Físicas,Santa Fe,Todos,59,0,0.0,
+mes,2024-02,Tiendas Físicas,Santa Fe,Tarjeta,33,0,0.0,1.0
+mes,2024-02,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,0.5152
+mes,2024-02,Tiendas Físicas,Santa Fe,Transferencia,9,0,0.0,0.2727
+mes,2024-02,Tiendas Físicas,Todas,Todos,237,2,0.8,
+mes,2024-02,Tiendas Físicas,Todas,Tarjeta,121,2,1.7,1.0
+mes,2024-02,Tiendas Físicas,Todas,Efectivo,84,0,0.0,0.6942
+mes,2024-02,Tiendas Físicas,Todas,Transferencia,32,0,0.0,0.2645
+mes,2024-02,Todos,Buenos Aires,Todos,196,5,2.6,
+mes,2024-02,Todos,Buenos Aires,Tarjeta,103,3,2.9,1.0
+mes,2024-02,Todos,Buenos Aires,Mercado Pago,51,2,3.9,0.4951
+mes,2024-02,Todos,Buenos Aires,Efectivo,32,0,0.0,0.3107
+mes,2024-02,Todos,Buenos Aires,Transferencia,10,0,0.0,0.0971
+mes,2024-02,Todos,Córdoba,Todos,141,8,5.7,
+mes,2024-02,Todos,Córdoba,Tarjeta,76,5,6.6,1.0
+mes,2024-02,Todos,Córdoba,Mercado Pago,39,3,7.7,0.5132
+mes,2024-02,Todos,Córdoba,Efectivo,17,0,0.0,0.2237
+mes,2024-02,Todos,Córdoba,Transferencia,9,0,0.0,0.1184
+mes,2024-02,Todos,Mendoza,Todos,90,3,3.3,
+mes,2024-02,Todos,Mendoza,Tarjeta,51,3,5.9,1.0
+mes,2024-02,Todos,Mendoza,Efectivo,18,0,0.0,0.3529
+mes,2024-02,Todos,Mendoza,Mercado Pago,17,0,0.0,0.3333
+mes,2024-02,Todos,Mendoza,Transferencia,4,0,0.0,0.0784
+mes,2024-02,Todos,Santa Fe,Todos,130,5,3.8,
+mes,2024-02,Todos,Santa Fe,Tarjeta,76,3,3.9,1.0
+mes,2024-02,Todos,Santa Fe,Mercado Pago,28,2,7.1,0.3684
+mes,2024-02,Todos,Santa Fe,Efectivo,17,0,0.0,0.2237
+mes,2024-02,Todos,Santa Fe,Transferencia,9,0,0.0,0.1184
+mes,2024-02,Todos,Todas,Todos,557,21,3.8,
+mes,2024-02,Todos,Todas,Tarjeta,306,14,4.6,1.0
+mes,2024-02,Todos,Todas,Mercado Pago,135,7,5.2,0.4412
+mes,2024-02,Todos,Todas,Efectivo,84,0,0.0,0.2745
+mes,2024-02,Todos,Todas,Transferencia,32,0,0.0,0.1046
+mes,2024-03,Tienda Online,Buenos Aires,Todos,124,9,7.3,
+mes,2024-03,Tienda Online,Buenos Aires,Tarjeta,75,5,6.7,1.0
+mes,2024-03,Tienda Online,Buenos Aires,Mercado Pago,49,4,8.2,0.6533
+mes,2024-03,Tienda Online,Córdoba,Todos,58,4,6.9,
+mes,2024-03,Tienda Online,Córdoba,Tarjeta,33,2,6.1,1.0
+mes,2024-03,Tienda Online,Córdoba,Mercado Pago,25,2,8.0,0.7576
+mes,2024-03,Tienda Online,Mendoza,Todos,33,1,3.0,
+mes,2024-03,Tienda Online,Mendoza,Tarjeta,21,0,0.0,1.0
+mes,2024-03,Tienda Online,Mendoza,Mercado Pago,12,1,8.3,0.5714
+mes,2024-03,Tienda Online,Santa Fe,Todos,72,6,8.3,
+mes,2024-03,Tienda Online,Santa Fe,Tarjeta,42,2,4.8,1.0
+mes,2024-03,Tienda Online,Santa Fe,Mercado Pago,30,4,13.3,0.7143
+mes,2024-03,Tienda Online,Todas,Todos,287,20,7.0,
+mes,2024-03,Tienda Online,Todas,Tarjeta,171,9,5.3,1.0
+mes,2024-03,Tienda Online,Todas,Mercado Pago,116,11,9.5,0.6784
+mes,2024-03,Tiendas Físicas,Buenos Aires,Todos,70,2,2.9,
+mes,2024-03,Tiendas Físicas,Buenos Aires,Tarjeta,37,2,5.4,1.0
+mes,2024-03,Tiendas Físicas,Buenos Aires,Efectivo,27,0,0.0,0.7297
+mes,2024-03,Tiendas Físicas,Buenos Aires,Transferencia,6,0,0.0,0.1622
+mes,2024-03,Tiendas Físicas,Córdoba,Todos,70,1,1.4,
+mes,2024-03,Tiendas Físicas,Córdoba,Tarjeta,39,1,2.6,1.0
+mes,2024-03,Tiendas Físicas,Córdoba,Efectivo,22,0,0.0,0.5641
+mes,2024-03,Tiendas Físicas,Córdoba,Transferencia,9,0,0.0,0.2308
+mes,2024-03,Tiendas Físicas,Mendoza,Todos,35,0,0.0,
+mes,2024-03,Tiendas Físicas,Mendoza,Tarjeta,20,0,0.0,1.0
+mes,2024-03,Tiendas Físicas,Mendoza,Efectivo,13,0,0.0,0.65
+mes,2024-03,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.1
+mes,2024-03,Tiendas Físicas,Santa Fe,Todos,63,1,1.6,
+mes,2024-03,Tiendas Físicas,Santa Fe,Tarjeta,35,1,2.9,1.0
+mes,2024-03,Tiendas Físicas,Santa Fe,Efectivo,20,0,0.0,0.5714
+mes,2024-03,Tiendas Físicas,Santa Fe,Transferencia,8,0,0.0,0.2286
+mes,2024-03,Tiendas Físicas,Todas,Todos,238,4,1.7,
+mes,2024-03,Tiendas Físicas,Todas,Tarjeta,131,4,3.1,1.0
+mes,2024-03,Tiendas Físicas,Todas,Efectivo,82,0,0.0,0.626
+mes,2024-03,Tiendas Físicas,Todas,Transferencia,25,0,0.0,0.1908
+mes,2024-03,Todos,Buenos Aires,Todos,194,11,5.7,
+mes,2024-03,Todos,Buenos Aires,Tarjeta,112,7,6.3,1.0
+mes,2024-03,Todos,Buenos Aires,Mercado Pago,49,4,8.2,0.4375
+mes,2024-03,Todos,Buenos Aires,Efectivo,27,0,0.0,0.2411
+mes,2024-03,Todos,Buenos Aires,Transferencia,6,0,0.0,0.0536
+mes,2024-03,Todos,Córdoba,Todos,128,5,3.9,
+mes,2024-03,Todos,Córdoba,Tarjeta,72,3,4.2,1.0
+mes,2024-03,Todos,Córdoba,Mercado Pago,25,2,8.0,0.3472
+mes,2024-03,Todos,Córdoba,Efectivo,22,0,0.0,0.3056
+mes,2024-03,Todos,Córdoba,Transferencia,9,0,0.0,0.125
+mes,2024-03,Todos,Mendoza,Todos,68,1,1.5,
+mes,2024-03,Todos,Mendoza,Tarjeta,41,0,0.0,1.0
+mes,2024-03,Todos,Mendoza,Efectivo,13,0,0.0,0.3171
+mes,2024-03,Todos,Mendoza,Mercado Pago,12,1,8.3,0.2927
+mes,2024-03,Todos,Mendoza,Transferencia,2,0,0.0,0.0488
+mes,2024-03,Todos,Santa Fe,Todos,135,7,5.2,
+mes,2024-03,Todos,Santa Fe,Tarjeta,77,3,3.9,1.0
+mes,2024-03,Todos,Santa Fe,Mercado Pago,30,4,13.3,0.3896
+mes,2024-03,Todos,Santa Fe,Efectivo,20,0,0.0,0.2597
+mes,2024-03,Todos,Santa Fe,Transferencia,8,0,0.0,0.1039
+mes,2024-03,Todos,Todas,Todos,525,24,4.6,
+mes,2024-03,Todos,Todas,Tarjeta,302,13,4.3,1.0
+mes,2024-03,Todos,Todas,Mercado Pago,116,11,9.5,0.3841
+mes,2024-03,Todos,Todas,Efectivo,82,0,0.0,0.2715
+mes,2024-03,Todos,Todas,Transferencia,25,0,0.0,0.0828
+mes,2024-04,Tienda Online,Buenos Aires,Todos,115,7,6.1,
+mes,2024-04,Tienda Online,Buenos Aires,Tarjeta,63,3,4.8,1.0
+mes,2024-04,Tienda Online,Buenos Aires,Mercado Pago,52,4,7.7,0.8254
+mes,2024-04,Tienda Online,Córdoba,Todos,54,2,3.7,
+mes,2024-04,Tienda Online,Córdoba,Tarjeta,34,1,2.9,1.0
+mes,2024-04,Tienda Online,Córdoba,Mercado Pago,20,1,5.0,0.5882
+mes,2024-04,Tienda Online,Mendoza,Todos,35,2,5.7,
+mes,2024-04,Tienda Online,Mendoza,Tarjeta,21,0,0.0,1.0
+mes,2024-04,Tienda Online,Mendoza,Mercado Pago,14,2,14.3,0.6667
+mes,2024-04,Tienda Online,Santa Fe,Todos,68,4,5.9,
+mes,2024-04,Tienda Online,Santa Fe,Tarjeta,44,1,2.3,1.0
+mes,2024-04,Tienda Online,Santa Fe,Mercado Pago,24,3,12.5,0.5455
+mes,2024-04,Tienda Online,Todas,Todos,272,15,5.5,
+mes,2024-04,Tienda Online,Todas,Tarjeta,162,5,3.1,1.0
+mes,2024-04,Tienda Online,Todas,Mercado Pago,110,10,9.1,0.679
+mes,2024-04,Tiendas Físicas,Buenos Aires,Todos,49,0,0.0,
+mes,2024-04,Tiendas Físicas,Buenos Aires,Tarjeta,25,0,0.0,1.0
+mes,2024-04,Tiendas Físicas,Buenos Aires,Efectivo,15,0,0.0,0.6
+mes,2024-04,Tiendas Físicas,Buenos Aires,Transferencia,9,0,0.0,0.36
+mes,2024-04,Tiendas Físicas,Córdoba,Todos,42,0,0.0,
+mes,2024-04,Tiendas Físicas,Córdoba,Tarjeta,20,0,0.0,1.0
+mes,2024-04,Tiendas Físicas,Córdoba,Efectivo,17,0,0.0,0.85
+mes,2024-04,Tiendas Físicas,Córdoba,Transferencia,5,0,0.0,0.25
+mes,2024-04,Tiendas Físicas,Mendoza,Todos,43,0,0.0,
+mes,2024-04,Tiendas Físicas,Mendoza,Tarjeta,21,0,0.0,1.0
+mes,2024-04,Tiendas Físicas,Mendoza,Efectivo,18,0,0.0,0.8571
+mes,2024-04,Tiendas Físicas,Mendoza,Transferencia,4,0,0.0,0.1905
+mes,2024-04,Tiendas Físicas,Santa Fe,Todos,62,0,0.0,
+mes,2024-04,Tiendas Físicas,Santa Fe,Tarjeta,35,0,0.0,1.0
+mes,2024-04,Tiendas Físicas,Santa Fe,Efectivo,20,0,0.0,0.5714
+mes,2024-04,Tiendas Físicas,Santa Fe,Transferencia,7,0,0.0,0.2
+mes,2024-04,Tiendas Físicas,Todas,Todos,196,0,0.0,
+mes,2024-04,Tiendas Físicas,Todas,Tarjeta,101,0,0.0,1.0
+mes,2024-04,Tiendas Físicas,Todas,Efectivo,70,0,0.0,0.6931
+mes,2024-04,Tiendas Físicas,Todas,Transferencia,25,0,0.0,0.2475
+mes,2024-04,Todos,Buenos Aires,Todos,164,7,4.3,
+mes,2024-04,Todos,Buenos Aires,Tarjeta,88,3,3.4,1.0
+mes,2024-04,Todos,Buenos Aires,Mercado Pago,52,4,7.7,0.5909
+mes,2024-04,Todos,Buenos Aires,Efectivo,15,0,0.0,0.1705
+mes,2024-04,Todos,Buenos Aires,Transferencia,9,0,0.0,0.1023
+mes,2024-04,Todos,Córdoba,Todos,96,2,2.1,
+mes,2024-04,Todos,Córdoba,Tarjeta,54,1,1.9,1.0
+mes,2024-04,Todos,Córdoba,Mercado Pago,20,1,5.0,0.3704
+mes,2024-04,Todos,Córdoba,Efectivo,17,0,0.0,0.3148
+mes,2024-04,Todos,Córdoba,Transferencia,5,0,0.0,0.0926
+mes,2024-04,Todos,Mendoza,Todos,78,2,2.6,
+mes,2024-04,Todos,Mendoza,Tarjeta,42,0,0.0,1.0
+mes,2024-04,Todos,Mendoza,Efectivo,18,0,0.0,0.4286
+mes,2024-04,Todos,Mendoza,Mercado Pago,14,2,14.3,0.3333
+mes,2024-04,Todos,Mendoza,Transferencia,4,0,0.0,0.0952
+mes,2024-04,Todos,Santa Fe,Todos,130,4,3.1,
+mes,2024-04,Todos,Santa Fe,Tarjeta,79,1,1.3,1.0
+mes,2024-04,Todos,Santa Fe,Mercado Pago,24,3,12.5,0.3038
+mes,2024-04,Todos,Santa Fe,Efectivo,20,0,0.0,0.2532
+mes,2024-04,Todos,Santa Fe,Transferencia,7,0,0.0,0.0886
+mes,2024-04,Todos,Todas,Todos,468,15,3.2,
+mes,2024-04,Todos,Todas,Tarjeta,263,5,1.9,1.0
+mes,2024-04,Todos,Todas,Mercado Pago,110,10,9.1,0.4183
+mes,2024-04,Todos,Todas,Efectivo,70,0,0.0,0.2662
+mes,2024-04,Todos,Todas,Transferencia,25,0,0.0,0.0951
+mes,2024-05,Tienda Online,Buenos Aires,Todos,136,10,7.4,
+mes,2024-05,Tienda Online,Buenos Aires,Tarjeta,78,1,1.3,1.0
+mes,2024-05,Tienda Online,Buenos Aires,Mercado Pago,58,9,15.5,0.7436
+mes,2024-05,Tienda Online,Córdoba,Todos,68,5,7.4,
+mes,2024-05,Tienda Online,Córdoba,Tarjeta,41,2,4.9,1.0
+mes,2024-05,Tienda Online,Córdoba,Mercado Pago,27,3,11.1,0.6585
+mes,2024-05,Tienda Online,Mendoza,Todos,44,2,4.5,
+mes,2024-05,Tienda Online,Mendoza,Tarjeta,26,0,0.0,1.0
+mes,2024-05,Tienda Online,Mendoza,Mercado Pago,18,2,11.1,0.6923
+mes,2024-05,Tienda Online,Santa Fe,Todos,79,7,8.9,
+mes,2024-05,Tienda Online,Santa Fe,Tarjeta,42,3,7.1,1.0
+mes,2024-05,Tienda Online,Santa Fe,Mercado Pago,37,4,10.8,0.881
+mes,2024-05,Tienda Online,Todas,Todos,327,24,7.3,
+mes,2024-05,Tienda Online,Todas,Tarjeta,187,6,3.2,1.0
+mes,2024-05,Tienda Online,Todas,Mercado Pago,140,18,12.9,0.7487
+mes,2024-05,Tiendas Físicas,Buenos Aires,Todos,55,0,0.0,
+mes,2024-05,Tiendas Físicas,Buenos Aires,Efectivo,26,0,0.0,1.0
+mes,2024-05,Tiendas Físicas,Buenos Aires,Tarjeta,26,0,0.0,1.0
+mes,2024-05,Tiendas Físicas,Buenos Aires,Transferencia,3,0,0.0,0.1154
+mes,2024-05,Tiendas Físicas,Córdoba,Todos,56,1,1.8,
+mes,2024-05,Tiendas Físicas,Córdoba,Tarjeta,28,1,3.6,1.0
+mes,2024-05,Tiendas Físicas,Córdoba,Efectivo,22,0,0.0,0.7857
+mes,2024-05,Tiendas Físicas,Córdoba,Transferencia,6,0,0.0,0.2143
+mes,2024-05,Tiendas Físicas,Mendoza,Todos,38,1,2.6,
+mes,2024-05,Tiendas Físicas,Mendoza,Tarjeta,18,1,5.6,1.0
+mes,2024-05,Tiendas Físicas,Mendoza,Efectivo,13,0,0.0,0.7222
+mes,2024-05,Tiendas Físicas,Mendoza,Transferencia,7,0,0.0,0.3889
+mes,2024-05,Tiendas Físicas,Santa Fe,Todos,44,1,2.3,
+mes,2024-05,Tiendas Físicas,Santa Fe,Tarjeta,25,1,4.0,1.0
+mes,2024-05,Tiendas Físicas,Santa Fe,Efectivo,10,0,0.0,0.4
+mes,2024-05,Tiendas Físicas,Santa Fe,Transferencia,9,0,0.0,0.36
+mes,2024-05,Tiendas Físicas,Todas,Todos,193,3,1.6,
+mes,2024-05,Tiendas Físicas,Todas,Tarjeta,97,3,3.1,1.0
+mes,2024-05,Tiendas Físicas,Todas,Efectivo,71,0,0.0,0.732
+mes,2024-05,Tiendas Físicas,Todas,Transferencia,25,0,0.0,0.2577
+mes,2024-05,Todos,Buenos Aires,Todos,191,10,5.2,
+mes,2024-05,Todos,Buenos Aires,Tarjeta,104,1,1.0,1.0
+mes,2024-05,Todos,Buenos Aires,Mercado Pago,58,9,15.5,0.5577
+mes,2024-05,Todos,Buenos Aires,Efectivo,26,0,0.0,0.25
+mes,2024-05,Todos,Buenos Aires,Transferencia,3,0,0.0,0.0288
+mes,2024-05,Todos,Córdoba,Todos,124,6,4.8,
+mes,2024-05,Todos,Córdoba,Tarjeta,69,3,4.3,1.0
+mes,2024-05,Todos,Córdoba,Mercado Pago,27,3,11.1,0.3913
+mes,2024-05,Todos,Córdoba,Efectivo,22,0,0.0,0.3188
+mes,2024-05,Todos,Córdoba,Transferencia,6,0,0.0,0.087
+mes,2024-05,Todos,Mendoza,Todos,82,3,3.7,
+mes,2024-05,Todos,Mendoza,Tarjeta,44,1,2.3,1.0
+mes,2024-05,Todos,Mendoza,Mercado Pago,18,2,11.1,0.4091
+mes,2024-05,Todos,Mendoza,Efectivo,13,0,0.0,0.2955
+mes,2024-05,Todos,Mendoza,Transferencia,7,0,0.0,0.1591
+mes,2024-05,Todos,Santa Fe,Todos,123,8,6.5,
+mes,2024-05,Todos,Santa Fe,Tarjeta,67,4,6.0,1.0
+mes,2024-05,Todos,Santa Fe,Mercado Pago,37,4,10.8,0.5522
+mes,2024-05,Todos,Santa Fe,Efectivo,10,0,0.0,0.1493
+mes,2024-05,Todos,Santa Fe,Transferencia,9,0,0.0,0.1343
+mes,2024-05,Todos,Todas,Todos,520,27,5.2,
+mes,2024-05,Todos,Todas,Tarjeta,284,9,3.2,1.0
+mes,2024-05,Todos,Todas,Mercado Pago,140,18,12.9,0.493
+mes,2024-05,Todos,Todas,Efectivo,71,0,0.0,0.25
+mes,2024-05,Todos,Todas,Transferencia,25,0,0.0,0.088
+mes,2024-06,Tienda Online,Buenos Aires,Todos,133,6,4.5,
+mes,2024-06,Tienda Online,Buenos Aires,Tarjeta,75,2,2.7,1.0
+mes,2024-06,Tienda Online,Buenos Aires,Mercado Pago,58,4,6.9,0.7733
+mes,2024-06,Tienda Online,Córdoba,Todos,70,5,7.1,
+mes,2024-06,Tienda Online,Córdoba,Tarjeta,45,1,2.2,1.0
+mes,2024-06,Tienda Online,Córdoba,Mercado Pago,25,4,16.0,0.5556
+mes,2024-06,Tienda Online,Mendoza,Todos,53,6,11.3,
+mes,2024-06,Tienda Online,Mendoza,Tarjeta,31,3,9.7,1.0
+mes,2024-06,Tienda Online,Mendoza,Mercado Pago,22,3,13.6,0.7097
+mes,2024-06,Tienda Online,Santa Fe,Todos,81,6,7.4,
+mes,2024-06,Tienda Online,Santa Fe,Mercado Pago,43,2,4.7,1.0
+mes,2024-06,Tienda Online,Santa Fe,Tarjeta,38,4,10.5,0.8837
+mes,2024-06,Tienda Online,Todas,Todos,337,23,6.8,
+mes,2024-06,Tienda Online,Todas,Tarjeta,189,10,5.3,1.0
+mes,2024-06,Tienda Online,Todas,Mercado Pago,148,13,8.8,0.7831
+mes,2024-06,Tiendas Físicas,Buenos Aires,Todos,78,1,1.3,
+mes,2024-06,Tiendas Físicas,Buenos Aires,Tarjeta,40,1,2.5,1.0
+mes,2024-06,Tiendas Físicas,Buenos Aires,Efectivo,33,0,0.0,0.825
+mes,2024-06,Tiendas Físicas,Buenos Aires,Transferencia,5,0,0.0,0.125
+mes,2024-06,Tiendas Físicas,Córdoba,Todos,79,1,1.3,
+mes,2024-06,Tiendas Físicas,Córdoba,Tarjeta,50,1,2.0,1.0
+mes,2024-06,Tiendas Físicas,Córdoba,Efectivo,20,0,0.0,0.4
+mes,2024-06,Tiendas Físicas,Córdoba,Transferencia,9,0,0.0,0.18
+mes,2024-06,Tiendas Físicas,Mendoza,Todos,46,1,2.2,
+mes,2024-06,Tiendas Físicas,Mendoza,Tarjeta,23,1,4.3,1.0
+mes,2024-06,Tiendas Físicas,Mendoza,Efectivo,21,0,0.0,0.913
+mes,2024-06,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.087
+mes,2024-06,Tiendas Físicas,Santa Fe,Todos,56,0,0.0,
+mes,2024-06,Tiendas Físicas,Santa Fe,Tarjeta,29,0,0.0,1.0
+mes,2024-06,Tiendas Físicas,Santa Fe,Efectivo,18,0,0.0,0.6207
+mes,2024-06,Tiendas Físicas,Santa Fe,Transferencia,9,0,0.0,0.3103
+mes,2024-06,Tiendas Físicas,Todas,Todos,259,3,1.2,
+mes,2024-06,Tiendas Físicas,Todas,Tarjeta,142,3,2.1,1.0
+mes,2024-06,Tiendas Físicas,Todas,Efectivo,92,0,0.0,0.6479
+mes,2024-06,Tiendas Físicas,Todas,Transferencia,25,0,0.0,0.1761
+mes,2024-06,Todos,Buenos Aires,Todos,211,7,3.3,
+mes,2024-06,Todos,Buenos Aires,Tarjeta,115,3,2.6,1.0
+mes,2024-06,Todos,Buenos Aires,Mercado Pago,58,4,6.9,0.5043
+mes,2024-06,Todos,Buenos Aires,Efectivo,33,0,0.0,0.287
+mes,2024-06,Todos,Buenos Aires,Transferencia,5,0,0.0,0.0435
+mes,2024-06,Todos,Córdoba,Todos,149,6,4.0,
+mes,2024-06,Todos,Córdoba,Tarjeta,95,2,2.1,1.0
+mes,2024-06,Todos,Córdoba,Mercado Pago,25,4,16.0,0.2632
+mes,2024-06,Todos,Córdoba,Efectivo,20,0,0.0,0.2105
+mes,2024-06,Todos,Córdoba,Transferencia,9,0,0.0,0.0947
+mes,2024-06,Todos,Mendoza,Todos,99,7,7.1,
+mes,2024-06,Todos,Mendoza,Tarjeta,54,4,7.4,1.0
+mes,2024-06,Todos,Mendoza,Mercado Pago,22,3,13.6,0.4074
+mes,2024-06,Todos,Mendoza,Efectivo,21,0,0.0,0.3889
+mes,2024-06,Todos,Mendoza,Transferencia,2,0,0.0,0.037
+mes,2024-06,Todos,Santa Fe,Todos,137,6,4.4,
+mes,2024-06,Todos,Santa Fe,Tarjeta,67,4,6.0,1.0
+mes,2024-06,Todos,Santa Fe,Mercado Pago,43,2,4.7,0.6418
+mes,2024-06,Todos,Santa Fe,Efectivo,18,0,0.0,0.2687
+mes,2024-06,Todos,Santa Fe,Transferencia,9,0,0.0,0.1343
+mes,2024-06,Todos,Todas,Todos,596,26,4.4,
+mes,2024-06,Todos,Todas,Tarjeta,331,13,3.9,1.0
+mes,2024-06,Todos,Todas,Mercado Pago,148,13,8.8,0.4471
+mes,2024-06,Todos,Todas,Efectivo,92,0,0.0,0.2779
+mes,2024-06,Todos,Todas,Transferencia,25,0,0.0,0.0755
+mes,2024-07,Tienda Online,Buenos Aires,Todos,98,2,2.0,
+mes,2024-07,Tienda Online,Buenos Aires,Tarjeta,64,1,1.6,1.0
+mes,2024-07,Tienda Online,Buenos Aires,Mercado Pago,34,1,2.9,0.5313
+mes,2024-07,Tienda Online,Córdoba,Todos,48,10,20.8,
+mes,2024-07,Tienda Online,Córdoba,Mercado Pago,28,8,28.6,1.0
+mes,2024-07,Tienda Online,Córdoba,Tarjeta,20,2,10.0,0.7143
+mes,2024-07,Tienda Online,Mendoza,Todos,29,2,6.9,
+mes,2024-07,Tienda Online,Mendoza,Tarjeta,18,0,0.0,1.0
+mes,2024-07,Tienda Online,Mendoza,Mercado Pago,11,2,18.2,0.6111
+mes,2024-07,Tienda Online,Santa Fe,Todos,61,4,6.6,
+mes,2024-07,Tienda Online,Santa Fe,Tarjeta,36,3,8.3,1.0
+mes,2024-07,Tienda Online,Santa Fe,Mercado Pago,25,1,4.0,0.6944
+mes,2024-07,Tienda Online,Todas,Todos,236,18,7.6,
+mes,2024-07,Tienda Online,Todas,Tarjeta,138,6,4.3,1.0
+mes,2024-07,Tienda Online,Todas,Mercado Pago,98,12,12.2,0.7101
+mes,2024-07,Tiendas Físicas,Buenos Aires,Todos,57,1,1.8,
+mes,2024-07,Tiendas Físicas,Buenos Aires,Tarjeta,29,1,3.4,1.0
+mes,2024-07,Tiendas Físicas,Buenos Aires,Efectivo,23,0,0.0,0.7931
+mes,2024-07,Tiendas Físicas,Buenos Aires,Transferencia,5,0,0.0,0.1724
+mes,2024-07,Tiendas Físicas,Córdoba,Todos,50,0,0.0,
+mes,2024-07,Tiendas Físicas,Córdoba,Tarjeta,26,0,0.0,1.0
+mes,2024-07,Tiendas Físicas,Córdoba,Efectivo,21,0,0.0,0.8077
+mes,2024-07,Tiendas Físicas,Córdoba,Transferencia,3,0,0.0,0.1154
+mes,2024-07,Tiendas Físicas,Mendoza,Todos,40,0,0.0,
+mes,2024-07,Tiendas Físicas,Mendoza,Tarjeta,20,0,0.0,1.0
+mes,2024-07,Tiendas Físicas,Mendoza,Efectivo,15,0,0.0,0.75
+mes,2024-07,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.25
+mes,2024-07,Tiendas Físicas,Santa Fe,Todos,42,0,0.0,
+mes,2024-07,Tiendas Físicas,Santa Fe,Tarjeta,22,0,0.0,1.0
+mes,2024-07,Tiendas Físicas,Santa Fe,Efectivo,15,0,0.0,0.6818
+mes,2024-07,Tiendas Físicas,Santa Fe,Transferencia,5,0,0.0,0.2273
+mes,2024-07,Tiendas Físicas,Todas,Todos,189,1,0.5,
+mes,2024-07,Tiendas Físicas,Todas,Tarjeta,97,1,1.0,1.0
+mes,2024-07,Tiendas Físicas,Todas,Efectivo,74,0,0.0,0.7629
+mes,2024-07,Tiendas Físicas,Todas,Transferencia,18,0,0.0,0.1856
+mes,2024-07,Todos,Buenos Aires,Todos,155,3,1.9,
+mes,2024-07,Todos,Buenos Aires,Tarjeta,93,2,2.2,1.0
+mes,2024-07,Todos,Buenos Aires,Mercado Pago,34,1,2.9,0.3656
+mes,2024-07,Todos,Buenos Aires,Efectivo,23,0,0.0,0.2473
+mes,2024-07,Todos,Buenos Aires,Transferencia,5,0,0.0,0.0538
+mes,2024-07,Todos,Córdoba,Todos,98,10,10.2,
+mes,2024-07,Todos,Córdoba,Tarjeta,46,2,4.3,1.0
+mes,2024-07,Todos,Córdoba,Mercado Pago,28,8,28.6,0.6087
+mes,2024-07,Todos,Córdoba,Efectivo,21,0,0.0,0.4565
+mes,2024-07,Todos,Córdoba,Transferencia,3,0,0.0,0.0652
+mes,2024-07,Todos,Mendoza,Todos,69,2,2.9,
+mes,2024-07,Todos,Mendoza,Tarjeta,38,0,0.0,1.0
+mes,2024-07,Todos,Mendoza,Efectivo,15,0,0.0,0.3947
+mes,2024-07,Todos,Mendoza,Mercado Pago,11,2,18.2,0.2895
+mes,2024-07,Todos,Mendoza,Transferencia,5,0,0.0,0.1316
+mes,2024-07,Todos,Santa Fe,Todos,103,4,3.9,
+mes,2024-07,Todos,Santa Fe,Tarjeta,58,3,5.2,1.0
+mes,2024-07,Todos,Santa Fe,Mercado Pago,25,1,4.0,0.431
+mes,2024-07,Todos,Santa Fe,Efectivo,15,0,0.0,0.2586
+mes,2024-07,Todos,Santa Fe,Transferencia,5,0,0.0,0.0862
+mes,2024-07,Todos,Todas,Todos,425,19,4.5,
+mes,2024-07,Todos,Todas,Tarjeta,235,7,3.0,1.0
+mes,2024-07,Todos,Todas,Mercado Pago,98,12,12.2,0.417
+mes,2024-07,Todos,Todas,Efectivo,74,0,0.0,0.3149
+mes,2024-07,Todos,Todas,Transferencia,18,0,0.0,0.0766
+mes,2024-08,Tienda Online,Buenos Aires,Todos,127,4,3.1,
+mes,2024-08,Tienda Online,Buenos Aires,Tarjeta,74,3,4.1,1.0
+mes,2024-08,Tienda Online,Buenos Aires,Mercado Pago,53,1,1.9,0.7162
+mes,2024-08,Tienda Online,Córdoba,Todos,62,3,4.8,
+mes,2024-08,Tienda Online,Córdoba,Tarjeta,39,2,5.1,1.0
+mes,2024-08,Tienda Online,Córdoba,Mercado Pago,23,1,4.3,0.5897
+mes,2024-08,Tienda Online,Mendoza,Todos,26,2,7.7,
+mes,2024-08,Tienda Online,Mendoza,Tarjeta,13,2,15.4,1.0
+mes,2024-08,Tienda Online,Mendoza,Mercado Pago,13,0,0.0,1.0
+mes,2024-08,Tienda Online,Santa Fe,Todos,64,3,4.7,
+mes,2024-08,Tienda Online,Santa Fe,Tarjeta,34,0,0.0,1.0
+mes,2024-08,Tienda Online,Santa Fe,Mercado Pago,30,3,10.0,0.8824
+mes,2024-08,Tienda Online,Todas,Todos,279,12,4.3,
+mes,2024-08,Tienda Online,Todas,Tarjeta,160,7,4.4,1.0
+mes,2024-08,Tienda Online,Todas,Mercado Pago,119,5,4.2,0.7438
+mes,2024-08,Tiendas Físicas,Buenos Aires,Todos,56,2,3.6,
+mes,2024-08,Tiendas Físicas,Buenos Aires,Tarjeta,31,2,6.5,1.0
+mes,2024-08,Tiendas Físicas,Buenos Aires,Efectivo,20,0,0.0,0.6452
+mes,2024-08,Tiendas Físicas,Buenos Aires,Transferencia,5,0,0.0,0.1613
+mes,2024-08,Tiendas Físicas,Córdoba,Todos,50,1,2.0,
+mes,2024-08,Tiendas Físicas,Córdoba,Tarjeta,25,1,4.0,1.0
+mes,2024-08,Tiendas Físicas,Córdoba,Efectivo,20,0,0.0,0.8
+mes,2024-08,Tiendas Físicas,Córdoba,Transferencia,5,0,0.0,0.2
+mes,2024-08,Tiendas Físicas,Mendoza,Todos,50,0,0.0,
+mes,2024-08,Tiendas Físicas,Mendoza,Tarjeta,31,0,0.0,1.0
+mes,2024-08,Tiendas Físicas,Mendoza,Efectivo,16,0,0.0,0.5161
+mes,2024-08,Tiendas Físicas,Mendoza,Transferencia,3,0,0.0,0.0968
+mes,2024-08,Tiendas Físicas,Santa Fe,Todos,50,0,0.0,
+mes,2024-08,Tiendas Físicas,Santa Fe,Efectivo,23,0,0.0,1.0
+mes,2024-08,Tiendas Físicas,Santa Fe,Tarjeta,22,0,0.0,0.9565
+mes,2024-08,Tiendas Físicas,Santa Fe,Transferencia,5,0,0.0,0.2174
+mes,2024-08,Tiendas Físicas,Todas,Todos,206,3,1.5,
+mes,2024-08,Tiendas Físicas,Todas,Tarjeta,109,3,2.8,1.0
+mes,2024-08,Tiendas Físicas,Todas,Efectivo,79,0,0.0,0.7248
+mes,2024-08,Tiendas Físicas,Todas,Transferencia,18,0,0.0,0.1651
+mes,2024-08,Todos,Buenos Aires,Todos,183,6,3.3,
+mes,2024-08,Todos,Buenos Aires,Tarjeta,105,5,4.8,1.0
+mes,2024-08,Todos,Buenos Aires,Mercado Pago,53,1,1.9,0.5048
+mes,2024-08,Todos,Buenos Aires,Efectivo,20,0,0.0,0.1905
+mes,2024-08,Todos,Buenos Aires,Transferencia,5,0,0.0,0.0476
+mes,2024-08,Todos,Córdoba,Todos,112,4,3.6,
+mes,2024-08,Todos,Córdoba,Tarjeta,64,3,4.7,1.0
+mes,2024-08,Todos,Córdoba,Mercado Pago,23,1,4.3,0.3594
+mes,2024-08,Todos,Córdoba,Efectivo,20,0,0.0,0.3125
+mes,2024-08,Todos,Córdoba,Transferencia,5,0,0.0,0.0781
+mes,2024-08,Todos,Mendoza,Todos,76,2,2.6,
+mes,2024-08,Todos,Mendoza,Tarjeta,44,2,4.5,1.0
+mes,2024-08,Todos,Mendoza,Efectivo,16,0,0.0,0.3636
+mes,2024-08,Todos,Mendoza,Mercado Pago,13,0,0.0,0.2955
+mes,2024-08,Todos,Mendoza,Transferencia,3,0,0.0,0.0682
+mes,2024-08,Todos,Santa Fe,Todos,114,3,2.6,
+mes,2024-08,Todos,Santa Fe,Tarjeta,56,0,0.0,1.0
+mes,2024-08,Todos,Santa Fe,Mercado Pago,30,3,10.0,0.5357
+mes,2024-08,Todos,Santa Fe,Efectivo,23,0,0.0,0.4107
+mes,2024-08,Todos,Santa Fe,Transferencia,5,0,0.0,0.0893
+mes,2024-08,Todos,Todas,Todos,485,15,3.1,
+mes,2024-08,Todos,Todas,Tarjeta,269,10,3.7,1.0
+mes,2024-08,Todos,Todas,Mercado Pago,119,5,4.2,0.4424
+mes,2024-08,Todos,Todas,Efectivo,79,0,0.0,0.2937
+mes,2024-08,Todos,Todas,Transferencia,18,0,0.0,0.0669
+mes,2024-09,Tienda Online,Buenos Aires,Todos,115,8,7.0,
+mes,2024-09,Tienda Online,Buenos Aires,Tarjeta,64,5,7.8,1.0
+mes,2024-09,Tienda Online,Buenos Aires,Mercado Pago,51,3,5.9,0.7969
+mes,2024-09,Tienda Online,Córdoba,Todos,62,3,4.8,
+mes,2024-09,Tienda Online,Córdoba,Tarjeta,33,0,0.0,1.0
+mes,2024-09,Tienda Online,Córdoba,Mercado Pago,29,3,10.3,0.8788
+mes,2024-09,Tienda Online,Mendoza,Todos,29,0,0.0,
+mes,2024-09,Tienda Online,Mendoza,Tarjeta,16,0,0.0,1.0
+mes,2024-09,Tienda Online,Mendoza,Mercado Pago,13,0,0.0,0.8125
+mes,2024-09,Tienda Online,Santa Fe,Todos,68,3,4.4,
+mes,2024-09,Tienda Online,Santa Fe,Tarjeta,42,1,2.4,1.0
+mes,2024-09,Tienda Online,Santa Fe,Mercado Pago,26,2,7.7,0.619
+mes,2024-09,Tienda Online,Todas,Todos,274,14,5.1,
+mes,2024-09,Tienda Online,Todas,Tarjeta,155,6,3.9,1.0
+mes,2024-09,Tienda Online,Todas,Mercado Pago,119,8,6.7,0.7677
+mes,2024-09,Tiendas Físicas,Buenos Aires,Todos,60,0,0.0,
+mes,2024-09,Tiendas Físicas,Buenos Aires,Efectivo,29,0,0.0,1.0
+mes,2024-09,Tiendas Físicas,Buenos Aires,Tarjeta,28,0,0.0,0.9655
+mes,2024-09,Tiendas Físicas,Buenos Aires,Transferencia,3,0,0.0,0.1034
+mes,2024-09,Tiendas Físicas,Córdoba,Todos,51,1,2.0,
+mes,2024-09,Tiendas Físicas,Córdoba,Tarjeta,29,1,3.4,1.0
+mes,2024-09,Tiendas Físicas,Córdoba,Efectivo,18,0,0.0,0.6207
+mes,2024-09,Tiendas Físicas,Córdoba,Transferencia,4,0,0.0,0.1379
+mes,2024-09,Tiendas Físicas,Mendoza,Todos,45,0,0.0,
+mes,2024-09,Tiendas Físicas,Mendoza,Tarjeta,21,0,0.0,1.0
+mes,2024-09,Tiendas Físicas,Mendoza,Efectivo,19,0,0.0,0.9048
+mes,2024-09,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.2381
+mes,2024-09,Tiendas Físicas,Santa Fe,Todos,43,0,0.0,
+mes,2024-09,Tiendas Físicas,Santa Fe,Tarjeta,23,0,0.0,1.0
+mes,2024-09,Tiendas Físicas,Santa Fe,Efectivo,12,0,0.0,0.5217
+mes,2024-09,Tiendas Físicas,Santa Fe,Transferencia,8,0,0.0,0.3478
+mes,2024-09,Tiendas Físicas,Todas,Todos,199,1,0.5,
+mes,2024-09,Tiendas Físicas,Todas,Tarjeta,101,1,1.0,1.0
+mes,2024-09,Tiendas Físicas,Todas,Efectivo,78,0,0.0,0.7723
+mes,2024-09,Tiendas Físicas,Todas,Transferencia,20,0,0.0,0.198
+mes,2024-09,Todos,Buenos Aires,Todos,175,8,4.6,
+mes,2024-09,Todos,Buenos Aires,Tarjeta,92,5,5.4,1.0
+mes,2024-09,Todos,Buenos Aires,Mercado Pago,51,3,5.9,0.5543
+mes,2024-09,Todos,Buenos Aires,Efectivo,29,0,0.0,0.3152
+mes,2024-09,Todos,Buenos Aires,Transferencia,3,0,0.0,0.0326
+mes,2024-09,Todos,Córdoba,Todos,113,4,3.5,
+mes,2024-09,Todos,Córdoba,Tarjeta,62,1,1.6,1.0
+mes,2024-09,Todos,Córdoba,Mercado Pago,29,3,10.3,0.4677
+mes,2024-09,Todos,Córdoba,Efectivo,18,0,0.0,0.2903
+mes,2024-09,Todos,Córdoba,Transferencia,4,0,0.0,0.0645
+mes,2024-09,Todos,Mendoza,Todos,74,0,0.0,
+mes,2024-09,Todos,Mendoza,Tarjeta,37,0,0.0,1.0
+mes,2024-09,Todos,Mendoza,Efectivo,19,0,0.0,0.5135
+mes,2024-09,Todos,Mendoza,Mercado Pago,13,0,0.0,0.3514
+mes,2024-09,Todos,Mendoza,Transferencia,5,0,0.0,0.1351
+mes,2024-09,Todos,Santa Fe,Todos,111,3,2.7,
+mes,2024-09,Todos,Santa Fe,Tarjeta,65,1,1.5,1.0
+mes,2024-09,Todos,Santa Fe,Mercado Pago,26,2,7.7,0.4
+mes,2024-09,Todos,Santa Fe,Efectivo,12,0,0.0,0.1846
+mes,2024-09,Todos,Santa Fe,Transferencia,8,0,0.0,0.1231
+mes,2024-09,Todos,Todas,Todos,473,15,3.2,
+mes,2024-09,Todos,Todas,Tarjeta,256,7,2.7,1.0
+mes,2024-09,Todos,Todas,Mercado Pago,119,8,6.7,0.4648
+mes,2024-09,Todos,Todas,Efectivo,78,0,0.0,0.3047
+mes,2024-09,Todos,Todas,Transferencia,20,0,0.0,0.0781
+mes,2024-10,Tienda Online,Buenos Aires,Todos,133,11,8.3,
+mes,2024-10,Tienda Online,Buenos Aires,Tarjeta,68,4,5.9,1.0
+mes,2024-10,Tienda Online,Buenos Aires,Mercado Pago,65,7,10.8,0.9559
+mes,2024-10,Tienda Online,Córdoba,Todos,79,3,3.8,
+mes,2024-10,Tienda Online,Córdoba,Tarjeta,46,1,2.2,1.0
+mes,2024-10,Tienda Online,Córdoba,Mercado Pago,33,2,6.1,0.7174
+mes,2024-10,Tienda Online,Mendoza,Todos,58,6,10.3,
+mes,2024-10,Tienda Online,Mendoza,Tarjeta,33,2,6.1,1.0
+mes,2024-10,Tienda Online,Mendoza,Mercado Pago,25,4,16.0,0.7576
+mes,2024-10,Tienda Online,Santa Fe,Todos,91,6,6.6,
+mes,2024-10,Tienda Online,Santa Fe,Mercado Pago,47,3,6.4,1.0
+mes,2024-10,Tienda Online,Santa Fe,Tarjeta,44,3,6.8,0.9362
+mes,2024-10,Tienda Online,Todas,Todos,361,26,7.2,
+mes,2024-10,Tienda Online,Todas,Tarjeta,191,10,5.2,1.0
+mes,2024-10,Tienda Online,Todas,Mercado Pago,170,16,9.4,0.8901
+mes,2024-10,Tiendas Físicas,Buenos Aires,Todos,67,1,1.5,
+mes,2024-10,Tiendas Físicas,Buenos Aires,Tarjeta,35,1,2.9,1.0
+mes,2024-10,Tiendas Físicas,Buenos Aires,Efectivo,24,0,0.0,0.6857
+mes,2024-10,Tiendas Físicas,Buenos Aires,Transferencia,8,0,0.0,0.2286
+mes,2024-10,Tiendas Físicas,Córdoba,Todos,58,3,5.2,
+mes,2024-10,Tiendas Físicas,Córdoba,Tarjeta,29,3,10.3,1.0
+mes,2024-10,Tiendas Físicas,Córdoba,Efectivo,25,0,0.0,0.8621
+mes,2024-10,Tiendas Físicas,Córdoba,Transferencia,4,0,0.0,0.1379
+mes,2024-10,Tiendas Físicas,Mendoza,Todos,47,1,2.1,
+mes,2024-10,Tiendas Físicas,Mendoza,Tarjeta,27,1,3.7,1.0
+mes,2024-10,Tiendas Físicas,Mendoza,Efectivo,16,0,0.0,0.5926
+mes,2024-10,Tiendas Físicas,Mendoza,Transferencia,4,0,0.0,0.1481
+mes,2024-10,Tiendas Físicas,Santa Fe,Todos,57,0,0.0,
+mes,2024-10,Tiendas Físicas,Santa Fe,Tarjeta,29,0,0.0,1.0
+mes,2024-10,Tiendas Físicas,Santa Fe,Efectivo,22,0,0.0,0.7586
+mes,2024-10,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.2069
+mes,2024-10,Tiendas Físicas,Todas,Todos,229,5,2.2,
+mes,2024-10,Tiendas Físicas,Todas,Tarjeta,120,5,4.2,1.0
+mes,2024-10,Tiendas Físicas,Todas,Efectivo,87,0,0.0,0.725
+mes,2024-10,Tiendas Físicas,Todas,Transferencia,22,0,0.0,0.1833
+mes,2024-10,Todos,Buenos Aires,Todos,200,12,6.0,
+mes,2024-10,Todos,Buenos Aires,Tarjeta,103,5,4.9,1.0
+mes,2024-10,Todos,Buenos Aires,Mercado Pago,65,7,10.8,0.6311
+mes,2024-10,Todos,Buenos Aires,Efectivo,24,0,0.0,0.233
+mes,2024-10,Todos,Buenos Aires,Transferencia,8,0,0.0,0.0777
+mes,2024-10,Todos,Córdoba,Todos,137,6,4.4,
+mes,2024-10,Todos,Córdoba,Tarjeta,75,4,5.3,1.0
+mes,2024-10,Todos,Córdoba,Mercado Pago,33,2,6.1,0.44
+mes,2024-10,Todos,Córdoba,Efectivo,25,0,0.0,0.3333
+mes,2024-10,Todos,Córdoba,Transferencia,4,0,0.0,0.0533
+mes,2024-10,Todos,Mendoza,Todos,105,7,6.7,
+mes,2024-10,Todos,Mendoza,Tarjeta,60,3,5.0,1.0
+mes,2024-10,Todos,Mendoza,Mercado Pago,25,4,16.0,0.4167
+mes,2024-10,Todos,Mendoza,Efectivo,16,0,0.0,0.2667
+mes,2024-10,Todos,Mendoza,Transferencia,4,0,0.0,0.0667
+mes,2024-10,Todos,Santa Fe,Todos,148,6,4.1,
+mes,2024-10,Todos,Santa Fe,Tarjeta,73,3,4.1,1.0
+mes,2024-10,Todos,Santa Fe,Mercado Pago,47,3,6.4,0.6438
+mes,2024-10,Todos,Santa Fe,Efectivo,22,0,0.0,0.3014
+mes,2024-10,Todos,Santa Fe,Transferencia,6,0,0.0,0.0822
+mes,2024-10,Todos,Todas,Todos,590,31,5.3,
+mes,2024-10,Todos,Todas,Tarjeta,311,15,4.8,1.0
+mes,2024-10,Todos,Todas,Mercado Pago,170,16,9.4,0.5466
+mes,2024-10,Todos,Todas,Efectivo,87,0,0.0,0.2797
+mes,2024-10,Todos,Todas,Transferencia,22,0,0.0,0.0707
+mes,2024-11,Tienda Online,Buenos Aires,Todos,176,15,8.5,
+mes,2024-11,Tienda Online,Buenos Aires,Tarjeta,107,7,6.5,1.0
+mes,2024-11,Tienda Online,Buenos Aires,Mercado Pago,69,8,11.6,0.6449
+mes,2024-11,Tienda Online,Córdoba,Todos,95,4,4.2,
+mes,2024-11,Tienda Online,Córdoba,Tarjeta,52,0,0.0,1.0
+mes,2024-11,Tienda Online,Córdoba,Mercado Pago,43,4,9.3,0.8269
+mes,2024-11,Tienda Online,Mendoza,Todos,58,5,8.6,
+mes,2024-11,Tienda Online,Mendoza,Mercado Pago,32,5,15.6,1.0
+mes,2024-11,Tienda Online,Mendoza,Tarjeta,26,0,0.0,0.8125
+mes,2024-11,Tienda Online,Santa Fe,Todos,82,6,7.3,
+mes,2024-11,Tienda Online,Santa Fe,Tarjeta,48,3,6.3,1.0
+mes,2024-11,Tienda Online,Santa Fe,Mercado Pago,34,3,8.8,0.7083
+mes,2024-11,Tienda Online,Todas,Todos,411,30,7.3,
+mes,2024-11,Tienda Online,Todas,Tarjeta,233,10,4.3,1.0
+mes,2024-11,Tienda Online,Todas,Mercado Pago,178,20,11.2,0.7639
+mes,2024-11,Tiendas Físicas,Buenos Aires,Todos,73,1,1.4,
+mes,2024-11,Tiendas Físicas,Buenos Aires,Efectivo,32,0,0.0,1.0
+mes,2024-11,Tiendas Físicas,Buenos Aires,Tarjeta,30,1,3.3,0.9375
+mes,2024-11,Tiendas Físicas,Buenos Aires,Transferencia,11,0,0.0,0.3438
+mes,2024-11,Tiendas Físicas,Córdoba,Todos,48,1,2.1,
+mes,2024-11,Tiendas Físicas,Córdoba,Efectivo,24,0,0.0,1.0
+mes,2024-11,Tiendas Físicas,Córdoba,Tarjeta,13,1,7.7,0.5417
+mes,2024-11,Tiendas Físicas,Córdoba,Transferencia,11,0,0.0,0.4583
+mes,2024-11,Tiendas Físicas,Mendoza,Todos,36,0,0.0,
+mes,2024-11,Tiendas Físicas,Mendoza,Efectivo,16,0,0.0,1.0
+mes,2024-11,Tiendas Físicas,Mendoza,Tarjeta,15,0,0.0,0.9375
+mes,2024-11,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.3125
+mes,2024-11,Tiendas Físicas,Santa Fe,Todos,57,1,1.8,
+mes,2024-11,Tiendas Físicas,Santa Fe,Efectivo,31,0,0.0,1.0
+mes,2024-11,Tiendas Físicas,Santa Fe,Tarjeta,20,1,5.0,0.6452
+mes,2024-11,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.1935
+mes,2024-11,Tiendas Físicas,Todas,Todos,214,3,1.4,
+mes,2024-11,Tiendas Físicas,Todas,Efectivo,103,0,0.0,1.0
+mes,2024-11,Tiendas Físicas,Todas,Tarjeta,78,3,3.8,0.7573
+mes,2024-11,Tiendas Físicas,Todas,Transferencia,33,0,0.0,0.3204
+mes,2024-11,Todos,Buenos Aires,Todos,249,16,6.4,
+mes,2024-11,Todos,Buenos Aires,Tarjeta,137,8,5.8,1.0
+mes,2024-11,Todos,Buenos Aires,Mercado Pago,69,8,11.6,0.5036
+mes,2024-11,Todos,Buenos Aires,Efectivo,32,0,0.0,0.2336
+mes,2024-11,Todos,Buenos Aires,Transferencia,11,0,0.0,0.0803
+mes,2024-11,Todos,Córdoba,Todos,143,5,3.5,
+mes,2024-11,Todos,Córdoba,Tarjeta,65,1,1.5,1.0
+mes,2024-11,Todos,Córdoba,Mercado Pago,43,4,9.3,0.6615
+mes,2024-11,Todos,Córdoba,Efectivo,24,0,0.0,0.3692
+mes,2024-11,Todos,Córdoba,Transferencia,11,0,0.0,0.1692
+mes,2024-11,Todos,Mendoza,Todos,94,5,5.3,
+mes,2024-11,Todos,Mendoza,Tarjeta,41,0,0.0,1.0
+mes,2024-11,Todos,Mendoza,Mercado Pago,32,5,15.6,0.7805
+mes,2024-11,Todos,Mendoza,Efectivo,16,0,0.0,0.3902
+mes,2024-11,Todos,Mendoza,Transferencia,5,0,0.0,0.122
+mes,2024-11,Todos,Santa Fe,Todos,139,7,5.0,
+mes,2024-11,Todos,Santa Fe,Tarjeta,68,4,5.9,1.0
+mes,2024-11,Todos,Santa Fe,Mercado Pago,34,3,8.8,0.5
+mes,2024-11,Todos,Santa Fe,Efectivo,31,0,0.0,0.4559
+mes,2024-11,Todos,Santa Fe,Transferencia,6,0,0.0,0.0882
+mes,2024-11,Todos,Todas,Todos,625,33,5.3,
+mes,2024-11,Todos,Todas,Tarjeta,311,13,4.2,1.0
+mes,2024-11,Todos,Todas,Mercado Pago,178,20,11.2,0.5723
+mes,2024-11,Todos,Todas,Efectivo,103,0,0.0,0.3312
+mes,2024-11,Todos,Todas,Transferencia,33,0,0.0,0.1061
+mes,2024-12,Tienda Online,Buenos Aires,Todos,237,16,6.8,
+mes,2024-12,Tienda Online,Buenos Aires,Tarjeta,142,10,7.0,1.0
+mes,2024-12,Tienda Online,Buenos Aires,Mercado Pago,95,6,6.3,0.669
+mes,2024-12,Tienda Online,Córdoba,Todos,103,9,8.7,
+mes,2024-12,Tienda Online,Córdoba,Tarjeta,68,4,5.9,1.0
+mes,2024-12,Tienda Online,Córdoba,Mercado Pago,35,5,14.3,0.5147
+mes,2024-12,Tienda Online,Mendoza,Todos,80,6,7.5,
+mes,2024-12,Tienda Online,Mendoza,Tarjeta,48,2,4.2,1.0
+mes,2024-12,Tienda Online,Mendoza,Mercado Pago,32,4,12.5,0.6667
+mes,2024-12,Tienda Online,Santa Fe,Todos,121,9,7.4,
+mes,2024-12,Tienda Online,Santa Fe,Tarjeta,69,3,4.3,1.0
+mes,2024-12,Tienda Online,Santa Fe,Mercado Pago,52,6,11.5,0.7536
+mes,2024-12,Tienda Online,Todas,Todos,541,40,7.4,
+mes,2024-12,Tienda Online,Todas,Tarjeta,327,19,5.8,1.0
+mes,2024-12,Tienda Online,Todas,Mercado Pago,214,21,9.8,0.6544
+mes,2024-12,Tiendas Físicas,Buenos Aires,Todos,108,2,1.9,
+mes,2024-12,Tiendas Físicas,Buenos Aires,Tarjeta,50,2,4.0,1.0
+mes,2024-12,Tiendas Físicas,Buenos Aires,Efectivo,47,0,0.0,0.94
+mes,2024-12,Tiendas Físicas,Buenos Aires,Transferencia,11,0,0.0,0.22
+mes,2024-12,Tiendas Físicas,Córdoba,Todos,99,2,2.0,
+mes,2024-12,Tiendas Físicas,Córdoba,Tarjeta,55,2,3.6,1.0
+mes,2024-12,Tiendas Físicas,Córdoba,Efectivo,31,0,0.0,0.5636
+mes,2024-12,Tiendas Físicas,Córdoba,Transferencia,13,0,0.0,0.2364
+mes,2024-12,Tiendas Físicas,Mendoza,Todos,62,1,1.6,
+mes,2024-12,Tiendas Físicas,Mendoza,Efectivo,31,0,0.0,1.0
+mes,2024-12,Tiendas Físicas,Mendoza,Tarjeta,23,1,4.3,0.7419
+mes,2024-12,Tiendas Físicas,Mendoza,Transferencia,8,0,0.0,0.2581
+mes,2024-12,Tiendas Físicas,Santa Fe,Todos,55,2,3.6,
+mes,2024-12,Tiendas Físicas,Santa Fe,Tarjeta,28,2,7.1,1.0
+mes,2024-12,Tiendas Físicas,Santa Fe,Efectivo,21,0,0.0,0.75
+mes,2024-12,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.2143
+mes,2024-12,Tiendas Físicas,Todas,Todos,324,7,2.2,
+mes,2024-12,Tiendas Físicas,Todas,Tarjeta,156,7,4.5,1.0
+mes,2024-12,Tiendas Físicas,Todas,Efectivo,130,0,0.0,0.8333
+mes,2024-12,Tiendas Físicas,Todas,Transferencia,38,0,0.0,0.2436
+mes,2024-12,Todos,Buenos Aires,Todos,345,18,5.2,
+mes,2024-12,Todos,Buenos Aires,Tarjeta,192,12,6.3,1.0
+mes,2024-12,Todos,Buenos Aires,Mercado Pago,95,6,6.3,0.4948
+mes,2024-12,Todos,Buenos Aires,Efectivo,47,0,0.0,0.2448
+mes,2024-12,Todos,Buenos Aires,Transferencia,11,0,0.0,0.0573
+mes,2024-12,Todos,Córdoba,Todos,202,11,5.4,
+mes,2024-12,Todos,Córdoba,Tarjeta,123,6,4.9,1.0
+mes,2024-12,Todos,Córdoba,Mercado Pago,35,5,14.3,0.2846
+mes,2024-12,Todos,Córdoba,Efectivo,31,0,0.0,0.252
+mes,2024-12,Todos,Córdoba,Transferencia,13,0,0.0,0.1057
+mes,2024-12,Todos,Mendoza,Todos,142,7,4.9,
+mes,2024-12,Todos,Mendoza,Tarjeta,71,3,4.2,1.0
+mes,2024-12,Todos,Mendoza,Mercado Pago,32,4,12.5,0.4507
+mes,2024-12,Todos,Mendoza,Efectivo,31,0,0.0,0.4366
+mes,2024-12,Todos,Mendoza,Transferencia,8,0,0.0,0.1127
+mes,2024-12,Todos,Santa Fe,Todos,176,11,6.3,
+mes,2024-12,Todos,Santa Fe,Tarjeta,97,5,5.2,1.0
+mes,2024-12,Todos,Santa Fe,Mercado Pago,52,6,11.5,0.5361
+mes,2024-12,Todos,Santa Fe,Efectivo,21,0,0.0,0.2165
+mes,2024-12,Todos,Santa Fe,Transferencia,6,0,0.0,0.0619
+mes,2024-12,Todos,Todas,Todos,865,47,5.4,
+mes,2024-12,Todos,Todas,Tarjeta,483,26,5.4,1.0
+mes,2024-12,Todos,Todas,Mercado Pago,214,21,9.8,0.4431
+mes,2024-12,Todos,Todas,Efectivo,130,0,0.0,0.2692
+mes,2024-12,Todos,Todas,Transferencia,38,0,0.0,0.0787
+mes,2025-01,Tienda Online,Buenos Aires,Todos,158,11,7.0,
+mes,2025-01,Tienda Online,Buenos Aires,Tarjeta,85,6,7.1,1.0
+mes,2025-01,Tienda Online,Buenos Aires,Mercado Pago,73,5,6.8,0.8588
+mes,2025-01,Tienda Online,Córdoba,Todos,83,8,9.6,
+mes,2025-01,Tienda Online,Córdoba,Tarjeta,46,2,4.3,1.0
+mes,2025-01,Tienda Online,Córdoba,Mercado Pago,37,6,16.2,0.8043
+mes,2025-01,Tienda Online,Mendoza,Todos,58,6,10.3,
+mes,2025-01,Tienda Online,Mendoza,Tarjeta,34,2,5.9,1.0
+mes,2025-01,Tienda Online,Mendoza,Mercado Pago,24,4,16.7,0.7059
+mes,2025-01,Tienda Online,Santa Fe,Todos,77,5,6.5,
+mes,2025-01,Tienda Online,Santa Fe,Tarjeta,45,0,0.0,1.0
+mes,2025-01,Tienda Online,Santa Fe,Mercado Pago,32,5,15.6,0.7111
+mes,2025-01,Tienda Online,Todas,Todos,376,30,8.0,
+mes,2025-01,Tienda Online,Todas,Tarjeta,210,10,4.8,1.0
+mes,2025-01,Tienda Online,Todas,Mercado Pago,166,20,12.0,0.7905
+mes,2025-01,Tiendas Físicas,Buenos Aires,Todos,86,1,1.2,
+mes,2025-01,Tiendas Físicas,Buenos Aires,Tarjeta,44,1,2.3,1.0
+mes,2025-01,Tiendas Físicas,Buenos Aires,Efectivo,31,0,0.0,0.7045
+mes,2025-01,Tiendas Físicas,Buenos Aires,Transferencia,11,0,0.0,0.25
+mes,2025-01,Tiendas Físicas,Córdoba,Todos,65,0,0.0,
+mes,2025-01,Tiendas Físicas,Córdoba,Tarjeta,29,0,0.0,1.0
+mes,2025-01,Tiendas Físicas,Córdoba,Efectivo,28,0,0.0,0.9655
+mes,2025-01,Tiendas Físicas,Córdoba,Transferencia,8,0,0.0,0.2759
+mes,2025-01,Tiendas Físicas,Mendoza,Todos,43,0,0.0,
+mes,2025-01,Tiendas Físicas,Mendoza,Tarjeta,21,0,0.0,1.0
+mes,2025-01,Tiendas Físicas,Mendoza,Efectivo,20,0,0.0,0.9524
+mes,2025-01,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.0952
+mes,2025-01,Tiendas Físicas,Santa Fe,Todos,72,2,2.8,
+mes,2025-01,Tiendas Físicas,Santa Fe,Tarjeta,38,2,5.3,1.0
+mes,2025-01,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,0.4474
+mes,2025-01,Tiendas Físicas,Santa Fe,Transferencia,17,0,0.0,0.4474
+mes,2025-01,Tiendas Físicas,Todas,Todos,266,3,1.1,
+mes,2025-01,Tiendas Físicas,Todas,Tarjeta,132,3,2.3,1.0
+mes,2025-01,Tiendas Físicas,Todas,Efectivo,96,0,0.0,0.7273
+mes,2025-01,Tiendas Físicas,Todas,Transferencia,38,0,0.0,0.2879
+mes,2025-01,Todos,Buenos Aires,Todos,244,12,4.9,
+mes,2025-01,Todos,Buenos Aires,Tarjeta,129,7,5.4,1.0
+mes,2025-01,Todos,Buenos Aires,Mercado Pago,73,5,6.8,0.5659
+mes,2025-01,Todos,Buenos Aires,Efectivo,31,0,0.0,0.2403
+mes,2025-01,Todos,Buenos Aires,Transferencia,11,0,0.0,0.0853
+mes,2025-01,Todos,Córdoba,Todos,148,8,5.4,
+mes,2025-01,Todos,Córdoba,Tarjeta,75,2,2.7,1.0
+mes,2025-01,Todos,Córdoba,Mercado Pago,37,6,16.2,0.4933
+mes,2025-01,Todos,Córdoba,Efectivo,28,0,0.0,0.3733
+mes,2025-01,Todos,Córdoba,Transferencia,8,0,0.0,0.1067
+mes,2025-01,Todos,Mendoza,Todos,101,6,5.9,
+mes,2025-01,Todos,Mendoza,Tarjeta,55,2,3.6,1.0
+mes,2025-01,Todos,Mendoza,Mercado Pago,24,4,16.7,0.4364
+mes,2025-01,Todos,Mendoza,Efectivo,20,0,0.0,0.3636
+mes,2025-01,Todos,Mendoza,Transferencia,2,0,0.0,0.0364
+mes,2025-01,Todos,Santa Fe,Todos,149,7,4.7,
+mes,2025-01,Todos,Santa Fe,Tarjeta,83,2,2.4,1.0
+mes,2025-01,Todos,Santa Fe,Mercado Pago,32,5,15.6,0.3855
+mes,2025-01,Todos,Santa Fe,Transferencia,17,0,0.0,0.2048
+mes,2025-01,Todos,Santa Fe,Efectivo,17,0,0.0,0.2048
+mes,2025-01,Todos,Todas,Todos,642,33,5.1,
+mes,2025-01,Todos,Todas,Tarjeta,342,13,3.8,1.0
+mes,2025-01,Todos,Todas,Mercado Pago,166,20,12.0,0.4854
+mes,2025-01,Todos,Todas,Efectivo,96,0,0.0,0.2807
+mes,2025-01,Todos,Todas,Transferencia,38,0,0.0,0.1111
+mes,2025-02,Tienda Online,Buenos Aires,Todos,171,14,8.2,
+mes,2025-02,Tienda Online,Buenos Aires,Tarjeta,93,6,6.5,1.0
+mes,2025-02,Tienda Online,Buenos Aires,Mercado Pago,78,8,10.3,0.8387
+mes,2025-02,Tienda Online,Córdoba,Todos,81,4,4.9,
+mes,2025-02,Tienda Online,Córdoba,Tarjeta,44,0,0.0,1.0
+mes,2025-02,Tienda Online,Córdoba,Mercado Pago,37,4,10.8,0.8409
+mes,2025-02,Tienda Online,Mendoza,Todos,60,9,15.0,
+mes,2025-02,Tienda Online,Mendoza,Tarjeta,39,3,7.7,1.0
+mes,2025-02,Tienda Online,Mendoza,Mercado Pago,21,6,28.6,0.5385
+mes,2025-02,Tienda Online,Santa Fe,Todos,75,6,8.0,
+mes,2025-02,Tienda Online,Santa Fe,Tarjeta,44,5,11.4,1.0
+mes,2025-02,Tienda Online,Santa Fe,Mercado Pago,31,1,3.2,0.7045
+mes,2025-02,Tienda Online,Todas,Todos,387,33,8.5,
+mes,2025-02,Tienda Online,Todas,Tarjeta,220,14,6.4,1.0
+mes,2025-02,Tienda Online,Todas,Mercado Pago,167,19,11.4,0.7591
+mes,2025-02,Tiendas Físicas,Buenos Aires,Todos,87,0,0.0,
+mes,2025-02,Tiendas Físicas,Buenos Aires,Tarjeta,46,0,0.0,1.0
+mes,2025-02,Tiendas Físicas,Buenos Aires,Efectivo,29,0,0.0,0.6304
+mes,2025-02,Tiendas Físicas,Buenos Aires,Transferencia,12,0,0.0,0.2609
+mes,2025-02,Tiendas Físicas,Córdoba,Todos,70,0,0.0,
+mes,2025-02,Tiendas Físicas,Córdoba,Tarjeta,38,0,0.0,1.0
+mes,2025-02,Tiendas Físicas,Córdoba,Efectivo,26,0,0.0,0.6842
+mes,2025-02,Tiendas Físicas,Córdoba,Transferencia,6,0,0.0,0.1579
+mes,2025-02,Tiendas Físicas,Mendoza,Todos,51,0,0.0,
+mes,2025-02,Tiendas Físicas,Mendoza,Tarjeta,27,0,0.0,1.0
+mes,2025-02,Tiendas Físicas,Mendoza,Efectivo,22,0,0.0,0.8148
+mes,2025-02,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.0741
+mes,2025-02,Tiendas Físicas,Santa Fe,Todos,59,0,0.0,
+mes,2025-02,Tiendas Físicas,Santa Fe,Tarjeta,32,0,0.0,1.0
+mes,2025-02,Tiendas Físicas,Santa Fe,Efectivo,20,0,0.0,0.625
+mes,2025-02,Tiendas Físicas,Santa Fe,Transferencia,7,0,0.0,0.2188
+mes,2025-02,Tiendas Físicas,Todas,Todos,267,0,0.0,
+mes,2025-02,Tiendas Físicas,Todas,Tarjeta,143,0,0.0,1.0
+mes,2025-02,Tiendas Físicas,Todas,Efectivo,97,0,0.0,0.6783
+mes,2025-02,Tiendas Físicas,Todas,Transferencia,27,0,0.0,0.1888
+mes,2025-02,Todos,Buenos Aires,Todos,258,14,5.4,
+mes,2025-02,Todos,Buenos Aires,Tarjeta,139,6,4.3,1.0
+mes,2025-02,Todos,Buenos Aires,Mercado Pago,78,8,10.3,0.5612
+mes,2025-02,Todos,Buenos Aires,Efectivo,29,0,0.0,0.2086
+mes,2025-02,Todos,Buenos Aires,Transferencia,12,0,0.0,0.0863
+mes,2025-02,Todos,Córdoba,Todos,151,4,2.6,
+mes,2025-02,Todos,Córdoba,Tarjeta,82,0,0.0,1.0
+mes,2025-02,Todos,Córdoba,Mercado Pago,37,4,10.8,0.4512
+mes,2025-02,Todos,Córdoba,Efectivo,26,0,0.0,0.3171
+mes,2025-02,Todos,Córdoba,Transferencia,6,0,0.0,0.0732
+mes,2025-02,Todos,Mendoza,Todos,111,9,8.1,
+mes,2025-02,Todos,Mendoza,Tarjeta,66,3,4.5,1.0
+mes,2025-02,Todos,Mendoza,Efectivo,22,0,0.0,0.3333
+mes,2025-02,Todos,Mendoza,Mercado Pago,21,6,28.6,0.3182
+mes,2025-02,Todos,Mendoza,Transferencia,2,0,0.0,0.0303
+mes,2025-02,Todos,Santa Fe,Todos,134,6,4.5,
+mes,2025-02,Todos,Santa Fe,Tarjeta,76,5,6.6,1.0
+mes,2025-02,Todos,Santa Fe,Mercado Pago,31,1,3.2,0.4079
+mes,2025-02,Todos,Santa Fe,Efectivo,20,0,0.0,0.2632
+mes,2025-02,Todos,Santa Fe,Transferencia,7,0,0.0,0.0921
+mes,2025-02,Todos,Todas,Todos,654,33,5.0,
+mes,2025-02,Todos,Todas,Tarjeta,363,14,3.9,1.0
+mes,2025-02,Todos,Todas,Mercado Pago,167,19,11.4,0.4601
+mes,2025-02,Todos,Todas,Efectivo,97,0,0.0,0.2672
+mes,2025-02,Todos,Todas,Transferencia,27,0,0.0,0.0744
+mes,2025-03,Tienda Online,Buenos Aires,Todos,161,12,7.5,
+mes,2025-03,Tienda Online,Buenos Aires,Tarjeta,89,2,2.2,1.0
+mes,2025-03,Tienda Online,Buenos Aires,Mercado Pago,72,10,13.9,0.809
+mes,2025-03,Tienda Online,Córdoba,Todos,71,2,2.8,
+mes,2025-03,Tienda Online,Córdoba,Tarjeta,43,1,2.3,1.0
+mes,2025-03,Tienda Online,Córdoba,Mercado Pago,28,1,3.6,0.6512
+mes,2025-03,Tienda Online,Mendoza,Todos,71,5,7.0,
+mes,2025-03,Tienda Online,Mendoza,Tarjeta,41,3,7.3,1.0
+mes,2025-03,Tienda Online,Mendoza,Mercado Pago,30,2,6.7,0.7317
+mes,2025-03,Tienda Online,Santa Fe,Todos,75,4,5.3,
+mes,2025-03,Tienda Online,Santa Fe,Tarjeta,45,2,4.4,1.0
+mes,2025-03,Tienda Online,Santa Fe,Mercado Pago,30,2,6.7,0.6667
+mes,2025-03,Tienda Online,Todas,Todos,378,23,6.1,
+mes,2025-03,Tienda Online,Todas,Tarjeta,218,8,3.7,1.0
+mes,2025-03,Tienda Online,Todas,Mercado Pago,160,15,9.4,0.7339
+mes,2025-03,Tiendas Físicas,Buenos Aires,Todos,83,1,1.2,
+mes,2025-03,Tiendas Físicas,Buenos Aires,Tarjeta,46,1,2.2,1.0
+mes,2025-03,Tiendas Físicas,Buenos Aires,Efectivo,25,0,0.0,0.5435
+mes,2025-03,Tiendas Físicas,Buenos Aires,Transferencia,12,0,0.0,0.2609
+mes,2025-03,Tiendas Físicas,Córdoba,Todos,63,0,0.0,
+mes,2025-03,Tiendas Físicas,Córdoba,Tarjeta,33,0,0.0,1.0
+mes,2025-03,Tiendas Físicas,Córdoba,Efectivo,23,0,0.0,0.697
+mes,2025-03,Tiendas Físicas,Córdoba,Transferencia,7,0,0.0,0.2121
+mes,2025-03,Tiendas Físicas,Mendoza,Todos,54,0,0.0,
+mes,2025-03,Tiendas Físicas,Mendoza,Tarjeta,27,0,0.0,1.0
+mes,2025-03,Tiendas Físicas,Mendoza,Efectivo,21,0,0.0,0.7778
+mes,2025-03,Tiendas Físicas,Mendoza,Transferencia,6,0,0.0,0.2222
+mes,2025-03,Tiendas Físicas,Santa Fe,Todos,51,0,0.0,
+mes,2025-03,Tiendas Físicas,Santa Fe,Tarjeta,31,0,0.0,1.0
+mes,2025-03,Tiendas Físicas,Santa Fe,Efectivo,14,0,0.0,0.4516
+mes,2025-03,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.1935
+mes,2025-03,Tiendas Físicas,Todas,Todos,251,1,0.4,
+mes,2025-03,Tiendas Físicas,Todas,Tarjeta,137,1,0.7,1.0
+mes,2025-03,Tiendas Físicas,Todas,Efectivo,83,0,0.0,0.6058
+mes,2025-03,Tiendas Físicas,Todas,Transferencia,31,0,0.0,0.2263
+mes,2025-03,Todos,Buenos Aires,Todos,244,13,5.3,
+mes,2025-03,Todos,Buenos Aires,Tarjeta,135,3,2.2,1.0
+mes,2025-03,Todos,Buenos Aires,Mercado Pago,72,10,13.9,0.5333
+mes,2025-03,Todos,Buenos Aires,Efectivo,25,0,0.0,0.1852
+mes,2025-03,Todos,Buenos Aires,Transferencia,12,0,0.0,0.0889
+mes,2025-03,Todos,Córdoba,Todos,134,2,1.5,
+mes,2025-03,Todos,Córdoba,Tarjeta,76,1,1.3,1.0
+mes,2025-03,Todos,Córdoba,Mercado Pago,28,1,3.6,0.3684
+mes,2025-03,Todos,Córdoba,Efectivo,23,0,0.0,0.3026
+mes,2025-03,Todos,Córdoba,Transferencia,7,0,0.0,0.0921
+mes,2025-03,Todos,Mendoza,Todos,125,5,4.0,
+mes,2025-03,Todos,Mendoza,Tarjeta,68,3,4.4,1.0
+mes,2025-03,Todos,Mendoza,Mercado Pago,30,2,6.7,0.4412
+mes,2025-03,Todos,Mendoza,Efectivo,21,0,0.0,0.3088
+mes,2025-03,Todos,Mendoza,Transferencia,6,0,0.0,0.0882
+mes,2025-03,Todos,Santa Fe,Todos,126,4,3.2,
+mes,2025-03,Todos,Santa Fe,Tarjeta,76,2,2.6,1.0
+mes,2025-03,Todos,Santa Fe,Mercado Pago,30,2,6.7,0.3947
+mes,2025-03,Todos,Santa Fe,Efectivo,14,0,0.0,0.1842
+mes,2025-03,Todos,Santa Fe,Transferencia,6,0,0.0,0.0789
+mes,2025-03,Todos,Todas,Todos,629,24,3.8,
+mes,2025-03,Todos,Todas,Tarjeta,355,9,2.5,1.0
+mes,2025-03,Todos,Todas,Mercado Pago,160,15,9.4,0.4507
+mes,2025-03,Todos,Todas,Efectivo,83,0,0.0,0.2338
+mes,2025-03,Todos,Todas,Transferencia,31,0,0.0,0.0873
+mes,2025-04,Tienda Online,Buenos Aires,Todos,155,16,10.3,
+mes,2025-04,Tienda Online,Buenos Aires,Tarjeta,92,5,5.4,1.0
+mes,2025-04,Tienda Online,Buenos Aires,Mercado Pago,63,11,17.5,0.6848
+mes,2025-04,Tienda Online,Córdoba,Todos,84,8,9.5,
+mes,2025-04,Tienda Online,Córdoba,Tarjeta,52,3,5.8,1.0
+mes,2025-04,Tienda Online,Córdoba,Mercado Pago,32,5,15.6,0.6154
+mes,2025-04,Tienda Online,Mendoza,Todos,39,3,7.7,
+mes,2025-04,Tienda Online,Mendoza,Tarjeta,23,1,4.3,1.0
+mes,2025-04,Tienda Online,Mendoza,Mercado Pago,16,2,12.5,0.6957
+mes,2025-04,Tienda Online,Santa Fe,Todos,89,8,9.0,
+mes,2025-04,Tienda Online,Santa Fe,Tarjeta,51,2,3.9,1.0
+mes,2025-04,Tienda Online,Santa Fe,Mercado Pago,38,6,15.8,0.7451
+mes,2025-04,Tienda Online,Todas,Todos,367,35,9.5,
+mes,2025-04,Tienda Online,Todas,Tarjeta,218,11,5.0,1.0
+mes,2025-04,Tienda Online,Todas,Mercado Pago,149,24,16.1,0.6835
+mes,2025-04,Tiendas Físicas,Buenos Aires,Todos,67,0,0.0,
+mes,2025-04,Tiendas Físicas,Buenos Aires,Tarjeta,31,0,0.0,1.0
+mes,2025-04,Tiendas Físicas,Buenos Aires,Efectivo,28,0,0.0,0.9032
+mes,2025-04,Tiendas Físicas,Buenos Aires,Transferencia,8,0,0.0,0.2581
+mes,2025-04,Tiendas Físicas,Córdoba,Todos,52,0,0.0,
+mes,2025-04,Tiendas Físicas,Córdoba,Tarjeta,31,0,0.0,1.0
+mes,2025-04,Tiendas Físicas,Córdoba,Efectivo,18,0,0.0,0.5806
+mes,2025-04,Tiendas Físicas,Córdoba,Transferencia,3,0,0.0,0.0968
+mes,2025-04,Tiendas Físicas,Mendoza,Todos,32,2,6.3,
+mes,2025-04,Tiendas Físicas,Mendoza,Tarjeta,19,2,10.5,1.0
+mes,2025-04,Tiendas Físicas,Mendoza,Efectivo,11,0,0.0,0.5789
+mes,2025-04,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.1053
+mes,2025-04,Tiendas Físicas,Santa Fe,Todos,40,0,0.0,
+mes,2025-04,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,1.0
+mes,2025-04,Tiendas Físicas,Santa Fe,Tarjeta,17,0,0.0,1.0
+mes,2025-04,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.3529
+mes,2025-04,Tiendas Físicas,Todas,Todos,191,2,1.0,
+mes,2025-04,Tiendas Físicas,Todas,Tarjeta,98,2,2.0,1.0
+mes,2025-04,Tiendas Físicas,Todas,Efectivo,74,0,0.0,0.7551
+mes,2025-04,Tiendas Físicas,Todas,Transferencia,19,0,0.0,0.1939
+mes,2025-04,Todos,Buenos Aires,Todos,222,16,7.2,
+mes,2025-04,Todos,Buenos Aires,Tarjeta,123,5,4.1,1.0
+mes,2025-04,Todos,Buenos Aires,Mercado Pago,63,11,17.5,0.5122
+mes,2025-04,Todos,Buenos Aires,Efectivo,28,0,0.0,0.2276
+mes,2025-04,Todos,Buenos Aires,Transferencia,8,0,0.0,0.065
+mes,2025-04,Todos,Córdoba,Todos,136,8,5.9,
+mes,2025-04,Todos,Córdoba,Tarjeta,83,3,3.6,1.0
+mes,2025-04,Todos,Córdoba,Mercado Pago,32,5,15.6,0.3855
+mes,2025-04,Todos,Córdoba,Efectivo,18,0,0.0,0.2169
+mes,2025-04,Todos,Córdoba,Transferencia,3,0,0.0,0.0361
+mes,2025-04,Todos,Mendoza,Todos,71,5,7.0,
+mes,2025-04,Todos,Mendoza,Tarjeta,42,3,7.1,1.0
+mes,2025-04,Todos,Mendoza,Mercado Pago,16,2,12.5,0.381
+mes,2025-04,Todos,Mendoza,Efectivo,11,0,0.0,0.2619
+mes,2025-04,Todos,Mendoza,Transferencia,2,0,0.0,0.0476
+mes,2025-04,Todos,Santa Fe,Todos,129,8,6.2,
+mes,2025-04,Todos,Santa Fe,Tarjeta,68,2,2.9,1.0
+mes,2025-04,Todos,Santa Fe,Mercado Pago,38,6,15.8,0.5588
+mes,2025-04,Todos,Santa Fe,Efectivo,17,0,0.0,0.25
+mes,2025-04,Todos,Santa Fe,Transferencia,6,0,0.0,0.0882
+mes,2025-04,Todos,Todas,Todos,558,37,6.6,
+mes,2025-04,Todos,Todas,Tarjeta,316,13,4.1,1.0
+mes,2025-04,Todos,Todas,Mercado Pago,149,24,16.1,0.4715
+mes,2025-04,Todos,Todas,Efectivo,74,0,0.0,0.2342
+mes,2025-04,Todos,Todas,Transferencia,19,0,0.0,0.0601
+mes,2025-05,Tienda Online,Buenos Aires,Todos,201,17,8.5,
+mes,2025-05,Tienda Online,Buenos Aires,Tarjeta,107,8,7.5,1.0
+mes,2025-05,Tienda Online,Buenos Aires,Mercado Pago,94,9,9.6,0.8785
+mes,2025-05,Tienda Online,Córdoba,Todos,89,4,4.5,
+mes,2025-05,Tienda Online,Córdoba,Tarjeta,56,3,5.4,1.0
+mes,2025-05,Tienda Online,Córdoba,Mercado Pago,33,1,3.0,0.5893
+mes,2025-05,Tienda Online,Mendoza,Todos,56,3,5.4,
+mes,2025-05,Tienda Online,Mendoza,Tarjeta,31,1,3.2,1.0
+mes,2025-05,Tienda Online,Mendoza,Mercado Pago,25,2,8.0,0.8065
+mes,2025-05,Tienda Online,Santa Fe,Todos,89,3,3.4,
+mes,2025-05,Tienda Online,Santa Fe,Tarjeta,45,2,4.4,1.0
+mes,2025-05,Tienda Online,Santa Fe,Mercado Pago,44,1,2.3,0.9778
+mes,2025-05,Tienda Online,Todas,Todos,435,27,6.2,
+mes,2025-05,Tienda Online,Todas,Tarjeta,239,14,5.9,1.0
+mes,2025-05,Tienda Online,Todas,Mercado Pago,196,13,6.6,0.8201
+mes,2025-05,Tiendas Físicas,Buenos Aires,Todos,61,1,1.6,
+mes,2025-05,Tiendas Físicas,Buenos Aires,Tarjeta,29,1,3.4,1.0
+mes,2025-05,Tiendas Físicas,Buenos Aires,Efectivo,24,0,0.0,0.8276
+mes,2025-05,Tiendas Físicas,Buenos Aires,Transferencia,8,0,0.0,0.2759
+mes,2025-05,Tiendas Físicas,Córdoba,Todos,55,3,5.5,
+mes,2025-05,Tiendas Físicas,Córdoba,Tarjeta,34,3,8.8,1.0
+mes,2025-05,Tiendas Físicas,Córdoba,Efectivo,16,0,0.0,0.4706
+mes,2025-05,Tiendas Físicas,Córdoba,Transferencia,5,0,0.0,0.1471
+mes,2025-05,Tiendas Físicas,Mendoza,Todos,31,0,0.0,
+mes,2025-05,Tiendas Físicas,Mendoza,Efectivo,13,0,0.0,1.0
+mes,2025-05,Tiendas Físicas,Mendoza,Tarjeta,13,0,0.0,1.0
+mes,2025-05,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.3846
+mes,2025-05,Tiendas Físicas,Santa Fe,Todos,57,1,1.8,
+mes,2025-05,Tiendas Físicas,Santa Fe,Tarjeta,30,1,3.3,1.0
+mes,2025-05,Tiendas Físicas,Santa Fe,Efectivo,21,0,0.0,0.7
+mes,2025-05,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.2
+mes,2025-05,Tiendas Físicas,Todas,Todos,204,5,2.5,
+mes,2025-05,Tiendas Físicas,Todas,Tarjeta,106,5,4.7,1.0
+mes,2025-05,Tiendas Físicas,Todas,Efectivo,74,0,0.0,0.6981
+mes,2025-05,Tiendas Físicas,Todas,Transferencia,24,0,0.0,0.2264
+mes,2025-05,Todos,Buenos Aires,Todos,262,18,6.9,
+mes,2025-05,Todos,Buenos Aires,Tarjeta,136,9,6.6,1.0
+mes,2025-05,Todos,Buenos Aires,Mercado Pago,94,9,9.6,0.6912
+mes,2025-05,Todos,Buenos Aires,Efectivo,24,0,0.0,0.1765
+mes,2025-05,Todos,Buenos Aires,Transferencia,8,0,0.0,0.0588
+mes,2025-05,Todos,Córdoba,Todos,144,7,4.9,
+mes,2025-05,Todos,Córdoba,Tarjeta,90,6,6.7,1.0
+mes,2025-05,Todos,Córdoba,Mercado Pago,33,1,3.0,0.3667
+mes,2025-05,Todos,Córdoba,Efectivo,16,0,0.0,0.1778
+mes,2025-05,Todos,Córdoba,Transferencia,5,0,0.0,0.0556
+mes,2025-05,Todos,Mendoza,Todos,87,3,3.4,
+mes,2025-05,Todos,Mendoza,Tarjeta,44,1,2.3,1.0
+mes,2025-05,Todos,Mendoza,Mercado Pago,25,2,8.0,0.5682
+mes,2025-05,Todos,Mendoza,Efectivo,13,0,0.0,0.2955
+mes,2025-05,Todos,Mendoza,Transferencia,5,0,0.0,0.1136
+mes,2025-05,Todos,Santa Fe,Todos,146,4,2.7,
+mes,2025-05,Todos,Santa Fe,Tarjeta,75,3,4.0,1.0
+mes,2025-05,Todos,Santa Fe,Mercado Pago,44,1,2.3,0.5867
+mes,2025-05,Todos,Santa Fe,Efectivo,21,0,0.0,0.28
+mes,2025-05,Todos,Santa Fe,Transferencia,6,0,0.0,0.08
+mes,2025-05,Todos,Todas,Todos,639,32,5.0,
+mes,2025-05,Todos,Todas,Tarjeta,345,19,5.5,1.0
+mes,2025-05,Todos,Todas,Mercado Pago,196,13,6.6,0.5681
+mes,2025-05,Todos,Todas,Efectivo,74,0,0.0,0.2145
+mes,2025-05,Todos,Todas,Transferencia,24,0,0.0,0.0696
+mes,2025-06,Tienda Online,Buenos Aires,Todos,144,7,4.9,
+mes,2025-06,Tienda Online,Buenos Aires,Tarjeta,82,3,3.7,1.0
+mes,2025-06,Tienda Online,Buenos Aires,Mercado Pago,62,4,6.5,0.7561
+mes,2025-06,Tienda Online,Córdoba,Todos,73,7,9.6,
+mes,2025-06,Tienda Online,Córdoba,Tarjeta,41,3,7.3,1.0
+mes,2025-06,Tienda Online,Córdoba,Mercado Pago,32,4,12.5,0.7805
+mes,2025-06,Tienda Online,Mendoza,Todos,66,5,7.6,
+mes,2025-06,Tienda Online,Mendoza,Tarjeta,38,0,0.0,1.0
+mes,2025-06,Tienda Online,Mendoza,Mercado Pago,28,5,17.9,0.7368
+mes,2025-06,Tienda Online,Santa Fe,Todos,78,3,3.8,
+mes,2025-06,Tienda Online,Santa Fe,Tarjeta,48,1,2.1,1.0
+mes,2025-06,Tienda Online,Santa Fe,Mercado Pago,30,2,6.7,0.625
+mes,2025-06,Tienda Online,Todas,Todos,361,22,6.1,
+mes,2025-06,Tienda Online,Todas,Tarjeta,209,7,3.3,1.0
+mes,2025-06,Tienda Online,Todas,Mercado Pago,152,15,9.9,0.7273
+mes,2025-06,Tiendas Físicas,Buenos Aires,Todos,67,2,3.0,
+mes,2025-06,Tiendas Físicas,Buenos Aires,Efectivo,31,0,0.0,1.0
+mes,2025-06,Tiendas Físicas,Buenos Aires,Tarjeta,30,2,6.7,0.9677
+mes,2025-06,Tiendas Físicas,Buenos Aires,Transferencia,6,0,0.0,0.1935
+mes,2025-06,Tiendas Físicas,Córdoba,Todos,68,1,1.5,
+mes,2025-06,Tiendas Físicas,Córdoba,Tarjeta,38,1,2.6,1.0
+mes,2025-06,Tiendas Físicas,Córdoba,Efectivo,23,0,0.0,0.6053
+mes,2025-06,Tiendas Físicas,Córdoba,Transferencia,7,0,0.0,0.1842
+mes,2025-06,Tiendas Físicas,Mendoza,Todos,44,0,0.0,
+mes,2025-06,Tiendas Físicas,Mendoza,Efectivo,18,0,0.0,1.0
+mes,2025-06,Tiendas Físicas,Mendoza,Tarjeta,16,0,0.0,0.8889
+mes,2025-06,Tiendas Físicas,Mendoza,Transferencia,10,0,0.0,0.5556
+mes,2025-06,Tiendas Físicas,Santa Fe,Todos,59,0,0.0,
+mes,2025-06,Tiendas Físicas,Santa Fe,Tarjeta,31,0,0.0,1.0
+mes,2025-06,Tiendas Físicas,Santa Fe,Efectivo,25,0,0.0,0.8065
+mes,2025-06,Tiendas Físicas,Santa Fe,Transferencia,3,0,0.0,0.0968
+mes,2025-06,Tiendas Físicas,Todas,Todos,238,3,1.3,
+mes,2025-06,Tiendas Físicas,Todas,Tarjeta,115,3,2.6,1.0
+mes,2025-06,Tiendas Físicas,Todas,Efectivo,97,0,0.0,0.8435
+mes,2025-06,Tiendas Físicas,Todas,Transferencia,26,0,0.0,0.2261
+mes,2025-06,Todos,Buenos Aires,Todos,211,9,4.3,
+mes,2025-06,Todos,Buenos Aires,Tarjeta,112,5,4.5,1.0
+mes,2025-06,Todos,Buenos Aires,Mercado Pago,62,4,6.5,0.5536
+mes,2025-06,Todos,Buenos Aires,Efectivo,31,0,0.0,0.2768
+mes,2025-06,Todos,Buenos Aires,Transferencia,6,0,0.0,0.0536
+mes,2025-06,Todos,Córdoba,Todos,141,8,5.7,
+mes,2025-06,Todos,Córdoba,Tarjeta,79,4,5.1,1.0
+mes,2025-06,Todos,Córdoba,Mercado Pago,32,4,12.5,0.4051
+mes,2025-06,Todos,Córdoba,Efectivo,23,0,0.0,0.2911
+mes,2025-06,Todos,Córdoba,Transferencia,7,0,0.0,0.0886
+mes,2025-06,Todos,Mendoza,Todos,110,5,4.5,
+mes,2025-06,Todos,Mendoza,Tarjeta,54,0,0.0,1.0
+mes,2025-06,Todos,Mendoza,Mercado Pago,28,5,17.9,0.5185
+mes,2025-06,Todos,Mendoza,Efectivo,18,0,0.0,0.3333
+mes,2025-06,Todos,Mendoza,Transferencia,10,0,0.0,0.1852
+mes,2025-06,Todos,Santa Fe,Todos,137,3,2.2,
+mes,2025-06,Todos,Santa Fe,Tarjeta,79,1,1.3,1.0
+mes,2025-06,Todos,Santa Fe,Mercado Pago,30,2,6.7,0.3797
+mes,2025-06,Todos,Santa Fe,Efectivo,25,0,0.0,0.3165
+mes,2025-06,Todos,Santa Fe,Transferencia,3,0,0.0,0.038
+mes,2025-06,Todos,Todas,Todos,599,25,4.2,
+mes,2025-06,Todos,Todas,Tarjeta,324,10,3.1,1.0
+mes,2025-06,Todos,Todas,Mercado Pago,152,15,9.9,0.4691
+mes,2025-06,Todos,Todas,Efectivo,97,0,0.0,0.2994
+mes,2025-06,Todos,Todas,Transferencia,26,0,0.0,0.0802
+mes,2025-07,Tienda Online,Buenos Aires,Todos,126,3,2.4,
+mes,2025-07,Tienda Online,Buenos Aires,Tarjeta,69,2,2.9,1.0
+mes,2025-07,Tienda Online,Buenos Aires,Mercado Pago,57,1,1.8,0.8261
+mes,2025-07,Tienda Online,Córdoba,Todos,59,7,11.9,
+mes,2025-07,Tienda Online,Córdoba,Tarjeta,33,3,9.1,1.0
+mes,2025-07,Tienda Online,Córdoba,Mercado Pago,26,4,15.4,0.7879
+mes,2025-07,Tienda Online,Mendoza,Todos,44,3,6.8,
+mes,2025-07,Tienda Online,Mendoza,Tarjeta,28,3,10.7,1.0
+mes,2025-07,Tienda Online,Mendoza,Mercado Pago,16,0,0.0,0.5714
+mes,2025-07,Tienda Online,Santa Fe,Todos,70,6,8.6,
+mes,2025-07,Tienda Online,Santa Fe,Tarjeta,38,1,2.6,1.0
+mes,2025-07,Tienda Online,Santa Fe,Mercado Pago,32,5,15.6,0.8421
+mes,2025-07,Tienda Online,Todas,Todos,299,19,6.4,
+mes,2025-07,Tienda Online,Todas,Tarjeta,168,9,5.4,1.0
+mes,2025-07,Tienda Online,Todas,Mercado Pago,131,10,7.6,0.7798
+mes,2025-07,Tiendas Físicas,Buenos Aires,Todos,43,0,0.0,
+mes,2025-07,Tiendas Físicas,Buenos Aires,Efectivo,20,0,0.0,1.0
+mes,2025-07,Tiendas Físicas,Buenos Aires,Tarjeta,13,0,0.0,0.65
+mes,2025-07,Tiendas Físicas,Buenos Aires,Transferencia,10,0,0.0,0.5
+mes,2025-07,Tiendas Físicas,Córdoba,Todos,52,0,0.0,
+mes,2025-07,Tiendas Físicas,Córdoba,Tarjeta,25,0,0.0,1.0
+mes,2025-07,Tiendas Físicas,Córdoba,Efectivo,21,0,0.0,0.84
+mes,2025-07,Tiendas Físicas,Córdoba,Transferencia,6,0,0.0,0.24
+mes,2025-07,Tiendas Físicas,Mendoza,Todos,41,0,0.0,
+mes,2025-07,Tiendas Físicas,Mendoza,Efectivo,20,0,0.0,1.0
+mes,2025-07,Tiendas Físicas,Mendoza,Tarjeta,18,0,0.0,0.9
+mes,2025-07,Tiendas Físicas,Mendoza,Transferencia,3,0,0.0,0.15
+mes,2025-07,Tiendas Físicas,Santa Fe,Todos,41,0,0.0,
+mes,2025-07,Tiendas Físicas,Santa Fe,Tarjeta,20,0,0.0,1.0
+mes,2025-07,Tiendas Físicas,Santa Fe,Efectivo,19,0,0.0,0.95
+mes,2025-07,Tiendas Físicas,Santa Fe,Transferencia,2,0,0.0,0.1
+mes,2025-07,Tiendas Físicas,Todas,Todos,177,0,0.0,
+mes,2025-07,Tiendas Físicas,Todas,Efectivo,80,0,0.0,1.0
+mes,2025-07,Tiendas Físicas,Todas,Tarjeta,76,0,0.0,0.95
+mes,2025-07,Tiendas Físicas,Todas,Transferencia,21,0,0.0,0.2625
+mes,2025-07,Todos,Buenos Aires,Todos,169,3,1.8,
+mes,2025-07,Todos,Buenos Aires,Tarjeta,82,2,2.4,1.0
+mes,2025-07,Todos,Buenos Aires,Mercado Pago,57,1,1.8,0.6951
+mes,2025-07,Todos,Buenos Aires,Efectivo,20,0,0.0,0.2439
+mes,2025-07,Todos,Buenos Aires,Transferencia,10,0,0.0,0.122
+mes,2025-07,Todos,Córdoba,Todos,111,7,6.3,
+mes,2025-07,Todos,Córdoba,Tarjeta,58,3,5.2,1.0
+mes,2025-07,Todos,Córdoba,Mercado Pago,26,4,15.4,0.4483
+mes,2025-07,Todos,Córdoba,Efectivo,21,0,0.0,0.3621
+mes,2025-07,Todos,Córdoba,Transferencia,6,0,0.0,0.1034
+mes,2025-07,Todos,Mendoza,Todos,85,3,3.5,
+mes,2025-07,Todos,Mendoza,Tarjeta,46,3,6.5,1.0
+mes,2025-07,Todos,Mendoza,Efectivo,20,0,0.0,0.4348
+mes,2025-07,Todos,Mendoza,Mercado Pago,16,0,0.0,0.3478
+mes,2025-07,Todos,Mendoza,Transferencia,3,0,0.0,0.0652
+mes,2025-07,Todos,Santa Fe,Todos,111,6,5.4,
+mes,2025-07,Todos,Santa Fe,Tarjeta,58,1,1.7,1.0
+mes,2025-07,Todos,Santa Fe,Mercado Pago,32,5,15.6,0.5517
+mes,2025-07,Todos,Santa Fe,Efectivo,19,0,0.0,0.3276
+mes,2025-07,Todos,Santa Fe,Transferencia,2,0,0.0,0.0345
+mes,2025-07,Todos,Todas,Todos,476,19,4.0,
+mes,2025-07,Todos,Todas,Tarjeta,244,9,3.7,1.0
+mes,2025-07,Todos,Todas,Mercado Pago,131,10,7.6,0.5369
+mes,2025-07,Todos,Todas,Efectivo,80,0,0.0,0.3279
+mes,2025-07,Todos,Todas,Transferencia,21,0,0.0,0.0861
+mes,2025-08,Tienda Online,Buenos Aires,Todos,160,18,11.3,
+mes,2025-08,Tienda Online,Buenos Aires,Tarjeta,89,9,10.1,1.0
+mes,2025-08,Tienda Online,Buenos Aires,Mercado Pago,71,9,12.7,0.7978
+mes,2025-08,Tienda Online,Córdoba,Todos,87,3,3.4,
+mes,2025-08,Tienda Online,Córdoba,Tarjeta,57,1,1.8,1.0
+mes,2025-08,Tienda Online,Córdoba,Mercado Pago,30,2,6.7,0.5263
+mes,2025-08,Tienda Online,Mendoza,Todos,50,2,4.0,
+mes,2025-08,Tienda Online,Mendoza,Tarjeta,28,1,3.6,1.0
+mes,2025-08,Tienda Online,Mendoza,Mercado Pago,22,1,4.5,0.7857
+mes,2025-08,Tienda Online,Santa Fe,Todos,90,9,10.0,
+mes,2025-08,Tienda Online,Santa Fe,Tarjeta,53,5,9.4,1.0
+mes,2025-08,Tienda Online,Santa Fe,Mercado Pago,37,4,10.8,0.6981
+mes,2025-08,Tienda Online,Todas,Todos,387,32,8.3,
+mes,2025-08,Tienda Online,Todas,Tarjeta,227,16,7.0,1.0
+mes,2025-08,Tienda Online,Todas,Mercado Pago,160,16,10.0,0.7048
+mes,2025-08,Tiendas Físicas,Buenos Aires,Todos,58,0,0.0,
+mes,2025-08,Tiendas Físicas,Buenos Aires,Tarjeta,31,0,0.0,1.0
+mes,2025-08,Tiendas Físicas,Buenos Aires,Efectivo,23,0,0.0,0.7419
+mes,2025-08,Tiendas Físicas,Buenos Aires,Transferencia,4,0,0.0,0.129
+mes,2025-08,Tiendas Físicas,Córdoba,Todos,59,2,3.4,
+mes,2025-08,Tiendas Físicas,Córdoba,Tarjeta,30,2,6.7,1.0
+mes,2025-08,Tiendas Físicas,Córdoba,Efectivo,19,0,0.0,0.6333
+mes,2025-08,Tiendas Físicas,Córdoba,Transferencia,10,0,0.0,0.3333
+mes,2025-08,Tiendas Físicas,Mendoza,Todos,47,1,2.1,
+mes,2025-08,Tiendas Físicas,Mendoza,Tarjeta,28,1,3.6,1.0
+mes,2025-08,Tiendas Físicas,Mendoza,Efectivo,10,0,0.0,0.3571
+mes,2025-08,Tiendas Físicas,Mendoza,Transferencia,9,0,0.0,0.3214
+mes,2025-08,Tiendas Físicas,Santa Fe,Todos,57,2,3.5,
+mes,2025-08,Tiendas Físicas,Santa Fe,Tarjeta,29,2,6.9,1.0
+mes,2025-08,Tiendas Físicas,Santa Fe,Efectivo,21,0,0.0,0.7241
+mes,2025-08,Tiendas Físicas,Santa Fe,Transferencia,7,0,0.0,0.2414
+mes,2025-08,Tiendas Físicas,Todas,Todos,221,5,2.3,
+mes,2025-08,Tiendas Físicas,Todas,Tarjeta,118,5,4.2,1.0
+mes,2025-08,Tiendas Físicas,Todas,Efectivo,73,0,0.0,0.6186
+mes,2025-08,Tiendas Físicas,Todas,Transferencia,30,0,0.0,0.2542
+mes,2025-08,Todos,Buenos Aires,Todos,218,18,8.3,
+mes,2025-08,Todos,Buenos Aires,Tarjeta,120,9,7.5,1.0
+mes,2025-08,Todos,Buenos Aires,Mercado Pago,71,9,12.7,0.5917
+mes,2025-08,Todos,Buenos Aires,Efectivo,23,0,0.0,0.1917
+mes,2025-08,Todos,Buenos Aires,Transferencia,4,0,0.0,0.0333
+mes,2025-08,Todos,Córdoba,Todos,146,5,3.4,
+mes,2025-08,Todos,Córdoba,Tarjeta,87,3,3.4,1.0
+mes,2025-08,Todos,Córdoba,Mercado Pago,30,2,6.7,0.3448
+mes,2025-08,Todos,Córdoba,Efectivo,19,0,0.0,0.2184
+mes,2025-08,Todos,Córdoba,Transferencia,10,0,0.0,0.1149
+mes,2025-08,Todos,Mendoza,Todos,97,3,3.1,
+mes,2025-08,Todos,Mendoza,Tarjeta,56,2,3.6,1.0
+mes,2025-08,Todos,Mendoza,Mercado Pago,22,1,4.5,0.3929
+mes,2025-08,Todos,Mendoza,Efectivo,10,0,0.0,0.1786
+mes,2025-08,Todos,Mendoza,Transferencia,9,0,0.0,0.1607
+mes,2025-08,Todos,Santa Fe,Todos,147,11,7.5,
+mes,2025-08,Todos,Santa Fe,Tarjeta,82,7,8.5,1.0
+mes,2025-08,Todos,Santa Fe,Mercado Pago,37,4,10.8,0.4512
+mes,2025-08,Todos,Santa Fe,Efectivo,21,0,0.0,0.2561
+mes,2025-08,Todos,Santa Fe,Transferencia,7,0,0.0,0.0854
+mes,2025-08,Todos,Todas,Todos,608,37,6.1,
+mes,2025-08,Todos,Todas,Tarjeta,345,21,6.1,1.0
+mes,2025-08,Todos,Todas,Mercado Pago,160,16,10.0,0.4638
+mes,2025-08,Todos,Todas,Efectivo,73,0,0.0,0.2116
+mes,2025-08,Todos,Todas,Transferencia,30,0,0.0,0.087
+mes,2025-09,Tienda Online,Buenos Aires,Todos,145,10,6.9,
+mes,2025-09,Tienda Online,Buenos Aires,Tarjeta,87,3,3.4,1.0
+mes,2025-09,Tienda Online,Buenos Aires,Mercado Pago,58,7,12.1,0.6667
+mes,2025-09,Tienda Online,Córdoba,Todos,88,3,3.4,
+mes,2025-09,Tienda Online,Córdoba,Tarjeta,54,3,5.6,1.0
+mes,2025-09,Tienda Online,Córdoba,Mercado Pago,34,0,0.0,0.6296
+mes,2025-09,Tienda Online,Mendoza,Todos,53,2,3.8,
+mes,2025-09,Tienda Online,Mendoza,Tarjeta,34,0,0.0,1.0
+mes,2025-09,Tienda Online,Mendoza,Mercado Pago,19,2,10.5,0.5588
+mes,2025-09,Tienda Online,Santa Fe,Todos,73,9,12.3,
+mes,2025-09,Tienda Online,Santa Fe,Tarjeta,46,4,8.7,1.0
+mes,2025-09,Tienda Online,Santa Fe,Mercado Pago,27,5,18.5,0.587
+mes,2025-09,Tienda Online,Todas,Todos,359,24,6.7,
+mes,2025-09,Tienda Online,Todas,Tarjeta,221,10,4.5,1.0
+mes,2025-09,Tienda Online,Todas,Mercado Pago,138,14,10.1,0.6244
+mes,2025-09,Tiendas Físicas,Buenos Aires,Todos,46,0,0.0,
+mes,2025-09,Tiendas Físicas,Buenos Aires,Tarjeta,20,0,0.0,1.0
+mes,2025-09,Tiendas Físicas,Buenos Aires,Efectivo,18,0,0.0,0.9
+mes,2025-09,Tiendas Físicas,Buenos Aires,Transferencia,8,0,0.0,0.4
+mes,2025-09,Tiendas Físicas,Córdoba,Todos,49,0,0.0,
+mes,2025-09,Tiendas Físicas,Córdoba,Tarjeta,25,0,0.0,1.0
+mes,2025-09,Tiendas Físicas,Córdoba,Efectivo,18,0,0.0,0.72
+mes,2025-09,Tiendas Físicas,Córdoba,Transferencia,6,0,0.0,0.24
+mes,2025-09,Tiendas Físicas,Mendoza,Todos,38,1,2.6,
+mes,2025-09,Tiendas Físicas,Mendoza,Tarjeta,20,1,5.0,1.0
+mes,2025-09,Tiendas Físicas,Mendoza,Efectivo,16,0,0.0,0.8
+mes,2025-09,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.1
+mes,2025-09,Tiendas Físicas,Santa Fe,Todos,34,0,0.0,
+mes,2025-09,Tiendas Físicas,Santa Fe,Tarjeta,17,0,0.0,1.0
+mes,2025-09,Tiendas Físicas,Santa Fe,Efectivo,13,0,0.0,0.7647
+mes,2025-09,Tiendas Físicas,Santa Fe,Transferencia,4,0,0.0,0.2353
+mes,2025-09,Tiendas Físicas,Todas,Todos,167,1,0.6,
+mes,2025-09,Tiendas Físicas,Todas,Tarjeta,82,1,1.2,1.0
+mes,2025-09,Tiendas Físicas,Todas,Efectivo,65,0,0.0,0.7927
+mes,2025-09,Tiendas Físicas,Todas,Transferencia,20,0,0.0,0.2439
+mes,2025-09,Todos,Buenos Aires,Todos,191,10,5.2,
+mes,2025-09,Todos,Buenos Aires,Tarjeta,107,3,2.8,1.0
+mes,2025-09,Todos,Buenos Aires,Mercado Pago,58,7,12.1,0.5421
+mes,2025-09,Todos,Buenos Aires,Efectivo,18,0,0.0,0.1682
+mes,2025-09,Todos,Buenos Aires,Transferencia,8,0,0.0,0.0748
+mes,2025-09,Todos,Córdoba,Todos,137,3,2.2,
+mes,2025-09,Todos,Córdoba,Tarjeta,79,3,3.8,1.0
+mes,2025-09,Todos,Córdoba,Mercado Pago,34,0,0.0,0.4304
+mes,2025-09,Todos,Córdoba,Efectivo,18,0,0.0,0.2278
+mes,2025-09,Todos,Córdoba,Transferencia,6,0,0.0,0.0759
+mes,2025-09,Todos,Mendoza,Todos,91,3,3.3,
+mes,2025-09,Todos,Mendoza,Tarjeta,54,1,1.9,1.0
+mes,2025-09,Todos,Mendoza,Mercado Pago,19,2,10.5,0.3519
+mes,2025-09,Todos,Mendoza,Efectivo,16,0,0.0,0.2963
+mes,2025-09,Todos,Mendoza,Transferencia,2,0,0.0,0.037
+mes,2025-09,Todos,Santa Fe,Todos,107,9,8.4,
+mes,2025-09,Todos,Santa Fe,Tarjeta,63,4,6.3,1.0
+mes,2025-09,Todos,Santa Fe,Mercado Pago,27,5,18.5,0.4286
+mes,2025-09,Todos,Santa Fe,Efectivo,13,0,0.0,0.2063
+mes,2025-09,Todos,Santa Fe,Transferencia,4,0,0.0,0.0635
+mes,2025-09,Todos,Todas,Todos,526,25,4.8,
+mes,2025-09,Todos,Todas,Tarjeta,303,11,3.6,1.0
+mes,2025-09,Todos,Todas,Mercado Pago,138,14,10.1,0.4554
+mes,2025-09,Todos,Todas,Efectivo,65,0,0.0,0.2145
+mes,2025-09,Todos,Todas,Transferencia,20,0,0.0,0.066
+total,Todo,Tienda Online,Buenos Aires,Todos,3043,212,7.0,
+total,Todo,Tienda Online,Buenos Aires,Tarjeta,1725,93,5.4,1.0
+total,Todo,Tienda Online,Buenos Aires,Mercado Pago,1318,119,9.0,0.7641
+total,Todo,Tienda Online,Córdoba,Todos,1574,106,6.7,
+total,Todo,Tienda Online,Córdoba,Tarjeta,931,39,4.2,1.0
+total,Todo,Tienda Online,Córdoba,Mercado Pago,643,67,10.4,0.6907
+total,Todo,Tienda Online,Mendoza,Todos,1017,75,7.4,
+total,Todo,Tienda Online,Mendoza,Tarjeta,594,27,4.5,1.0
+total,Todo,Tienda Online,Mendoza,Mercado Pago,423,48,11.3,0.7121
+total,Todo,Tienda Online,Santa Fe,Todos,1652,118,7.1,
+total,Todo,Tienda Online,Santa Fe,Tarjeta,943,49,5.2,1.0
+total,Todo,Tienda Online,Santa Fe,Mercado Pago,709,69,9.7,0.7519
+total,Todo,Tienda Online,Todas,Todos,7286,511,7.0,
+total,Todo,Tienda Online,Todas,Tarjeta,4193,208,5.0,1.0
+total,Todo,Tienda Online,Todas,Mercado Pago,3093,303,9.8,0.7377
+total,Todo,Tiendas Físicas,Buenos Aires,Todos,1427,17,1.2,
+total,Todo,Tiendas Físicas,Buenos Aires,Tarjeta,701,17,2.4,1.0
+total,Todo,Tiendas Físicas,Buenos Aires,Efectivo,562,0,0.0,0.8017
+total,Todo,Tiendas Físicas,Buenos Aires,Transferencia,164,0,0.0,0.234
+total,Todo,Tiendas Físicas,Córdoba,Todos,1242,18,1.4,
+total,Todo,Tiendas Físicas,Córdoba,Tarjeta,645,18,2.8,1.0
+total,Todo,Tiendas Físicas,Córdoba,Efectivo,451,0,0.0,0.6992
+total,Todo,Tiendas Físicas,Córdoba,Transferencia,146,0,0.0,0.2264
+total,Todo,Tiendas Físicas,Mendoza,Todos,910,8,0.9,
+total,Todo,Tiendas Físicas,Mendoza,Tarjeta,453,8,1.8,1.0
+total,Todo,Tiendas Físicas,Mendoza,Efectivo,362,0,0.0,0.7991
+total,Todo,Tiendas Físicas,Mendoza,Transferencia,95,0,0.0,0.2097
+total,Todo,Tiendas Físicas,Santa Fe,Todos,1104,11,1.0,
+total,Todo,Tiendas Físicas,Santa Fe,Tarjeta,569,11,1.9,1.0
+total,Todo,Tiendas Físicas,Santa Fe,Efectivo,396,0,0.0,0.696
+total,Todo,Tiendas Físicas,Santa Fe,Transferencia,139,0,0.0,0.2443
+total,Todo,Tiendas Físicas,Todas,Todos,4683,54,1.2,
+total,Todo,Tiendas Físicas,Todas,Tarjeta,2368,54,2.3,1.0
+total,Todo,Tiendas Físicas,Todas,Efectivo,1771,0,0.0,0.7479
+total,Todo,Tiendas Físicas,Todas,Transferencia,544,0,0.0,0.2297
+total,Todo,Todos,Buenos Aires,Todos,4470,229,5.1,
+total,Todo,Todos,Buenos Aires,Tarjeta,2426,110,4.5,1.0
+total,Todo,Todos,Buenos Aires,Mercado Pago,1318,119,9.0,0.5433
+total,Todo,Todos,Buenos Aires,Efectivo,562,0,0.0,0.2317
+total,Todo,Todos,Buenos Aires,Transferencia,164,0,0.0,0.0676
+total,Todo,Todos,Córdoba,Todos,2816,124,4.4,
+total,Todo,Todos,Córdoba,Tarjeta,1576,57,3.6,1.0
+total,Todo,Todos,Córdoba,Mercado Pago,643,67,10.4,0.408
+total,Todo,Todos,Córdoba,Efectivo,451,0,0.0,0.2862
+total,Todo,Todos,Córdoba,Transferencia,146,0,0.0,0.0926
+total,Todo,Todos,Mendoza,Todos,1927,83,4.3,
+total,Todo,Todos,Mendoza,Tarjeta,1047,35,3.3,1.0
+total,Todo,Todos,Mendoza,Mercado Pago,423,48,11.3,0.404
+total,Todo,Todos,Mendoza,Efectivo,362,0,0.0,0.3457
+total,Todo,Todos,Mendoza,Transferencia,95,0,0.0,0.0907
+total,Todo,Todos,Santa Fe,Todos,2756,129,4.7,
+total,Todo,Todos,Santa Fe,Tarjeta,1512,60,4.0,1.0
+total,Todo,Todos,Santa Fe,Mercado Pago,709,69,9.7,0.4689
+total,Todo,Todos,Santa Fe,Efectivo,396,0,0.0,0.2619
+total,Todo,Todos,Santa Fe,Transferencia,139,0,0.0,0.0919
+total,Todo,Todos,Todas,Todos,11969,565,4.7,
+total,Todo,Todos,Todas,Tarjeta,6561,262,4.0,1.0
+total,Todo,Todos,Todas,Mercado Pago,3093,303,9.8,0.4714
+total,Todo,Todos,Todas,Efectivo,1771,0,0.0,0.2699
+total,Todo,Todos,Todas,Transferencia,544,0,0.0,0.0829

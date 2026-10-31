@@ -1,0 +1,1040 @@
+periodo_tipo,periodo,canal,provincia,estado,es_venta,orden,pedidos,pct_pedidos,nivel,monto
+anio,2024,Tienda Online,Buenos Aires,Entregado,1,1,1450,89.4,1.0,51173917.50
+anio,2024,Tienda Online,Buenos Aires,Cancelado,0,3,121,7.5,0.0834,4142836.50
+anio,2024,Tienda Online,Buenos Aires,Reembolsado,0,4,51,3.1,0.0352,1638525.00
+anio,2024,Tienda Online,Córdoba,Entregado,1,1,769,89.5,1.0,26510301.00
+anio,2024,Tienda Online,Córdoba,Cancelado,0,3,70,8.1,0.091,2069487.00
+anio,2024,Tienda Online,Córdoba,Reembolsado,0,4,20,2.3,0.026,731439.00
+anio,2024,Tienda Online,Mendoza,Entregado,1,1,456,87.7,1.0,16331806.50
+anio,2024,Tienda Online,Mendoza,Cancelado,0,3,45,8.7,0.0987,1440555.00
+anio,2024,Tienda Online,Mendoza,Reembolsado,0,4,19,3.7,0.0417,669888.00
+anio,2024,Tienda Online,Santa Fe,Entregado,1,1,800,85.5,1.0,27685971.00
+anio,2024,Tienda Online,Santa Fe,Cancelado,0,3,86,9.2,0.1075,3124834.50
+anio,2024,Tienda Online,Santa Fe,Reembolsado,0,4,50,5.3,0.0625,1718451.00
+anio,2024,Tienda Online,Todas,Entregado,1,1,3475,88.3,1.0,121701996.00
+anio,2024,Tienda Online,Todas,Cancelado,0,3,322,8.2,0.0927,10777713.00
+anio,2024,Tienda Online,Todas,Reembolsado,0,4,140,3.6,0.0403,4758303.00
+anio,2024,Tiendas Físicas,Buenos Aires,Entregado,1,1,803,96.9,1.0,28081975.50
+anio,2024,Tiendas Físicas,Buenos Aires,Cancelado,0,3,12,1.4,0.0149,284703.00
+anio,2024,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,14,1.7,0.0174,391314.00
+anio,2024,Tiendas Físicas,Córdoba,Entregado,1,1,677,95.5,1.0,23290848.00
+anio,2024,Tiendas Físicas,Córdoba,Cancelado,0,3,12,1.7,0.0177,426210.00
+anio,2024,Tiendas Físicas,Córdoba,Reembolsado,0,4,20,2.8,0.0295,553671.00
+anio,2024,Tiendas Físicas,Mendoza,Entregado,1,1,518,97.9,1.0,17579095.50
+anio,2024,Tiendas Físicas,Mendoza,Cancelado,0,3,4,0.8,0.0077,130680.00
+anio,2024,Tiendas Físicas,Mendoza,Reembolsado,0,4,7,1.3,0.0135,230490.00
+anio,2024,Tiendas Físicas,Santa Fe,Entregado,1,1,619,97.6,1.0,21125803.50
+anio,2024,Tiendas Físicas,Santa Fe,Cancelado,0,3,6,0.9,0.0097,206910.00
+anio,2024,Tiendas Físicas,Santa Fe,Reembolsado,0,4,9,1.4,0.0145,292263.00
+anio,2024,Tiendas Físicas,Todas,Entregado,1,1,2617,96.9,1.0,90077722.50
+anio,2024,Tiendas Físicas,Todas,Cancelado,0,3,34,1.3,0.013,1048503.00
+anio,2024,Tiendas Físicas,Todas,Reembolsado,0,4,50,1.9,0.0191,1467738.00
+anio,2024,Todos,Buenos Aires,Entregado,1,1,2253,91.9,1.0,79255893.00
+anio,2024,Todos,Buenos Aires,Cancelado,0,3,133,5.4,0.059,4427539.50
+anio,2024,Todos,Buenos Aires,Reembolsado,0,4,65,2.7,0.0289,2029839.00
+anio,2024,Todos,Córdoba,Entregado,1,1,1446,92.2,1.0,49801149.00
+anio,2024,Todos,Córdoba,Cancelado,0,3,82,5.2,0.0567,2495697.00
+anio,2024,Todos,Córdoba,Reembolsado,0,4,40,2.6,0.0277,1285110.00
+anio,2024,Todos,Mendoza,Entregado,1,1,974,92.9,1.0,33910902.00
+anio,2024,Todos,Mendoza,Cancelado,0,3,49,4.7,0.0503,1571235.00
+anio,2024,Todos,Mendoza,Reembolsado,0,4,26,2.5,0.0267,900378.00
+anio,2024,Todos,Santa Fe,Entregado,1,1,1419,90.4,1.0,48811774.50
+anio,2024,Todos,Santa Fe,Cancelado,0,3,92,5.9,0.0648,3331744.50
+anio,2024,Todos,Santa Fe,Reembolsado,0,4,59,3.8,0.0416,2010714.00
+anio,2024,Todos,Todas,Entregado,1,1,6092,91.8,1.0,211779718.50
+anio,2024,Todos,Todas,Cancelado,0,3,356,5.4,0.0584,11826216.00
+anio,2024,Todos,Todas,Reembolsado,0,4,190,2.9,0.0312,6226041.00
+anio,2025,Tienda Online,Buenos Aires,Entregado,1,1,1244,87.5,1.0,42389497.50
+anio,2025,Tienda Online,Buenos Aires,Pagado,1,2,17,1.2,0.0137,444888.00
+anio,2025,Tienda Online,Buenos Aires,Cancelado,0,3,125,8.8,0.1005,4443712.50
+anio,2025,Tienda Online,Buenos Aires,Reembolsado,0,4,34,2.4,0.0273,1167390.00
+anio,2025,Tienda Online,Buenos Aires,Creado,0,5,1,0.1,0.0008,15720.00
+anio,2025,Tienda Online,Córdoba,Entregado,1,1,621,86.9,1.0,22282611.00
+anio,2025,Tienda Online,Córdoba,Pagado,1,2,19,2.7,0.0306,530844.00
+anio,2025,Tienda Online,Córdoba,Cancelado,0,3,55,7.7,0.0886,2145445.50
+anio,2025,Tienda Online,Córdoba,Reembolsado,0,4,20,2.8,0.0322,702036.00
+anio,2025,Tienda Online,Mendoza,Entregado,1,1,432,86.9,1.0,15826072.50
+anio,2025,Tienda Online,Mendoza,Pagado,1,2,9,1.8,0.0208,289372.50
+anio,2025,Tienda Online,Mendoza,Cancelado,0,3,44,8.9,0.1019,1383927.00
+anio,2025,Tienda Online,Mendoza,Reembolsado,0,4,12,2.4,0.0278,439473.00
+anio,2025,Tienda Online,Santa Fe,Entregado,1,1,627,87.6,1.0,22957716.00
+anio,2025,Tienda Online,Santa Fe,Pagado,1,2,14,2.0,0.0223,589132.50
+anio,2025,Tienda Online,Santa Fe,Cancelado,0,3,58,8.1,0.0925,1876158.00
+anio,2025,Tienda Online,Santa Fe,Reembolsado,0,4,17,2.4,0.0271,690180.00
+anio,2025,Tienda Online,Todas,Entregado,1,1,2924,87.3,1.0,103455897.00
+anio,2025,Tienda Online,Todas,Pagado,1,2,59,1.8,0.0202,1854237.00
+anio,2025,Tienda Online,Todas,Cancelado,0,3,282,8.4,0.0964,9849243.00
+anio,2025,Tienda Online,Todas,Reembolsado,0,4,83,2.5,0.0284,2999079.00
+anio,2025,Tienda Online,Todas,Creado,0,5,1,0.0,0.0003,15720.00
+anio,2025,Tiendas Físicas,Buenos Aires,Entregado,1,1,583,97.5,1.0,20593254.00
+anio,2025,Tiendas Físicas,Buenos Aires,Pagado,1,2,1,0.2,0.0017,15720.00
+anio,2025,Tiendas Físicas,Buenos Aires,Cancelado,0,3,5,0.8,0.0086,234135.00
+anio,2025,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,9,1.5,0.0154,183315.00
+anio,2025,Tiendas Físicas,Córdoba,Entregado,1,1,515,96.6,1.0,16920571.50
+anio,2025,Tiendas Físicas,Córdoba,Cancelado,0,3,6,1.1,0.0117,176055.00
+anio,2025,Tiendas Físicas,Córdoba,Reembolsado,0,4,12,2.3,0.0233,638880.00
+anio,2025,Tiendas Físicas,Mendoza,Entregado,1,1,366,96.1,1.0,12602454.00
+anio,2025,Tiendas Físicas,Mendoza,Cancelado,0,3,4,1.0,0.0109,138303.00
+anio,2025,Tiendas Físicas,Mendoza,Reembolsado,0,4,11,2.9,0.0301,346635.00
+anio,2025,Tiendas Físicas,Santa Fe,Entregado,1,1,458,97.4,1.0,15188784.00
+anio,2025,Tiendas Físicas,Santa Fe,Cancelado,0,3,5,1.1,0.0109,242895.00
+anio,2025,Tiendas Físicas,Santa Fe,Reembolsado,0,4,7,1.5,0.0153,278421.00
+anio,2025,Tiendas Físicas,Todas,Entregado,1,1,1922,97.0,1.0,65305063.50
+anio,2025,Tiendas Físicas,Todas,Pagado,1,2,1,0.1,0.0005,15720.00
+anio,2025,Tiendas Físicas,Todas,Cancelado,0,3,20,1.0,0.0104,791388.00
+anio,2025,Tiendas Físicas,Todas,Reembolsado,0,4,39,2.0,0.0203,1447251.00
+anio,2025,Todos,Buenos Aires,Entregado,1,1,1827,90.5,1.0,62982751.50
+anio,2025,Todos,Buenos Aires,Pagado,1,2,18,0.9,0.0099,460608.00
+anio,2025,Todos,Buenos Aires,Cancelado,0,3,130,6.4,0.0712,4677847.50
+anio,2025,Todos,Buenos Aires,Reembolsado,0,4,43,2.1,0.0235,1350705.00
+anio,2025,Todos,Buenos Aires,Creado,0,5,1,0.0,0.0005,15720.00
+anio,2025,Todos,Córdoba,Entregado,1,1,1136,91.0,1.0,39203182.50
+anio,2025,Todos,Córdoba,Pagado,1,2,19,1.5,0.0167,530844.00
+anio,2025,Todos,Córdoba,Cancelado,0,3,61,4.9,0.0537,2321500.50
+anio,2025,Todos,Córdoba,Reembolsado,0,4,32,2.6,0.0282,1340916.00
+anio,2025,Todos,Mendoza,Entregado,1,1,798,90.9,1.0,28428526.50
+anio,2025,Todos,Mendoza,Pagado,1,2,9,1.0,0.0113,289372.50
+anio,2025,Todos,Mendoza,Cancelado,0,3,48,5.5,0.0602,1522230.00
+anio,2025,Todos,Mendoza,Reembolsado,0,4,23,2.6,0.0288,786108.00
+anio,2025,Todos,Santa Fe,Entregado,1,1,1085,91.5,1.0,38146500.00
+anio,2025,Todos,Santa Fe,Pagado,1,2,14,1.2,0.0129,589132.50
+anio,2025,Todos,Santa Fe,Cancelado,0,3,63,5.3,0.0581,2119053.00
+anio,2025,Todos,Santa Fe,Reembolsado,0,4,24,2.0,0.0221,968601.00
+anio,2025,Todos,Todas,Entregado,1,1,4846,90.9,1.0,168760960.50
+anio,2025,Todos,Todas,Pagado,1,2,60,1.1,0.0124,1869957.00
+anio,2025,Todos,Todas,Cancelado,0,3,302,5.7,0.0623,10640631.00
+anio,2025,Todos,Todas,Reembolsado,0,4,122,2.3,0.0252,4446330.00
+anio,2025,Todos,Todas,Creado,0,5,1,0.0,0.0002,15720.00
+mes,2024-01,Tienda Online,Buenos Aires,Entregado,1,1,93,83.8,1.0,3174915.00
+mes,2024-01,Tienda Online,Buenos Aires,Cancelado,0,3,15,13.5,0.1613,484666.50
+mes,2024-01,Tienda Online,Buenos Aires,Reembolsado,0,4,3,2.7,0.0323,107670.00
+mes,2024-01,Tienda Online,Córdoba,Entregado,1,1,64,90.1,1.0,2528650.50
+mes,2024-01,Tienda Online,Córdoba,Cancelado,0,3,7,9.9,0.1094,176754.00
+mes,2024-01,Tienda Online,Mendoza,Entregado,1,1,29,90.6,1.0,1132185.00
+mes,2024-01,Tienda Online,Mendoza,Cancelado,0,3,2,6.3,0.069,114330.00
+mes,2024-01,Tienda Online,Mendoza,Reembolsado,0,4,1,3.1,0.0345,19950.00
+mes,2024-01,Tienda Online,Santa Fe,Entregado,1,1,65,83.3,1.0,1966566.00
+mes,2024-01,Tienda Online,Santa Fe,Cancelado,0,3,6,7.7,0.0923,210646.50
+mes,2024-01,Tienda Online,Santa Fe,Reembolsado,0,4,7,9.0,0.1077,337515.00
+mes,2024-01,Tienda Online,Todas,Entregado,1,1,251,86.0,1.0,8802316.50
+mes,2024-01,Tienda Online,Todas,Cancelado,0,3,30,10.3,0.1195,986397.00
+mes,2024-01,Tienda Online,Todas,Reembolsado,0,4,11,3.8,0.0438,465135.00
+mes,2024-01,Tiendas Físicas,Buenos Aires,Entregado,1,1,73,94.8,1.0,2457954.00
+mes,2024-01,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.3,0.0137,36300.00
+mes,2024-01,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,3,3.9,0.0411,83490.00
+mes,2024-01,Tiendas Físicas,Córdoba,Entregado,1,1,52,96.3,1.0,1763091.00
+mes,2024-01,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,3.7,0.0385,45060.00
+mes,2024-01,Tiendas Físicas,Mendoza,Entregado,1,1,40,100.0,1.0,1274433.00
+mes,2024-01,Tiendas Físicas,Santa Fe,Entregado,1,1,44,95.7,1.0,1667670.00
+mes,2024-01,Tiendas Físicas,Santa Fe,Cancelado,0,3,1,2.2,0.0227,32670.00
+mes,2024-01,Tiendas Físicas,Santa Fe,Reembolsado,0,4,1,2.2,0.0227,83490.00
+mes,2024-01,Tiendas Físicas,Todas,Entregado,1,1,209,96.3,1.0,7163148.00
+mes,2024-01,Tiendas Físicas,Todas,Cancelado,0,3,2,0.9,0.0096,68970.00
+mes,2024-01,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.8,0.0287,212040.00
+mes,2024-01,Todos,Buenos Aires,Entregado,1,1,166,88.3,1.0,5632869.00
+mes,2024-01,Todos,Buenos Aires,Cancelado,0,3,16,8.5,0.0964,520966.50
+mes,2024-01,Todos,Buenos Aires,Reembolsado,0,4,6,3.2,0.0361,191160.00
+mes,2024-01,Todos,Córdoba,Entregado,1,1,116,92.8,1.0,4291741.50
+mes,2024-01,Todos,Córdoba,Cancelado,0,3,7,5.6,0.0603,176754.00
+mes,2024-01,Todos,Córdoba,Reembolsado,0,4,2,1.6,0.0172,45060.00
+mes,2024-01,Todos,Mendoza,Entregado,1,1,69,95.8,1.0,2406618.00
+mes,2024-01,Todos,Mendoza,Cancelado,0,3,2,2.8,0.029,114330.00
+mes,2024-01,Todos,Mendoza,Reembolsado,0,4,1,1.4,0.0145,19950.00
+mes,2024-01,Todos,Santa Fe,Entregado,1,1,109,87.9,1.0,3634236.00
+mes,2024-01,Todos,Santa Fe,Cancelado,0,3,7,5.6,0.0642,243316.50
+mes,2024-01,Todos,Santa Fe,Reembolsado,0,4,8,6.5,0.0734,421005.00
+mes,2024-01,Todos,Todas,Entregado,1,1,460,90.4,1.0,15965464.50
+mes,2024-01,Todos,Todas,Cancelado,0,3,32,6.3,0.0696,1055367.00
+mes,2024-01,Todos,Todas,Reembolsado,0,4,17,3.3,0.037,677175.00
+mes,2024-02,Tienda Online,Buenos Aires,Entregado,1,1,104,88.9,1.0,3966750.00
+mes,2024-02,Tienda Online,Buenos Aires,Cancelado,0,3,7,6.0,0.0673,164490.00
+mes,2024-02,Tienda Online,Buenos Aires,Reembolsado,0,4,6,5.1,0.0577,140602.50
+mes,2024-02,Tienda Online,Córdoba,Entregado,1,1,81,91.0,1.0,2625576.00
+mes,2024-02,Tienda Online,Córdoba,Cancelado,0,3,7,7.9,0.0864,194130.00
+mes,2024-02,Tienda Online,Córdoba,Reembolsado,0,4,1,1.1,0.0123,48690.00
+mes,2024-02,Tienda Online,Mendoza,Entregado,1,1,38,88.4,1.0,1313035.50
+mes,2024-02,Tienda Online,Mendoza,Cancelado,0,3,3,7.0,0.0789,96150.00
+mes,2024-02,Tienda Online,Mendoza,Reembolsado,0,4,2,4.7,0.0526,50790.00
+mes,2024-02,Tienda Online,Santa Fe,Entregado,1,1,61,85.9,1.0,2103577.50
+mes,2024-02,Tienda Online,Santa Fe,Cancelado,0,3,8,11.3,0.1311,393732.00
+mes,2024-02,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.8,0.0328,108900.00
+mes,2024-02,Tienda Online,Todas,Entregado,1,1,284,88.8,1.0,10008939.00
+mes,2024-02,Tienda Online,Todas,Cancelado,0,3,25,7.8,0.088,848502.00
+mes,2024-02,Tienda Online,Todas,Reembolsado,0,4,11,3.4,0.0387,348982.50
+mes,2024-02,Tiendas Físicas,Buenos Aires,Entregado,1,1,77,97.5,1.0,3043039.50
+mes,2024-02,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.3,0.013,29040.00
+mes,2024-02,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.3,0.013,14520.00
+mes,2024-02,Tiendas Físicas,Córdoba,Entregado,1,1,51,98.1,1.0,1832835.00
+mes,2024-02,Tiendas Físicas,Córdoba,Cancelado,0,3,1,1.9,0.0196,37800.00
+mes,2024-02,Tiendas Físicas,Mendoza,Entregado,1,1,45,95.7,1.0,1422189.00
+mes,2024-02,Tiendas Físicas,Mendoza,Reembolsado,0,4,2,4.3,0.0444,47190.00
+mes,2024-02,Tiendas Físicas,Santa Fe,Entregado,1,1,56,94.9,1.0,2070877.50
+mes,2024-02,Tiendas Físicas,Santa Fe,Reembolsado,0,4,3,5.1,0.0536,45423.00
+mes,2024-02,Tiendas Físicas,Todas,Entregado,1,1,229,96.6,1.0,8368941.00
+mes,2024-02,Tiendas Físicas,Todas,Cancelado,0,3,2,0.8,0.0087,66840.00
+mes,2024-02,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.5,0.0262,107133.00
+mes,2024-02,Todos,Buenos Aires,Entregado,1,1,181,92.3,1.0,7009789.50
+mes,2024-02,Todos,Buenos Aires,Cancelado,0,3,8,4.1,0.0442,193530.00
+mes,2024-02,Todos,Buenos Aires,Reembolsado,0,4,7,3.6,0.0387,155122.50
+mes,2024-02,Todos,Córdoba,Entregado,1,1,132,93.6,1.0,4458411.00
+mes,2024-02,Todos,Córdoba,Cancelado,0,3,8,5.7,0.0606,231930.00
+mes,2024-02,Todos,Córdoba,Reembolsado,0,4,1,0.7,0.0076,48690.00
+mes,2024-02,Todos,Mendoza,Entregado,1,1,83,92.2,1.0,2735224.50
+mes,2024-02,Todos,Mendoza,Cancelado,0,3,3,3.3,0.0361,96150.00
+mes,2024-02,Todos,Mendoza,Reembolsado,0,4,4,4.4,0.0482,97980.00
+mes,2024-02,Todos,Santa Fe,Entregado,1,1,117,90.0,1.0,4174455.00
+mes,2024-02,Todos,Santa Fe,Cancelado,0,3,8,6.2,0.0684,393732.00
+mes,2024-02,Todos,Santa Fe,Reembolsado,0,4,5,3.8,0.0427,154323.00
+mes,2024-02,Todos,Todas,Entregado,1,1,513,92.1,1.0,18377880.00
+mes,2024-02,Todos,Todas,Cancelado,0,3,27,4.8,0.0526,915342.00
+mes,2024-02,Todos,Todas,Reembolsado,0,4,17,3.1,0.0331,456115.50
+mes,2024-03,Tienda Online,Buenos Aires,Entregado,1,1,111,89.5,1.0,3823638.00
+mes,2024-03,Tienda Online,Buenos Aires,Cancelado,0,3,9,7.3,0.0811,199560.00
+mes,2024-03,Tienda Online,Buenos Aires,Reembolsado,0,4,4,3.2,0.036,91920.00
+mes,2024-03,Tienda Online,Córdoba,Entregado,1,1,52,89.7,1.0,1969246.50
+mes,2024-03,Tienda Online,Córdoba,Cancelado,0,3,4,6.9,0.0769,97476.00
+mes,2024-03,Tienda Online,Córdoba,Reembolsado,0,4,2,3.4,0.0385,61080.00
+mes,2024-03,Tienda Online,Mendoza,Entregado,1,1,30,90.9,1.0,1131822.00
+mes,2024-03,Tienda Online,Mendoza,Cancelado,0,3,2,6.1,0.0667,61680.00
+mes,2024-03,Tienda Online,Mendoza,Reembolsado,0,4,1,3.0,0.0333,65340.00
+mes,2024-03,Tienda Online,Santa Fe,Entregado,1,1,60,83.3,1.0,2433000.00
+mes,2024-03,Tienda Online,Santa Fe,Cancelado,0,3,10,13.9,0.1667,318420.00
+mes,2024-03,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.8,0.0333,32040.00
+mes,2024-03,Tienda Online,Todas,Entregado,1,1,253,88.2,1.0,9357706.50
+mes,2024-03,Tienda Online,Todas,Cancelado,0,3,25,8.7,0.0988,677136.00
+mes,2024-03,Tienda Online,Todas,Reembolsado,0,4,9,3.1,0.0356,250380.00
+mes,2024-03,Tiendas Físicas,Buenos Aires,Entregado,1,1,67,95.7,1.0,2381976.00
+mes,2024-03,Tiendas Físicas,Buenos Aires,Cancelado,0,3,2,2.9,0.0299,50820.00
+mes,2024-03,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.4,0.0149,36300.00
+mes,2024-03,Tiendas Físicas,Córdoba,Entregado,1,1,66,94.3,1.0,2204910.00
+mes,2024-03,Tiendas Físicas,Córdoba,Cancelado,0,3,1,1.4,0.0152,36300.00
+mes,2024-03,Tiendas Físicas,Córdoba,Reembolsado,0,4,3,4.3,0.0455,95880.00
+mes,2024-03,Tiendas Físicas,Mendoza,Entregado,1,1,35,100.0,1.0,1085295.00
+mes,2024-03,Tiendas Físicas,Santa Fe,Entregado,1,1,61,96.8,1.0,2078586.00
+mes,2024-03,Tiendas Físicas,Santa Fe,Cancelado,0,3,1,1.6,0.0164,29040.00
+mes,2024-03,Tiendas Físicas,Santa Fe,Reembolsado,0,4,1,1.6,0.0164,32670.00
+mes,2024-03,Tiendas Físicas,Todas,Entregado,1,1,229,96.2,1.0,7750767.00
+mes,2024-03,Tiendas Físicas,Todas,Cancelado,0,3,4,1.7,0.0175,116160.00
+mes,2024-03,Tiendas Físicas,Todas,Reembolsado,0,4,5,2.1,0.0218,164850.00
+mes,2024-03,Todos,Buenos Aires,Entregado,1,1,178,91.8,1.0,6205614.00
+mes,2024-03,Todos,Buenos Aires,Cancelado,0,3,11,5.7,0.0618,250380.00
+mes,2024-03,Todos,Buenos Aires,Reembolsado,0,4,5,2.6,0.0281,128220.00
+mes,2024-03,Todos,Córdoba,Entregado,1,1,118,92.2,1.0,4174156.50
+mes,2024-03,Todos,Córdoba,Cancelado,0,3,5,3.9,0.0424,133776.00
+mes,2024-03,Todos,Córdoba,Reembolsado,0,4,5,3.9,0.0424,156960.00
+mes,2024-03,Todos,Mendoza,Entregado,1,1,65,95.6,1.0,2217117.00
+mes,2024-03,Todos,Mendoza,Cancelado,0,3,2,2.9,0.0308,61680.00
+mes,2024-03,Todos,Mendoza,Reembolsado,0,4,1,1.5,0.0154,65340.00
+mes,2024-03,Todos,Santa Fe,Entregado,1,1,121,89.6,1.0,4511586.00
+mes,2024-03,Todos,Santa Fe,Cancelado,0,3,11,8.1,0.0909,347460.00
+mes,2024-03,Todos,Santa Fe,Reembolsado,0,4,3,2.2,0.0248,64710.00
+mes,2024-03,Todos,Todas,Entregado,1,1,482,91.8,1.0,17108473.50
+mes,2024-03,Todos,Todas,Cancelado,0,3,29,5.5,0.0602,793296.00
+mes,2024-03,Todos,Todas,Reembolsado,0,4,14,2.7,0.029,415230.00
+mes,2024-04,Tienda Online,Buenos Aires,Entregado,1,1,101,87.8,1.0,3364210.50
+mes,2024-04,Tienda Online,Buenos Aires,Cancelado,0,3,8,7.0,0.0792,269760.00
+mes,2024-04,Tienda Online,Buenos Aires,Reembolsado,0,4,6,5.2,0.0594,205650.00
+mes,2024-04,Tienda Online,Córdoba,Entregado,1,1,50,92.6,1.0,1734786.00
+mes,2024-04,Tienda Online,Córdoba,Cancelado,0,3,3,5.6,0.06,111900.00
+mes,2024-04,Tienda Online,Córdoba,Reembolsado,0,4,1,1.9,0.02,27636.00
+mes,2024-04,Tienda Online,Mendoza,Entregado,1,1,32,91.4,1.0,1117861.50
+mes,2024-04,Tienda Online,Mendoza,Cancelado,0,3,2,5.7,0.0625,78030.00
+mes,2024-04,Tienda Online,Mendoza,Reembolsado,0,4,1,2.9,0.0313,45360.00
+mes,2024-04,Tienda Online,Santa Fe,Entregado,1,1,61,89.7,1.0,2213737.50
+mes,2024-04,Tienda Online,Santa Fe,Cancelado,0,3,6,8.8,0.0984,149844.00
+mes,2024-04,Tienda Online,Santa Fe,Reembolsado,0,4,1,1.5,0.0164,37800.00
+mes,2024-04,Tienda Online,Todas,Entregado,1,1,244,89.7,1.0,8430595.50
+mes,2024-04,Tienda Online,Todas,Cancelado,0,3,19,7.0,0.0779,609534.00
+mes,2024-04,Tienda Online,Todas,Reembolsado,0,4,9,3.3,0.0369,316446.00
+mes,2024-04,Tiendas Físicas,Buenos Aires,Entregado,1,1,49,100.0,1.0,1601526.00
+mes,2024-04,Tiendas Físicas,Córdoba,Entregado,1,1,41,97.6,1.0,1505457.00
+mes,2024-04,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,2.4,0.0244,14520.00
+mes,2024-04,Tiendas Físicas,Mendoza,Entregado,1,1,42,97.7,1.0,1402995.00
+mes,2024-04,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.3,0.0238,32670.00
+mes,2024-04,Tiendas Físicas,Santa Fe,Entregado,1,1,62,100.0,1.0,2303235.00
+mes,2024-04,Tiendas Físicas,Todas,Entregado,1,1,194,99.0,1.0,6813213.00
+mes,2024-04,Tiendas Físicas,Todas,Reembolsado,0,4,2,1.0,0.0103,47190.00
+mes,2024-04,Todos,Buenos Aires,Entregado,1,1,150,91.5,1.0,4965736.50
+mes,2024-04,Todos,Buenos Aires,Cancelado,0,3,8,4.9,0.0533,269760.00
+mes,2024-04,Todos,Buenos Aires,Reembolsado,0,4,6,3.7,0.04,205650.00
+mes,2024-04,Todos,Córdoba,Entregado,1,1,91,94.8,1.0,3240243.00
+mes,2024-04,Todos,Córdoba,Cancelado,0,3,3,3.1,0.033,111900.00
+mes,2024-04,Todos,Córdoba,Reembolsado,0,4,2,2.1,0.022,42156.00
+mes,2024-04,Todos,Mendoza,Entregado,1,1,74,94.9,1.0,2520856.50
+mes,2024-04,Todos,Mendoza,Cancelado,0,3,2,2.6,0.027,78030.00
+mes,2024-04,Todos,Mendoza,Reembolsado,0,4,2,2.6,0.027,78030.00
+mes,2024-04,Todos,Santa Fe,Entregado,1,1,123,94.6,1.0,4516972.50
+mes,2024-04,Todos,Santa Fe,Cancelado,0,3,6,4.6,0.0488,149844.00
+mes,2024-04,Todos,Santa Fe,Reembolsado,0,4,1,0.8,0.0081,37800.00
+mes,2024-04,Todos,Todas,Entregado,1,1,438,93.6,1.0,15243808.50
+mes,2024-04,Todos,Todas,Cancelado,0,3,19,4.1,0.0434,609534.00
+mes,2024-04,Todos,Todas,Reembolsado,0,4,11,2.4,0.0251,363636.00
+mes,2024-05,Tienda Online,Buenos Aires,Entregado,1,1,121,89.0,1.0,3958954.50
+mes,2024-05,Tienda Online,Buenos Aires,Cancelado,0,3,11,8.1,0.0909,349620.00
+mes,2024-05,Tienda Online,Buenos Aires,Reembolsado,0,4,4,2.9,0.0331,95328.00
+mes,2024-05,Tienda Online,Córdoba,Entregado,1,1,59,86.8,1.0,1900341.00
+mes,2024-05,Tienda Online,Córdoba,Cancelado,0,3,6,8.8,0.1017,130920.00
+mes,2024-05,Tienda Online,Córdoba,Reembolsado,0,4,3,4.4,0.0508,87216.00
+mes,2024-05,Tienda Online,Mendoza,Entregado,1,1,39,88.6,1.0,1325346.00
+mes,2024-05,Tienda Online,Mendoza,Cancelado,0,3,3,6.8,0.0769,108870.00
+mes,2024-05,Tienda Online,Mendoza,Reembolsado,0,4,2,4.5,0.0513,52620.00
+mes,2024-05,Tienda Online,Santa Fe,Entregado,1,1,66,83.5,1.0,2316579.00
+mes,2024-05,Tienda Online,Santa Fe,Cancelado,0,3,8,10.1,0.1212,234738.00
+mes,2024-05,Tienda Online,Santa Fe,Reembolsado,0,4,5,6.3,0.0758,90168.00
+mes,2024-05,Tienda Online,Todas,Entregado,1,1,285,87.2,1.0,9501220.50
+mes,2024-05,Tienda Online,Todas,Cancelado,0,3,28,8.6,0.0982,824148.00
+mes,2024-05,Tienda Online,Todas,Reembolsado,0,4,14,4.3,0.0491,325332.00
+mes,2024-05,Tiendas Físicas,Buenos Aires,Entregado,1,1,55,100.0,1.0,2002278.00
+mes,2024-05,Tiendas Físicas,Córdoba,Entregado,1,1,54,96.4,1.0,2053854.00
+mes,2024-05,Tiendas Físicas,Córdoba,Cancelado,0,3,1,1.8,0.0185,18150.00
+mes,2024-05,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,1.8,0.0185,14520.00
+mes,2024-05,Tiendas Físicas,Mendoza,Entregado,1,1,37,97.4,1.0,1229814.00
+mes,2024-05,Tiendas Físicas,Mendoza,Cancelado,0,3,1,2.6,0.027,16335.00
+mes,2024-05,Tiendas Físicas,Santa Fe,Entregado,1,1,43,97.7,1.0,1545339.00
+mes,2024-05,Tiendas Físicas,Santa Fe,Cancelado,0,3,1,2.3,0.0233,43560.00
+mes,2024-05,Tiendas Físicas,Todas,Entregado,1,1,189,97.9,1.0,6831285.00
+mes,2024-05,Tiendas Físicas,Todas,Cancelado,0,3,3,1.6,0.0159,78045.00
+mes,2024-05,Tiendas Físicas,Todas,Reembolsado,0,4,1,0.5,0.0053,14520.00
+mes,2024-05,Todos,Buenos Aires,Entregado,1,1,176,92.1,1.0,5961232.50
+mes,2024-05,Todos,Buenos Aires,Cancelado,0,3,11,5.8,0.0625,349620.00
+mes,2024-05,Todos,Buenos Aires,Reembolsado,0,4,4,2.1,0.0227,95328.00
+mes,2024-05,Todos,Córdoba,Entregado,1,1,113,91.1,1.0,3954195.00
+mes,2024-05,Todos,Córdoba,Cancelado,0,3,7,5.6,0.0619,149070.00
+mes,2024-05,Todos,Córdoba,Reembolsado,0,4,4,3.2,0.0354,101736.00
+mes,2024-05,Todos,Mendoza,Entregado,1,1,76,92.7,1.0,2555160.00
+mes,2024-05,Todos,Mendoza,Cancelado,0,3,4,4.9,0.0526,125205.00
+mes,2024-05,Todos,Mendoza,Reembolsado,0,4,2,2.4,0.0263,52620.00
+mes,2024-05,Todos,Santa Fe,Entregado,1,1,109,88.6,1.0,3861918.00
+mes,2024-05,Todos,Santa Fe,Cancelado,0,3,9,7.3,0.0826,278298.00
+mes,2024-05,Todos,Santa Fe,Reembolsado,0,4,5,4.1,0.0459,90168.00
+mes,2024-05,Todos,Todas,Entregado,1,1,474,91.2,1.0,16332505.50
+mes,2024-05,Todos,Todas,Cancelado,0,3,31,6.0,0.0654,902193.00
+mes,2024-05,Todos,Todas,Reembolsado,0,4,15,2.9,0.0316,339852.00
+mes,2024-06,Tienda Online,Buenos Aires,Entregado,1,1,125,94.0,1.0,4974529.50
+mes,2024-06,Tienda Online,Buenos Aires,Cancelado,0,3,6,4.5,0.048,148770.00
+mes,2024-06,Tienda Online,Buenos Aires,Reembolsado,0,4,2,1.5,0.016,124620.00
+mes,2024-06,Tienda Online,Córdoba,Entregado,1,1,64,91.4,1.0,2228278.50
+mes,2024-06,Tienda Online,Córdoba,Cancelado,0,3,5,7.1,0.0781,189630.00
+mes,2024-06,Tienda Online,Córdoba,Reembolsado,0,4,1,1.4,0.0156,34170.00
+mes,2024-06,Tienda Online,Mendoza,Entregado,1,1,46,86.8,1.0,1311645.00
+mes,2024-06,Tienda Online,Mendoza,Cancelado,0,3,6,11.3,0.1304,133494.00
+mes,2024-06,Tienda Online,Mendoza,Reembolsado,0,4,1,1.9,0.0217,38100.00
+mes,2024-06,Tienda Online,Santa Fe,Entregado,1,1,70,86.4,1.0,2485570.50
+mes,2024-06,Tienda Online,Santa Fe,Cancelado,0,3,6,7.4,0.0857,400036.50
+mes,2024-06,Tienda Online,Santa Fe,Reembolsado,0,4,5,6.2,0.0714,262908.00
+mes,2024-06,Tienda Online,Todas,Entregado,1,1,305,90.5,1.0,11000023.50
+mes,2024-06,Tienda Online,Todas,Cancelado,0,3,23,6.8,0.0754,871930.50
+mes,2024-06,Tienda Online,Todas,Reembolsado,0,4,9,2.7,0.0295,459798.00
+mes,2024-06,Tiendas Físicas,Buenos Aires,Entregado,1,1,75,96.2,1.0,2781891.00
+mes,2024-06,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.3,0.0133,14520.00
+mes,2024-06,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,2,2.6,0.0267,112530.00
+mes,2024-06,Tiendas Físicas,Córdoba,Entregado,1,1,76,96.2,1.0,2597676.00
+mes,2024-06,Tiendas Físicas,Córdoba,Cancelado,0,3,1,1.3,0.0132,43560.00
+mes,2024-06,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,2.5,0.0263,65340.00
+mes,2024-06,Tiendas Físicas,Mendoza,Entregado,1,1,43,93.5,1.0,1535656.50
+mes,2024-06,Tiendas Físicas,Mendoza,Cancelado,0,3,1,2.2,0.0233,16335.00
+mes,2024-06,Tiendas Físicas,Mendoza,Reembolsado,0,4,2,4.3,0.0465,29040.00
+mes,2024-06,Tiendas Físicas,Santa Fe,Entregado,1,1,56,100.0,1.0,1829301.00
+mes,2024-06,Tiendas Físicas,Todas,Entregado,1,1,250,96.5,1.0,8744524.50
+mes,2024-06,Tiendas Físicas,Todas,Cancelado,0,3,3,1.2,0.012,74415.00
+mes,2024-06,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.3,0.024,206910.00
+mes,2024-06,Todos,Buenos Aires,Entregado,1,1,200,94.8,1.0,7756420.50
+mes,2024-06,Todos,Buenos Aires,Cancelado,0,3,7,3.3,0.035,163290.00
+mes,2024-06,Todos,Buenos Aires,Reembolsado,0,4,4,1.9,0.02,237150.00
+mes,2024-06,Todos,Córdoba,Entregado,1,1,140,94.0,1.0,4825954.50
+mes,2024-06,Todos,Córdoba,Cancelado,0,3,6,4.0,0.0429,233190.00
+mes,2024-06,Todos,Córdoba,Reembolsado,0,4,3,2.0,0.0214,99510.00
+mes,2024-06,Todos,Mendoza,Entregado,1,1,89,89.9,1.0,2847301.50
+mes,2024-06,Todos,Mendoza,Cancelado,0,3,7,7.1,0.0787,149829.00
+mes,2024-06,Todos,Mendoza,Reembolsado,0,4,3,3.0,0.0337,67140.00
+mes,2024-06,Todos,Santa Fe,Entregado,1,1,126,92.0,1.0,4314871.50
+mes,2024-06,Todos,Santa Fe,Cancelado,0,3,6,4.4,0.0476,400036.50
+mes,2024-06,Todos,Santa Fe,Reembolsado,0,4,5,3.6,0.0397,262908.00
+mes,2024-06,Todos,Todas,Entregado,1,1,555,93.1,1.0,19744548.00
+mes,2024-06,Todos,Todas,Cancelado,0,3,26,4.4,0.0468,946345.50
+mes,2024-06,Todos,Todas,Reembolsado,0,4,15,2.5,0.027,666708.00
+mes,2024-07,Tienda Online,Buenos Aires,Entregado,1,1,92,93.9,1.0,3249985.50
+mes,2024-07,Tienda Online,Buenos Aires,Cancelado,0,3,3,3.1,0.0326,304234.50
+mes,2024-07,Tienda Online,Buenos Aires,Reembolsado,0,4,3,3.1,0.0326,68940.00
+mes,2024-07,Tienda Online,Córdoba,Entregado,1,1,35,72.9,1.0,1094118.00
+mes,2024-07,Tienda Online,Córdoba,Cancelado,0,3,10,20.8,0.2857,211383.00
+mes,2024-07,Tienda Online,Córdoba,Reembolsado,0,4,3,6.3,0.0857,48060.00
+mes,2024-07,Tienda Online,Mendoza,Entregado,1,1,24,82.8,1.0,1159182.00
+mes,2024-07,Tienda Online,Mendoza,Cancelado,0,3,2,6.9,0.0833,70770.00
+mes,2024-07,Tienda Online,Mendoza,Reembolsado,0,4,3,10.3,0.125,51138.00
+mes,2024-07,Tienda Online,Santa Fe,Entregado,1,1,51,83.6,1.0,1887534.00
+mes,2024-07,Tienda Online,Santa Fe,Cancelado,0,3,5,8.2,0.098,190404.00
+mes,2024-07,Tienda Online,Santa Fe,Reembolsado,0,4,5,8.2,0.098,164268.00
+mes,2024-07,Tienda Online,Todas,Entregado,1,1,202,85.6,1.0,7390819.50
+mes,2024-07,Tienda Online,Todas,Cancelado,0,3,20,8.5,0.099,776791.50
+mes,2024-07,Tienda Online,Todas,Reembolsado,0,4,14,5.9,0.0693,332406.00
+mes,2024-07,Tiendas Físicas,Buenos Aires,Entregado,1,1,56,98.2,1.0,1976505.00
+mes,2024-07,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.8,0.0179,14520.00
+mes,2024-07,Tiendas Físicas,Córdoba,Entregado,1,1,48,96.0,1.0,1771803.00
+mes,2024-07,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,4.0,0.0417,29040.00
+mes,2024-07,Tiendas Físicas,Mendoza,Entregado,1,1,40,100.0,1.0,1280982.00
+mes,2024-07,Tiendas Físicas,Santa Fe,Entregado,1,1,41,97.6,1.0,1191195.00
+mes,2024-07,Tiendas Físicas,Santa Fe,Reembolsado,0,4,1,2.4,0.0244,14520.00
+mes,2024-07,Tiendas Físicas,Todas,Entregado,1,1,185,97.9,1.0,6220485.00
+mes,2024-07,Tiendas Físicas,Todas,Cancelado,0,3,1,0.5,0.0054,14520.00
+mes,2024-07,Tiendas Físicas,Todas,Reembolsado,0,4,3,1.6,0.0162,43560.00
+mes,2024-07,Todos,Buenos Aires,Entregado,1,1,148,95.5,1.0,5226490.50
+mes,2024-07,Todos,Buenos Aires,Cancelado,0,3,4,2.6,0.027,318754.50
+mes,2024-07,Todos,Buenos Aires,Reembolsado,0,4,3,1.9,0.0203,68940.00
+mes,2024-07,Todos,Córdoba,Entregado,1,1,83,84.7,1.0,2865921.00
+mes,2024-07,Todos,Córdoba,Cancelado,0,3,10,10.2,0.1205,211383.00
+mes,2024-07,Todos,Córdoba,Reembolsado,0,4,5,5.1,0.0602,77100.00
+mes,2024-07,Todos,Mendoza,Entregado,1,1,64,92.8,1.0,2440164.00
+mes,2024-07,Todos,Mendoza,Cancelado,0,3,2,2.9,0.0313,70770.00
+mes,2024-07,Todos,Mendoza,Reembolsado,0,4,3,4.3,0.0469,51138.00
+mes,2024-07,Todos,Santa Fe,Entregado,1,1,92,89.3,1.0,3078729.00
+mes,2024-07,Todos,Santa Fe,Cancelado,0,3,5,4.9,0.0543,190404.00
+mes,2024-07,Todos,Santa Fe,Reembolsado,0,4,6,5.8,0.0652,178788.00
+mes,2024-07,Todos,Todas,Entregado,1,1,387,91.1,1.0,13611304.50
+mes,2024-07,Todos,Todas,Cancelado,0,3,21,4.9,0.0543,791311.50
+mes,2024-07,Todos,Todas,Reembolsado,0,4,17,4.0,0.0439,375966.00
+mes,2024-08,Tienda Online,Buenos Aires,Entregado,1,1,116,91.3,1.0,4007770.50
+mes,2024-08,Tienda Online,Buenos Aires,Cancelado,0,3,4,3.1,0.0345,123390.00
+mes,2024-08,Tienda Online,Buenos Aires,Reembolsado,0,4,7,5.5,0.0603,263730.00
+mes,2024-08,Tienda Online,Córdoba,Entregado,1,1,55,88.7,1.0,1854100.50
+mes,2024-08,Tienda Online,Córdoba,Cancelado,0,3,4,6.5,0.0727,111270.00
+mes,2024-08,Tienda Online,Córdoba,Reembolsado,0,4,3,4.8,0.0545,144570.00
+mes,2024-08,Tienda Online,Mendoza,Entregado,1,1,22,84.6,1.0,767656.50
+mes,2024-08,Tienda Online,Mendoza,Cancelado,0,3,2,7.7,0.0909,70770.00
+mes,2024-08,Tienda Online,Mendoza,Reembolsado,0,4,2,7.7,0.0909,79830.00
+mes,2024-08,Tienda Online,Santa Fe,Entregado,1,1,52,81.3,1.0,1457208.00
+mes,2024-08,Tienda Online,Santa Fe,Cancelado,0,3,5,7.8,0.0962,179514.00
+mes,2024-08,Tienda Online,Santa Fe,Reembolsado,0,4,7,10.9,0.1346,162960.00
+mes,2024-08,Tienda Online,Todas,Entregado,1,1,245,87.8,1.0,8086735.50
+mes,2024-08,Tienda Online,Todas,Cancelado,0,3,15,5.4,0.0612,484944.00
+mes,2024-08,Tienda Online,Todas,Reembolsado,0,4,19,6.8,0.0776,651090.00
+mes,2024-08,Tiendas Físicas,Buenos Aires,Entregado,1,1,54,96.4,1.0,1952436.00
+mes,2024-08,Tiendas Físicas,Buenos Aires,Cancelado,0,3,2,3.6,0.037,32670.00
+mes,2024-08,Tiendas Físicas,Córdoba,Entregado,1,1,48,96.0,1.0,1575516.00
+mes,2024-08,Tiendas Físicas,Córdoba,Cancelado,0,3,1,2.0,0.0208,50820.00
+mes,2024-08,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,2.0,0.0208,54450.00
+mes,2024-08,Tiendas Físicas,Mendoza,Entregado,1,1,49,98.0,1.0,1869420.00
+mes,2024-08,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.0,0.0204,101640.00
+mes,2024-08,Tiendas Físicas,Santa Fe,Entregado,1,1,48,96.0,1.0,1520436.00
+mes,2024-08,Tiendas Físicas,Santa Fe,Reembolsado,0,4,2,4.0,0.0417,79860.00
+mes,2024-08,Tiendas Físicas,Todas,Entregado,1,1,199,96.6,1.0,6917808.00
+mes,2024-08,Tiendas Físicas,Todas,Cancelado,0,3,3,1.5,0.0151,83490.00
+mes,2024-08,Tiendas Físicas,Todas,Reembolsado,0,4,4,1.9,0.0201,235950.00
+mes,2024-08,Todos,Buenos Aires,Entregado,1,1,170,92.9,1.0,5960206.50
+mes,2024-08,Todos,Buenos Aires,Cancelado,0,3,6,3.3,0.0353,156060.00
+mes,2024-08,Todos,Buenos Aires,Reembolsado,0,4,7,3.8,0.0412,263730.00
+mes,2024-08,Todos,Córdoba,Entregado,1,1,103,92.0,1.0,3429616.50
+mes,2024-08,Todos,Córdoba,Cancelado,0,3,5,4.5,0.0485,162090.00
+mes,2024-08,Todos,Córdoba,Reembolsado,0,4,4,3.6,0.0388,199020.00
+mes,2024-08,Todos,Mendoza,Entregado,1,1,71,93.4,1.0,2637076.50
+mes,2024-08,Todos,Mendoza,Cancelado,0,3,2,2.6,0.0282,70770.00
+mes,2024-08,Todos,Mendoza,Reembolsado,0,4,3,3.9,0.0423,181470.00
+mes,2024-08,Todos,Santa Fe,Entregado,1,1,100,87.7,1.0,2977644.00
+mes,2024-08,Todos,Santa Fe,Cancelado,0,3,5,4.4,0.05,179514.00
+mes,2024-08,Todos,Santa Fe,Reembolsado,0,4,9,7.9,0.09,242820.00
+mes,2024-08,Todos,Todas,Entregado,1,1,444,91.5,1.0,15004543.50
+mes,2024-08,Todos,Todas,Cancelado,0,3,18,3.7,0.0405,568434.00
+mes,2024-08,Todos,Todas,Reembolsado,0,4,23,4.7,0.0518,887040.00
+mes,2024-09,Tienda Online,Buenos Aires,Entregado,1,1,102,88.7,1.0,3575002.50
+mes,2024-09,Tienda Online,Buenos Aires,Cancelado,0,3,10,8.7,0.098,425850.00
+mes,2024-09,Tienda Online,Buenos Aires,Reembolsado,0,4,3,2.6,0.0294,111300.00
+mes,2024-09,Tienda Online,Córdoba,Entregado,1,1,58,93.5,1.0,1915543.50
+mes,2024-09,Tienda Online,Córdoba,Cancelado,0,3,4,6.5,0.069,167850.00
+mes,2024-09,Tienda Online,Mendoza,Entregado,1,1,25,86.2,1.0,871807.50
+mes,2024-09,Tienda Online,Mendoza,Cancelado,0,3,1,3.4,0.04,19042.50
+mes,2024-09,Tienda Online,Mendoza,Reembolsado,0,4,3,10.3,0.12,172410.00
+mes,2024-09,Tienda Online,Santa Fe,Entregado,1,1,63,92.6,1.0,2245836.00
+mes,2024-09,Tienda Online,Santa Fe,Cancelado,0,3,3,4.4,0.0476,108270.00
+mes,2024-09,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.9,0.0317,61080.00
+mes,2024-09,Tienda Online,Todas,Entregado,1,1,248,90.5,1.0,8608189.50
+mes,2024-09,Tienda Online,Todas,Cancelado,0,3,18,6.6,0.0726,721012.50
+mes,2024-09,Tienda Online,Todas,Reembolsado,0,4,8,2.9,0.0323,344790.00
+mes,2024-09,Tiendas Físicas,Buenos Aires,Entregado,1,1,57,95.0,1.0,1970082.00
+mes,2024-09,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,3,5.0,0.0526,58080.00
+mes,2024-09,Tiendas Físicas,Córdoba,Entregado,1,1,50,98.0,1.0,1576242.00
+mes,2024-09,Tiendas Físicas,Córdoba,Cancelado,0,3,1,2.0,0.02,36300.00
+mes,2024-09,Tiendas Físicas,Mendoza,Entregado,1,1,45,100.0,1.0,1265721.00
+mes,2024-09,Tiendas Físicas,Santa Fe,Entregado,1,1,43,100.0,1.0,1499553.00
+mes,2024-09,Tiendas Físicas,Todas,Entregado,1,1,195,98.0,1.0,6311598.00
+mes,2024-09,Tiendas Físicas,Todas,Cancelado,0,3,1,0.5,0.0051,36300.00
+mes,2024-09,Tiendas Físicas,Todas,Reembolsado,0,4,3,1.5,0.0154,58080.00
+mes,2024-09,Todos,Buenos Aires,Entregado,1,1,159,90.9,1.0,5545084.50
+mes,2024-09,Todos,Buenos Aires,Cancelado,0,3,10,5.7,0.0629,425850.00
+mes,2024-09,Todos,Buenos Aires,Reembolsado,0,4,6,3.4,0.0377,169380.00
+mes,2024-09,Todos,Córdoba,Entregado,1,1,108,95.6,1.0,3491785.50
+mes,2024-09,Todos,Córdoba,Cancelado,0,3,5,4.4,0.0463,204150.00
+mes,2024-09,Todos,Mendoza,Entregado,1,1,70,94.6,1.0,2137528.50
+mes,2024-09,Todos,Mendoza,Cancelado,0,3,1,1.4,0.0143,19042.50
+mes,2024-09,Todos,Mendoza,Reembolsado,0,4,3,4.1,0.0429,172410.00
+mes,2024-09,Todos,Santa Fe,Entregado,1,1,106,95.5,1.0,3745389.00
+mes,2024-09,Todos,Santa Fe,Cancelado,0,3,3,2.7,0.0283,108270.00
+mes,2024-09,Todos,Santa Fe,Reembolsado,0,4,2,1.8,0.0189,61080.00
+mes,2024-09,Todos,Todas,Entregado,1,1,443,93.7,1.0,14919787.50
+mes,2024-09,Todos,Todas,Cancelado,0,3,19,4.0,0.0429,757312.50
+mes,2024-09,Todos,Todas,Reembolsado,0,4,11,2.3,0.0248,402870.00
+mes,2024-10,Tienda Online,Buenos Aires,Entregado,1,1,116,87.2,1.0,3818778.00
+mes,2024-10,Tienda Online,Buenos Aires,Cancelado,0,3,14,10.5,0.1207,558900.00
+mes,2024-10,Tienda Online,Buenos Aires,Reembolsado,0,4,3,2.3,0.0259,108870.00
+mes,2024-10,Tienda Online,Córdoba,Entregado,1,1,74,93.7,1.0,2533000.50
+mes,2024-10,Tienda Online,Córdoba,Cancelado,0,3,4,5.1,0.0541,149700.00
+mes,2024-10,Tienda Online,Córdoba,Reembolsado,0,4,1,1.3,0.0135,30540.00
+mes,2024-10,Tienda Online,Mendoza,Entregado,1,1,50,86.2,1.0,1999756.50
+mes,2024-10,Tienda Online,Mendoza,Cancelado,0,3,7,12.1,0.14,188655.00
+mes,2024-10,Tienda Online,Mendoza,Reembolsado,0,4,1,1.7,0.02,54450.00
+mes,2024-10,Tienda Online,Santa Fe,Entregado,1,1,78,85.7,1.0,2492488.50
+mes,2024-10,Tienda Online,Santa Fe,Cancelado,0,3,9,9.9,0.1154,262470.00
+mes,2024-10,Tienda Online,Santa Fe,Reembolsado,0,4,4,4.4,0.0513,96750.00
+mes,2024-10,Tienda Online,Todas,Entregado,1,1,318,88.1,1.0,10844023.50
+mes,2024-10,Tienda Online,Todas,Cancelado,0,3,34,9.4,0.1069,1159725.00
+mes,2024-10,Tienda Online,Todas,Reembolsado,0,4,9,2.5,0.0283,290610.00
+mes,2024-10,Tiendas Físicas,Buenos Aires,Entregado,1,1,65,97.0,1.0,2319540.00
+mes,2024-10,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.5,0.0154,14520.00
+mes,2024-10,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.5,0.0154,39204.00
+mes,2024-10,Tiendas Físicas,Córdoba,Entregado,1,1,53,91.4,1.0,1748485.50
+mes,2024-10,Tiendas Físicas,Córdoba,Cancelado,0,3,3,5.2,0.0566,141570.00
+mes,2024-10,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,3.4,0.0377,56991.00
+mes,2024-10,Tiendas Físicas,Mendoza,Entregado,1,1,46,97.9,1.0,1678845.00
+mes,2024-10,Tiendas Físicas,Mendoza,Cancelado,0,3,1,2.1,0.0217,83490.00
+mes,2024-10,Tiendas Físicas,Santa Fe,Entregado,1,1,57,100.0,1.0,1683108.00
+mes,2024-10,Tiendas Físicas,Todas,Entregado,1,1,221,96.5,1.0,7429978.50
+mes,2024-10,Tiendas Físicas,Todas,Cancelado,0,3,5,2.2,0.0226,239580.00
+mes,2024-10,Tiendas Físicas,Todas,Reembolsado,0,4,3,1.3,0.0136,96195.00
+mes,2024-10,Todos,Buenos Aires,Entregado,1,1,181,90.5,1.0,6138318.00
+mes,2024-10,Todos,Buenos Aires,Cancelado,0,3,15,7.5,0.0829,573420.00
+mes,2024-10,Todos,Buenos Aires,Reembolsado,0,4,4,2.0,0.0221,148074.00
+mes,2024-10,Todos,Córdoba,Entregado,1,1,127,92.7,1.0,4281486.00
+mes,2024-10,Todos,Córdoba,Cancelado,0,3,7,5.1,0.0551,291270.00
+mes,2024-10,Todos,Córdoba,Reembolsado,0,4,3,2.2,0.0236,87531.00
+mes,2024-10,Todos,Mendoza,Entregado,1,1,96,91.4,1.0,3678601.50
+mes,2024-10,Todos,Mendoza,Cancelado,0,3,8,7.6,0.0833,272145.00
+mes,2024-10,Todos,Mendoza,Reembolsado,0,4,1,1.0,0.0104,54450.00
+mes,2024-10,Todos,Santa Fe,Entregado,1,1,135,91.2,1.0,4175596.50
+mes,2024-10,Todos,Santa Fe,Cancelado,0,3,9,6.1,0.0667,262470.00
+mes,2024-10,Todos,Santa Fe,Reembolsado,0,4,4,2.7,0.0296,96750.00
+mes,2024-10,Todos,Todas,Entregado,1,1,539,91.4,1.0,18274002.00
+mes,2024-10,Todos,Todas,Cancelado,0,3,39,6.6,0.0724,1399305.00
+mes,2024-10,Todos,Todas,Reembolsado,0,4,12,2.0,0.0223,386805.00
+mes,2024-11,Tienda Online,Buenos Aires,Entregado,1,1,157,89.2,1.0,5075121.00
+mes,2024-11,Tienda Online,Buenos Aires,Cancelado,0,3,17,9.7,0.1083,608812.50
+mes,2024-11,Tienda Online,Buenos Aires,Reembolsado,0,4,2,1.1,0.0127,44034.00
+mes,2024-11,Tienda Online,Córdoba,Entregado,1,1,88,92.6,1.0,2779488.00
+mes,2024-11,Tienda Online,Córdoba,Cancelado,0,3,6,6.3,0.0682,247080.00
+mes,2024-11,Tienda Online,Córdoba,Reembolsado,0,4,1,1.1,0.0114,43197.00
+mes,2024-11,Tienda Online,Mendoza,Entregado,1,1,53,91.4,1.0,1762611.00
+mes,2024-11,Tienda Online,Mendoza,Cancelado,0,3,5,8.6,0.0943,125916.00
+mes,2024-11,Tienda Online,Santa Fe,Entregado,1,1,69,84.1,1.0,2309302.50
+mes,2024-11,Tienda Online,Santa Fe,Cancelado,0,3,10,12.2,0.1449,262240.50
+mes,2024-11,Tienda Online,Santa Fe,Reembolsado,0,4,3,3.7,0.0435,114937.50
+mes,2024-11,Tienda Online,Todas,Entregado,1,1,367,89.3,1.0,11926522.50
+mes,2024-11,Tienda Online,Todas,Cancelado,0,3,38,9.2,0.1035,1244049.00
+mes,2024-11,Tienda Online,Todas,Reembolsado,0,4,6,1.5,0.0163,202168.50
+mes,2024-11,Tiendas Físicas,Buenos Aires,Entregado,1,1,71,97.3,1.0,1984743.00
+mes,2024-11,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.4,0.0141,30603.00
+mes,2024-11,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.4,0.0141,14520.00
+mes,2024-11,Tiendas Físicas,Córdoba,Entregado,1,1,44,91.7,1.0,1751341.50
+mes,2024-11,Tiendas Físicas,Córdoba,Cancelado,0,3,1,2.1,0.0227,32670.00
+mes,2024-11,Tiendas Físicas,Córdoba,Reembolsado,0,4,3,6.3,0.0682,83490.00
+mes,2024-11,Tiendas Físicas,Mendoza,Entregado,1,1,35,97.2,1.0,1356864.00
+mes,2024-11,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.8,0.0286,19950.00
+mes,2024-11,Tiendas Físicas,Santa Fe,Entregado,1,1,55,96.5,1.0,1729428.00
+mes,2024-11,Tiendas Físicas,Santa Fe,Cancelado,0,3,1,1.8,0.0182,18150.00
+mes,2024-11,Tiendas Físicas,Santa Fe,Reembolsado,0,4,1,1.8,0.0182,36300.00
+mes,2024-11,Tiendas Físicas,Todas,Entregado,1,1,205,95.8,1.0,6822376.50
+mes,2024-11,Tiendas Físicas,Todas,Cancelado,0,3,3,1.4,0.0146,81423.00
+mes,2024-11,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.8,0.0293,154260.00
+mes,2024-11,Todos,Buenos Aires,Entregado,1,1,228,91.6,1.0,7059864.00
+mes,2024-11,Todos,Buenos Aires,Cancelado,0,3,18,7.2,0.0789,639415.50
+mes,2024-11,Todos,Buenos Aires,Reembolsado,0,4,3,1.2,0.0132,58554.00
+mes,2024-11,Todos,Córdoba,Entregado,1,1,132,92.3,1.0,4530829.50
+mes,2024-11,Todos,Córdoba,Cancelado,0,3,7,4.9,0.053,279750.00
+mes,2024-11,Todos,Córdoba,Reembolsado,0,4,4,2.8,0.0303,126687.00
+mes,2024-11,Todos,Mendoza,Entregado,1,1,88,93.6,1.0,3119475.00
+mes,2024-11,Todos,Mendoza,Cancelado,0,3,5,5.3,0.0568,125916.00
+mes,2024-11,Todos,Mendoza,Reembolsado,0,4,1,1.1,0.0114,19950.00
+mes,2024-11,Todos,Santa Fe,Entregado,1,1,124,89.2,1.0,4038730.50
+mes,2024-11,Todos,Santa Fe,Cancelado,0,3,11,7.9,0.0887,280390.50
+mes,2024-11,Todos,Santa Fe,Reembolsado,0,4,4,2.9,0.0323,151237.50
+mes,2024-11,Todos,Todas,Entregado,1,1,572,91.5,1.0,18748899.00
+mes,2024-11,Todos,Todas,Cancelado,0,3,41,6.6,0.0717,1325472.00
+mes,2024-11,Todos,Todas,Reembolsado,0,4,12,1.9,0.021,356428.50
+mes,2024-12,Tienda Online,Buenos Aires,Entregado,1,1,212,89.5,1.0,8184262.50
+mes,2024-12,Tienda Online,Buenos Aires,Cancelado,0,3,17,7.2,0.0802,504783.00
+mes,2024-12,Tienda Online,Buenos Aires,Reembolsado,0,4,8,3.4,0.0377,275860.50
+mes,2024-12,Tienda Online,Córdoba,Entregado,1,1,89,86.4,1.0,3347172.00
+mes,2024-12,Tienda Online,Córdoba,Cancelado,0,3,10,9.7,0.1124,281394.00
+mes,2024-12,Tienda Online,Córdoba,Reembolsado,0,4,4,3.9,0.0449,206280.00
+mes,2024-12,Tienda Online,Mendoza,Entregado,1,1,68,85.0,1.0,2438898.00
+mes,2024-12,Tienda Online,Mendoza,Cancelado,0,3,10,12.5,0.1471,372847.50
+mes,2024-12,Tienda Online,Mendoza,Reembolsado,0,4,2,2.5,0.0294,39900.00
+mes,2024-12,Tienda Online,Santa Fe,Entregado,1,1,104,86.0,1.0,3774571.50
+mes,2024-12,Tienda Online,Santa Fe,Cancelado,0,3,10,8.3,0.0962,414519.00
+mes,2024-12,Tienda Online,Santa Fe,Reembolsado,0,4,7,5.8,0.0673,249124.50
+mes,2024-12,Tienda Online,Todas,Entregado,1,1,473,87.4,1.0,17744904.00
+mes,2024-12,Tienda Online,Todas,Cancelado,0,3,47,8.7,0.0994,1573543.50
+mes,2024-12,Tienda Online,Todas,Reembolsado,0,4,21,3.9,0.0444,771165.00
+mes,2024-12,Tiendas Físicas,Buenos Aires,Entregado,1,1,104,96.3,1.0,3610005.00
+mes,2024-12,Tiendas Físicas,Buenos Aires,Cancelado,0,3,2,1.9,0.0192,61710.00
+mes,2024-12,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,2,1.9,0.0192,32670.00
+mes,2024-12,Tiendas Físicas,Córdoba,Entregado,1,1,94,94.9,1.0,2909637.00
+mes,2024-12,Tiendas Físicas,Córdoba,Cancelado,0,3,2,2.0,0.0213,29040.00
+mes,2024-12,Tiendas Físicas,Córdoba,Reembolsado,0,4,3,3.0,0.0319,94380.00
+mes,2024-12,Tiendas Físicas,Mendoza,Entregado,1,1,61,98.4,1.0,2176881.00
+mes,2024-12,Tiendas Físicas,Mendoza,Cancelado,0,3,1,1.6,0.0164,14520.00
+mes,2024-12,Tiendas Físicas,Santa Fe,Entregado,1,1,53,96.4,1.0,2007075.00
+mes,2024-12,Tiendas Físicas,Santa Fe,Cancelado,0,3,2,3.6,0.0377,83490.00
+mes,2024-12,Tiendas Físicas,Todas,Entregado,1,1,312,96.3,1.0,10703598.00
+mes,2024-12,Tiendas Físicas,Todas,Cancelado,0,3,7,2.2,0.0224,188760.00
+mes,2024-12,Tiendas Físicas,Todas,Reembolsado,0,4,5,1.5,0.016,127050.00
+mes,2024-12,Todos,Buenos Aires,Entregado,1,1,316,91.6,1.0,11794267.50
+mes,2024-12,Todos,Buenos Aires,Cancelado,0,3,19,5.5,0.0601,566493.00
+mes,2024-12,Todos,Buenos Aires,Reembolsado,0,4,10,2.9,0.0316,308530.50
+mes,2024-12,Todos,Córdoba,Entregado,1,1,183,90.6,1.0,6256809.00
+mes,2024-12,Todos,Córdoba,Cancelado,0,3,12,5.9,0.0656,310434.00
+mes,2024-12,Todos,Córdoba,Reembolsado,0,4,7,3.5,0.0383,300660.00
+mes,2024-12,Todos,Mendoza,Entregado,1,1,129,90.8,1.0,4615779.00
+mes,2024-12,Todos,Mendoza,Cancelado,0,3,11,7.7,0.0853,387367.50
+mes,2024-12,Todos,Mendoza,Reembolsado,0,4,2,1.4,0.0155,39900.00
+mes,2024-12,Todos,Santa Fe,Entregado,1,1,157,89.2,1.0,5781646.50
+mes,2024-12,Todos,Santa Fe,Cancelado,0,3,12,6.8,0.0764,498009.00
+mes,2024-12,Todos,Santa Fe,Reembolsado,0,4,7,4.0,0.0446,249124.50
+mes,2024-12,Todos,Todas,Entregado,1,1,785,90.8,1.0,28448502.00
+mes,2024-12,Todos,Todas,Cancelado,0,3,54,6.2,0.0688,1762303.50
+mes,2024-12,Todos,Todas,Reembolsado,0,4,26,3.0,0.0331,898215.00
+mes,2025-01,Tienda Online,Buenos Aires,Entregado,1,1,142,89.9,1.0,4507663.50
+mes,2025-01,Tienda Online,Buenos Aires,Cancelado,0,3,13,8.2,0.0915,638719.50
+mes,2025-01,Tienda Online,Buenos Aires,Reembolsado,0,4,3,1.9,0.0211,124620.00
+mes,2025-01,Tienda Online,Córdoba,Entregado,1,1,71,85.5,1.0,2332155.00
+mes,2025-01,Tienda Online,Córdoba,Cancelado,0,3,8,9.6,0.1127,239190.00
+mes,2025-01,Tienda Online,Córdoba,Reembolsado,0,4,4,4.8,0.0563,138810.00
+mes,2025-01,Tienda Online,Mendoza,Entregado,1,1,50,86.2,1.0,2020614.00
+mes,2025-01,Tienda Online,Mendoza,Cancelado,0,3,8,13.8,0.16,259636.50
+mes,2025-01,Tienda Online,Santa Fe,Entregado,1,1,71,92.2,1.0,2570635.50
+mes,2025-01,Tienda Online,Santa Fe,Cancelado,0,3,6,7.8,0.0845,181740.00
+mes,2025-01,Tienda Online,Todas,Entregado,1,1,334,88.8,1.0,11431068.00
+mes,2025-01,Tienda Online,Todas,Cancelado,0,3,35,9.3,0.1048,1319286.00
+mes,2025-01,Tienda Online,Todas,Reembolsado,0,4,7,1.9,0.021,263430.00
+mes,2025-01,Tiendas Físicas,Buenos Aires,Entregado,1,1,83,96.5,1.0,2931810.00
+mes,2025-01,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.2,0.012,14520.00
+mes,2025-01,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,2,2.3,0.0241,32670.00
+mes,2025-01,Tiendas Físicas,Córdoba,Entregado,1,1,64,98.5,1.0,2345850.00
+mes,2025-01,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,1.5,0.0156,36300.00
+mes,2025-01,Tiendas Físicas,Mendoza,Entregado,1,1,42,97.7,1.0,1598985.00
+mes,2025-01,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.3,0.0238,79860.00
+mes,2025-01,Tiendas Físicas,Santa Fe,Entregado,1,1,68,94.4,1.0,2268942.00
+mes,2025-01,Tiendas Físicas,Santa Fe,Cancelado,0,3,2,2.8,0.0294,103455.00
+mes,2025-01,Tiendas Físicas,Santa Fe,Reembolsado,0,4,2,2.8,0.0294,65340.00
+mes,2025-01,Tiendas Físicas,Todas,Entregado,1,1,257,96.6,1.0,9145587.00
+mes,2025-01,Tiendas Físicas,Todas,Cancelado,0,3,3,1.1,0.0117,117975.00
+mes,2025-01,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.3,0.0233,214170.00
+mes,2025-01,Todos,Buenos Aires,Entregado,1,1,225,92.2,1.0,7439473.50
+mes,2025-01,Todos,Buenos Aires,Cancelado,0,3,14,5.7,0.0622,653239.50
+mes,2025-01,Todos,Buenos Aires,Reembolsado,0,4,5,2.0,0.0222,157290.00
+mes,2025-01,Todos,Córdoba,Entregado,1,1,135,91.2,1.0,4678005.00
+mes,2025-01,Todos,Córdoba,Cancelado,0,3,8,5.4,0.0593,239190.00
+mes,2025-01,Todos,Córdoba,Reembolsado,0,4,5,3.4,0.037,175110.00
+mes,2025-01,Todos,Mendoza,Entregado,1,1,92,91.1,1.0,3619599.00
+mes,2025-01,Todos,Mendoza,Cancelado,0,3,8,7.9,0.087,259636.50
+mes,2025-01,Todos,Mendoza,Reembolsado,0,4,1,1.0,0.0109,79860.00
+mes,2025-01,Todos,Santa Fe,Entregado,1,1,139,93.3,1.0,4839577.50
+mes,2025-01,Todos,Santa Fe,Cancelado,0,3,8,5.4,0.0576,285195.00
+mes,2025-01,Todos,Santa Fe,Reembolsado,0,4,2,1.3,0.0144,65340.00
+mes,2025-01,Todos,Todas,Entregado,1,1,591,92.1,1.0,20576655.00
+mes,2025-01,Todos,Todas,Cancelado,0,3,38,5.9,0.0643,1437261.00
+mes,2025-01,Todos,Todas,Reembolsado,0,4,13,2.0,0.022,477600.00
+mes,2025-02,Tienda Online,Buenos Aires,Entregado,1,1,153,89.5,1.0,5229459.00
+mes,2025-02,Tienda Online,Buenos Aires,Cancelado,0,3,15,8.8,0.098,522600.00
+mes,2025-02,Tienda Online,Buenos Aires,Reembolsado,0,4,3,1.8,0.0196,158490.00
+mes,2025-02,Tienda Online,Córdoba,Entregado,1,1,75,92.6,1.0,2837547.00
+mes,2025-02,Tienda Online,Córdoba,Cancelado,0,3,5,6.2,0.0667,240498.00
+mes,2025-02,Tienda Online,Córdoba,Reembolsado,0,4,1,1.2,0.0133,72600.00
+mes,2025-02,Tienda Online,Mendoza,Entregado,1,1,49,81.7,1.0,1786615.50
+mes,2025-02,Tienda Online,Mendoza,Cancelado,0,3,10,16.7,0.2041,349086.00
+mes,2025-02,Tienda Online,Mendoza,Reembolsado,0,4,1,1.7,0.0204,30840.00
+mes,2025-02,Tienda Online,Santa Fe,Entregado,1,1,66,88.0,1.0,2655433.50
+mes,2025-02,Tienda Online,Santa Fe,Cancelado,0,3,6,8.0,0.0909,108462.00
+mes,2025-02,Tienda Online,Santa Fe,Reembolsado,0,4,3,4.0,0.0455,144570.00
+mes,2025-02,Tienda Online,Todas,Entregado,1,1,343,88.6,1.0,12509055.00
+mes,2025-02,Tienda Online,Todas,Cancelado,0,3,36,9.3,0.105,1220646.00
+mes,2025-02,Tienda Online,Todas,Reembolsado,0,4,8,2.1,0.0233,406500.00
+mes,2025-02,Tiendas Físicas,Buenos Aires,Entregado,1,1,87,100.0,1.0,3035376.00
+mes,2025-02,Tiendas Físicas,Córdoba,Entregado,1,1,69,98.6,1.0,2376160.50
+mes,2025-02,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,1.4,0.0145,50820.00
+mes,2025-02,Tiendas Físicas,Mendoza,Entregado,1,1,50,98.0,1.0,1687557.00
+mes,2025-02,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.0,0.02,47190.00
+mes,2025-02,Tiendas Físicas,Santa Fe,Entregado,1,1,59,100.0,1.0,2045964.00
+mes,2025-02,Tiendas Físicas,Todas,Entregado,1,1,265,99.3,1.0,9145057.50
+mes,2025-02,Tiendas Físicas,Todas,Reembolsado,0,4,2,0.7,0.0075,98010.00
+mes,2025-02,Todos,Buenos Aires,Entregado,1,1,240,93.0,1.0,8264835.00
+mes,2025-02,Todos,Buenos Aires,Cancelado,0,3,15,5.8,0.0625,522600.00
+mes,2025-02,Todos,Buenos Aires,Reembolsado,0,4,3,1.2,0.0125,158490.00
+mes,2025-02,Todos,Córdoba,Entregado,1,1,144,95.4,1.0,5213707.50
+mes,2025-02,Todos,Córdoba,Cancelado,0,3,5,3.3,0.0347,240498.00
+mes,2025-02,Todos,Córdoba,Reembolsado,0,4,2,1.3,0.0139,123420.00
+mes,2025-02,Todos,Mendoza,Entregado,1,1,99,89.2,1.0,3474172.50
+mes,2025-02,Todos,Mendoza,Cancelado,0,3,10,9.0,0.101,349086.00
+mes,2025-02,Todos,Mendoza,Reembolsado,0,4,2,1.8,0.0202,78030.00
+mes,2025-02,Todos,Santa Fe,Entregado,1,1,125,93.3,1.0,4701397.50
+mes,2025-02,Todos,Santa Fe,Cancelado,0,3,6,4.5,0.048,108462.00
+mes,2025-02,Todos,Santa Fe,Reembolsado,0,4,3,2.2,0.024,144570.00
+mes,2025-02,Todos,Todas,Entregado,1,1,608,93.0,1.0,21654112.50
+mes,2025-02,Todos,Todas,Cancelado,0,3,36,5.5,0.0592,1220646.00
+mes,2025-02,Todos,Todas,Reembolsado,0,4,10,1.5,0.0164,504510.00
+mes,2025-03,Tienda Online,Buenos Aires,Entregado,1,1,140,87.0,1.0,4755682.50
+mes,2025-03,Tienda Online,Buenos Aires,Cancelado,0,3,16,9.9,0.1143,610950.00
+mes,2025-03,Tienda Online,Buenos Aires,Reembolsado,0,4,5,3.1,0.0357,93120.00
+mes,2025-03,Tienda Online,Córdoba,Entregado,1,1,65,91.5,1.0,2456653.50
+mes,2025-03,Tienda Online,Córdoba,Cancelado,0,3,3,4.2,0.0462,102510.00
+mes,2025-03,Tienda Online,Córdoba,Reembolsado,0,4,3,4.2,0.0462,140940.00
+mes,2025-03,Tienda Online,Mendoza,Entregado,1,1,64,90.1,1.0,2133040.50
+mes,2025-03,Tienda Online,Mendoza,Cancelado,0,3,5,7.0,0.0781,148936.50
+mes,2025-03,Tienda Online,Mendoza,Reembolsado,0,4,2,2.8,0.0313,34455.00
+mes,2025-03,Tienda Online,Santa Fe,Entregado,1,1,68,90.7,1.0,2386050.00
+mes,2025-03,Tienda Online,Santa Fe,Cancelado,0,3,5,6.7,0.0735,215040.00
+mes,2025-03,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.7,0.0294,103140.00
+mes,2025-03,Tienda Online,Todas,Entregado,1,1,337,89.2,1.0,11731426.50
+mes,2025-03,Tienda Online,Todas,Cancelado,0,3,29,7.7,0.0861,1077436.50
+mes,2025-03,Tienda Online,Todas,Reembolsado,0,4,12,3.2,0.0356,371655.00
+mes,2025-03,Tiendas Físicas,Buenos Aires,Entregado,1,1,80,96.4,1.0,2791551.00
+mes,2025-03,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.2,0.0125,50820.00
+mes,2025-03,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,2,2.4,0.025,29040.00
+mes,2025-03,Tiendas Físicas,Córdoba,Entregado,1,1,63,100.0,1.0,2178822.00
+mes,2025-03,Tiendas Físicas,Mendoza,Entregado,1,1,50,92.6,1.0,1710804.00
+mes,2025-03,Tiendas Físicas,Mendoza,Reembolsado,0,4,4,7.4,0.08,85290.00
+mes,2025-03,Tiendas Físicas,Santa Fe,Entregado,1,1,51,100.0,1.0,1572564.00
+mes,2025-03,Tiendas Físicas,Todas,Entregado,1,1,244,97.2,1.0,8253741.00
+mes,2025-03,Tiendas Físicas,Todas,Cancelado,0,3,1,0.4,0.0041,50820.00
+mes,2025-03,Tiendas Físicas,Todas,Reembolsado,0,4,6,2.4,0.0246,114330.00
+mes,2025-03,Todos,Buenos Aires,Entregado,1,1,220,90.2,1.0,7547233.50
+mes,2025-03,Todos,Buenos Aires,Cancelado,0,3,17,7.0,0.0773,661770.00
+mes,2025-03,Todos,Buenos Aires,Reembolsado,0,4,7,2.9,0.0318,122160.00
+mes,2025-03,Todos,Córdoba,Entregado,1,1,128,95.5,1.0,4635475.50
+mes,2025-03,Todos,Córdoba,Cancelado,0,3,3,2.2,0.0234,102510.00
+mes,2025-03,Todos,Córdoba,Reembolsado,0,4,3,2.2,0.0234,140940.00
+mes,2025-03,Todos,Mendoza,Entregado,1,1,114,91.2,1.0,3843844.50
+mes,2025-03,Todos,Mendoza,Cancelado,0,3,5,4.0,0.0439,148936.50
+mes,2025-03,Todos,Mendoza,Reembolsado,0,4,6,4.8,0.0526,119745.00
+mes,2025-03,Todos,Santa Fe,Entregado,1,1,119,94.4,1.0,3958614.00
+mes,2025-03,Todos,Santa Fe,Cancelado,0,3,5,4.0,0.042,215040.00
+mes,2025-03,Todos,Santa Fe,Reembolsado,0,4,2,1.6,0.0168,103140.00
+mes,2025-03,Todos,Todas,Entregado,1,1,581,92.4,1.0,19985167.50
+mes,2025-03,Todos,Todas,Cancelado,0,3,30,4.8,0.0516,1128256.50
+mes,2025-03,Todos,Todas,Reembolsado,0,4,18,2.9,0.031,485985.00
+mes,2025-04,Tienda Online,Buenos Aires,Entregado,1,1,129,83.2,1.0,4419211.50
+mes,2025-04,Tienda Online,Buenos Aires,Cancelado,0,3,19,12.3,0.1473,562248.00
+mes,2025-04,Tienda Online,Buenos Aires,Reembolsado,0,4,7,4.5,0.0543,232260.00
+mes,2025-04,Tienda Online,Córdoba,Entregado,1,1,68,81.0,1.0,2479752.00
+mes,2025-04,Tienda Online,Córdoba,Cancelado,0,3,12,14.3,0.1765,448192.50
+mes,2025-04,Tienda Online,Córdoba,Reembolsado,0,4,4,4.8,0.0588,136680.00
+mes,2025-04,Tienda Online,Mendoza,Entregado,1,1,35,89.7,1.0,1178740.50
+mes,2025-04,Tienda Online,Mendoza,Cancelado,0,3,4,10.3,0.1143,152778.00
+mes,2025-04,Tienda Online,Santa Fe,Entregado,1,1,78,87.6,1.0,2901397.50
+mes,2025-04,Tienda Online,Santa Fe,Cancelado,0,3,9,10.1,0.1154,306030.00
+mes,2025-04,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.2,0.0256,103140.00
+mes,2025-04,Tienda Online,Todas,Entregado,1,1,310,84.5,1.0,10979101.50
+mes,2025-04,Tienda Online,Todas,Cancelado,0,3,44,12.0,0.1419,1469248.50
+mes,2025-04,Tienda Online,Todas,Reembolsado,0,4,13,3.5,0.0419,472080.00
+mes,2025-04,Tiendas Físicas,Buenos Aires,Entregado,1,1,67,100.0,1.0,2487609.00
+mes,2025-04,Tiendas Físicas,Córdoba,Entregado,1,1,50,96.2,1.0,1495245.00
+mes,2025-04,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,3.8,0.04,243210.00
+mes,2025-04,Tiendas Físicas,Mendoza,Entregado,1,1,28,87.5,1.0,899136.00
+mes,2025-04,Tiendas Físicas,Mendoza,Cancelado,0,3,2,6.3,0.0714,58443.00
+mes,2025-04,Tiendas Físicas,Mendoza,Reembolsado,0,4,2,6.3,0.0714,30855.00
+mes,2025-04,Tiendas Físicas,Santa Fe,Entregado,1,1,40,100.0,1.0,1199811.00
+mes,2025-04,Tiendas Físicas,Todas,Entregado,1,1,185,96.9,1.0,6081801.00
+mes,2025-04,Tiendas Físicas,Todas,Cancelado,0,3,2,1.0,0.0108,58443.00
+mes,2025-04,Tiendas Físicas,Todas,Reembolsado,0,4,4,2.1,0.0216,274065.00
+mes,2025-04,Todos,Buenos Aires,Entregado,1,1,196,88.3,1.0,6906820.50
+mes,2025-04,Todos,Buenos Aires,Cancelado,0,3,19,8.6,0.0969,562248.00
+mes,2025-04,Todos,Buenos Aires,Reembolsado,0,4,7,3.2,0.0357,232260.00
+mes,2025-04,Todos,Córdoba,Entregado,1,1,118,86.8,1.0,3974997.00
+mes,2025-04,Todos,Córdoba,Cancelado,0,3,12,8.8,0.1017,448192.50
+mes,2025-04,Todos,Córdoba,Reembolsado,0,4,6,4.4,0.0508,379890.00
+mes,2025-04,Todos,Mendoza,Entregado,1,1,63,88.7,1.0,2077876.50
+mes,2025-04,Todos,Mendoza,Cancelado,0,3,6,8.5,0.0952,211221.00
+mes,2025-04,Todos,Mendoza,Reembolsado,0,4,2,2.8,0.0317,30855.00
+mes,2025-04,Todos,Santa Fe,Entregado,1,1,118,91.5,1.0,4101208.50
+mes,2025-04,Todos,Santa Fe,Cancelado,0,3,9,7.0,0.0763,306030.00
+mes,2025-04,Todos,Santa Fe,Reembolsado,0,4,2,1.6,0.0169,103140.00
+mes,2025-04,Todos,Todas,Entregado,1,1,495,88.7,1.0,17060902.50
+mes,2025-04,Todos,Todas,Cancelado,0,3,46,8.2,0.0929,1527691.50
+mes,2025-04,Todos,Todas,Reembolsado,0,4,17,3.0,0.0343,746145.00
+mes,2025-05,Tienda Online,Buenos Aires,Entregado,1,1,179,89.1,1.0,5382310.50
+mes,2025-05,Tienda Online,Buenos Aires,Cancelado,0,3,20,10.0,0.1117,599152.50
+mes,2025-05,Tienda Online,Buenos Aires,Reembolsado,0,4,2,1.0,0.0112,37752.00
+mes,2025-05,Tienda Online,Córdoba,Entregado,1,1,83,93.3,1.0,2906064.00
+mes,2025-05,Tienda Online,Córdoba,Cancelado,0,3,4,4.5,0.0482,79956.00
+mes,2025-05,Tienda Online,Córdoba,Reembolsado,0,4,2,2.2,0.0241,31266.00
+mes,2025-05,Tienda Online,Mendoza,Entregado,1,1,50,89.3,1.0,1555807.50
+mes,2025-05,Tienda Online,Mendoza,Cancelado,0,3,3,5.4,0.06,65310.00
+mes,2025-05,Tienda Online,Mendoza,Reembolsado,0,4,3,5.4,0.06,132858.00
+mes,2025-05,Tienda Online,Santa Fe,Entregado,1,1,81,91.0,1.0,2908471.50
+mes,2025-05,Tienda Online,Santa Fe,Cancelado,0,3,5,5.6,0.0617,183774.00
+mes,2025-05,Tienda Online,Santa Fe,Reembolsado,0,4,3,3.4,0.037,50190.00
+mes,2025-05,Tienda Online,Todas,Entregado,1,1,393,90.3,1.0,12752653.50
+mes,2025-05,Tienda Online,Todas,Cancelado,0,3,32,7.4,0.0814,928192.50
+mes,2025-05,Tienda Online,Todas,Reembolsado,0,4,10,2.3,0.0254,252066.00
+mes,2025-05,Tiendas Físicas,Buenos Aires,Entregado,1,1,59,96.7,1.0,1852470.00
+mes,2025-05,Tiendas Físicas,Buenos Aires,Cancelado,0,3,1,1.6,0.0169,49005.00
+mes,2025-05,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.6,0.0169,16335.00
+mes,2025-05,Tiendas Físicas,Córdoba,Entregado,1,1,51,92.7,1.0,1669944.00
+mes,2025-05,Tiendas Físicas,Córdoba,Cancelado,0,3,3,5.5,0.0588,78045.00
+mes,2025-05,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,1.8,0.0196,43560.00
+mes,2025-05,Tiendas Físicas,Mendoza,Entregado,1,1,31,100.0,1.0,1180809.00
+mes,2025-05,Tiendas Físicas,Santa Fe,Entregado,1,1,54,94.7,1.0,2117379.00
+mes,2025-05,Tiendas Físicas,Santa Fe,Cancelado,0,3,1,1.8,0.0185,45060.00
+mes,2025-05,Tiendas Físicas,Santa Fe,Reembolsado,0,4,2,3.5,0.037,94380.00
+mes,2025-05,Tiendas Físicas,Todas,Entregado,1,1,195,95.6,1.0,6820602.00
+mes,2025-05,Tiendas Físicas,Todas,Cancelado,0,3,5,2.5,0.0256,172110.00
+mes,2025-05,Tiendas Físicas,Todas,Reembolsado,0,4,4,2.0,0.0205,154275.00
+mes,2025-05,Todos,Buenos Aires,Entregado,1,1,238,90.8,1.0,7234780.50
+mes,2025-05,Todos,Buenos Aires,Cancelado,0,3,21,8.0,0.0882,648157.50
+mes,2025-05,Todos,Buenos Aires,Reembolsado,0,4,3,1.1,0.0126,54087.00
+mes,2025-05,Todos,Córdoba,Entregado,1,1,134,93.1,1.0,4576008.00
+mes,2025-05,Todos,Córdoba,Cancelado,0,3,7,4.9,0.0522,158001.00
+mes,2025-05,Todos,Córdoba,Reembolsado,0,4,3,2.1,0.0224,74826.00
+mes,2025-05,Todos,Mendoza,Entregado,1,1,81,93.1,1.0,2736616.50
+mes,2025-05,Todos,Mendoza,Cancelado,0,3,3,3.4,0.037,65310.00
+mes,2025-05,Todos,Mendoza,Reembolsado,0,4,3,3.4,0.037,132858.00
+mes,2025-05,Todos,Santa Fe,Entregado,1,1,135,92.5,1.0,5025850.50
+mes,2025-05,Todos,Santa Fe,Cancelado,0,3,6,4.1,0.0444,228834.00
+mes,2025-05,Todos,Santa Fe,Reembolsado,0,4,5,3.4,0.037,144570.00
+mes,2025-05,Todos,Todas,Entregado,1,1,588,92.0,1.0,19573255.50
+mes,2025-05,Todos,Todas,Cancelado,0,3,37,5.8,0.0629,1100302.50
+mes,2025-05,Todos,Todas,Reembolsado,0,4,14,2.2,0.0238,406341.00
+mes,2025-06,Tienda Online,Buenos Aires,Entregado,1,1,133,92.4,1.0,5684719.50
+mes,2025-06,Tienda Online,Buenos Aires,Cancelado,0,3,9,6.3,0.0677,378660.00
+mes,2025-06,Tienda Online,Buenos Aires,Reembolsado,0,4,2,1.4,0.015,62658.00
+mes,2025-06,Tienda Online,Córdoba,Entregado,1,1,63,86.3,1.0,2334723.00
+mes,2025-06,Tienda Online,Córdoba,Cancelado,0,3,7,9.6,0.1111,272490.00
+mes,2025-06,Tienda Online,Córdoba,Reembolsado,0,4,3,4.1,0.0476,73470.00
+mes,2025-06,Tienda Online,Mendoza,Entregado,1,1,59,89.4,1.0,2262070.50
+mes,2025-06,Tienda Online,Mendoza,Cancelado,0,3,6,9.1,0.1017,217710.00
+mes,2025-06,Tienda Online,Mendoza,Reembolsado,0,4,1,1.5,0.0169,19950.00
+mes,2025-06,Tienda Online,Santa Fe,Entregado,1,1,74,94.9,1.0,2829475.50
+mes,2025-06,Tienda Online,Santa Fe,Cancelado,0,3,3,3.8,0.0405,130050.00
+mes,2025-06,Tienda Online,Santa Fe,Reembolsado,0,4,1,1.3,0.0135,54450.00
+mes,2025-06,Tienda Online,Todas,Entregado,1,1,329,91.1,1.0,13110988.50
+mes,2025-06,Tienda Online,Todas,Cancelado,0,3,25,6.9,0.076,998910.00
+mes,2025-06,Tienda Online,Todas,Reembolsado,0,4,7,1.9,0.0213,210528.00
+mes,2025-06,Tiendas Físicas,Buenos Aires,Entregado,1,1,64,95.5,1.0,2765193.00
+mes,2025-06,Tiendas Físicas,Buenos Aires,Cancelado,0,3,2,3.0,0.0313,119790.00
+mes,2025-06,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,1,1.5,0.0156,18150.00
+mes,2025-06,Tiendas Físicas,Córdoba,Entregado,1,1,67,98.5,1.0,2062032.00
+mes,2025-06,Tiendas Físicas,Córdoba,Cancelado,0,3,1,1.5,0.0149,54450.00
+mes,2025-06,Tiendas Físicas,Mendoza,Entregado,1,1,43,97.7,1.0,1395009.00
+mes,2025-06,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.3,0.0233,68970.00
+mes,2025-06,Tiendas Físicas,Santa Fe,Entregado,1,1,59,100.0,1.0,1877265.00
+mes,2025-06,Tiendas Físicas,Todas,Entregado,1,1,233,97.9,1.0,8099499.00
+mes,2025-06,Tiendas Físicas,Todas,Cancelado,0,3,3,1.3,0.0129,174240.00
+mes,2025-06,Tiendas Físicas,Todas,Reembolsado,0,4,2,0.8,0.0086,87120.00
+mes,2025-06,Todos,Buenos Aires,Entregado,1,1,197,93.4,1.0,8449912.50
+mes,2025-06,Todos,Buenos Aires,Cancelado,0,3,11,5.2,0.0558,498450.00
+mes,2025-06,Todos,Buenos Aires,Reembolsado,0,4,3,1.4,0.0152,80808.00
+mes,2025-06,Todos,Córdoba,Entregado,1,1,130,92.2,1.0,4396755.00
+mes,2025-06,Todos,Córdoba,Cancelado,0,3,8,5.7,0.0615,326940.00
+mes,2025-06,Todos,Córdoba,Reembolsado,0,4,3,2.1,0.0231,73470.00
+mes,2025-06,Todos,Mendoza,Entregado,1,1,102,92.7,1.0,3657079.50
+mes,2025-06,Todos,Mendoza,Cancelado,0,3,6,5.5,0.0588,217710.00
+mes,2025-06,Todos,Mendoza,Reembolsado,0,4,2,1.8,0.0196,88920.00
+mes,2025-06,Todos,Santa Fe,Entregado,1,1,133,97.1,1.0,4706740.50
+mes,2025-06,Todos,Santa Fe,Cancelado,0,3,3,2.2,0.0226,130050.00
+mes,2025-06,Todos,Santa Fe,Reembolsado,0,4,1,0.7,0.0075,54450.00
+mes,2025-06,Todos,Todas,Entregado,1,1,562,93.8,1.0,21210487.50
+mes,2025-06,Todos,Todas,Cancelado,0,3,28,4.7,0.0498,1173150.00
+mes,2025-06,Todos,Todas,Reembolsado,0,4,9,1.5,0.016,297648.00
+mes,2025-07,Tienda Online,Buenos Aires,Entregado,1,1,121,96.0,1.0,3969937.50
+mes,2025-07,Tienda Online,Buenos Aires,Cancelado,0,3,4,3.2,0.0331,162120.00
+mes,2025-07,Tienda Online,Buenos Aires,Reembolsado,0,4,1,0.8,0.0083,30240.00
+mes,2025-07,Tienda Online,Córdoba,Entregado,1,1,50,84.7,1.0,1551940.50
+mes,2025-07,Tienda Online,Córdoba,Cancelado,0,3,8,13.6,0.16,581451.00
+mes,2025-07,Tienda Online,Córdoba,Reembolsado,0,4,1,1.7,0.02,19650.00
+mes,2025-07,Tienda Online,Mendoza,Entregado,1,1,40,90.9,1.0,1358214.00
+mes,2025-07,Tienda Online,Mendoza,Cancelado,0,3,3,6.8,0.075,63480.00
+mes,2025-07,Tienda Online,Mendoza,Reembolsado,0,4,1,2.3,0.025,19950.00
+mes,2025-07,Tienda Online,Santa Fe,Entregado,1,1,62,88.6,1.0,2430240.00
+mes,2025-07,Tienda Online,Santa Fe,Cancelado,0,3,6,8.6,0.0968,188685.00
+mes,2025-07,Tienda Online,Santa Fe,Reembolsado,0,4,2,2.9,0.0323,110400.00
+mes,2025-07,Tienda Online,Todas,Entregado,1,1,273,91.3,1.0,9310332.00
+mes,2025-07,Tienda Online,Todas,Cancelado,0,3,21,7.0,0.0769,995736.00
+mes,2025-07,Tienda Online,Todas,Reembolsado,0,4,5,1.7,0.0183,180240.00
+mes,2025-07,Tiendas Físicas,Buenos Aires,Entregado,1,1,40,93.0,1.0,1244112.00
+mes,2025-07,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,3,7.0,0.075,87120.00
+mes,2025-07,Tiendas Físicas,Córdoba,Entregado,1,1,51,98.1,1.0,1551969.00
+mes,2025-07,Tiendas Físicas,Córdoba,Reembolsado,0,4,1,1.9,0.0196,76230.00
+mes,2025-07,Tiendas Físicas,Mendoza,Entregado,1,1,40,97.6,1.0,1266114.00
+mes,2025-07,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.4,0.025,16320.00
+mes,2025-07,Tiendas Físicas,Santa Fe,Entregado,1,1,39,95.1,1.0,1324272.00
+mes,2025-07,Tiendas Físicas,Santa Fe,Reembolsado,0,4,2,4.9,0.0513,89661.00
+mes,2025-07,Tiendas Físicas,Todas,Entregado,1,1,170,96.0,1.0,5386467.00
+mes,2025-07,Tiendas Físicas,Todas,Reembolsado,0,4,7,4.0,0.0412,269331.00
+mes,2025-07,Todos,Buenos Aires,Entregado,1,1,161,95.3,1.0,5214049.50
+mes,2025-07,Todos,Buenos Aires,Cancelado,0,3,4,2.4,0.0248,162120.00
+mes,2025-07,Todos,Buenos Aires,Reembolsado,0,4,4,2.4,0.0248,117360.00
+mes,2025-07,Todos,Córdoba,Entregado,1,1,101,91.0,1.0,3103909.50
+mes,2025-07,Todos,Córdoba,Cancelado,0,3,8,7.2,0.0792,581451.00
+mes,2025-07,Todos,Córdoba,Reembolsado,0,4,2,1.8,0.0198,95880.00
+mes,2025-07,Todos,Mendoza,Entregado,1,1,80,94.1,1.0,2624328.00
+mes,2025-07,Todos,Mendoza,Cancelado,0,3,3,3.5,0.0375,63480.00
+mes,2025-07,Todos,Mendoza,Reembolsado,0,4,2,2.4,0.025,36270.00
+mes,2025-07,Todos,Santa Fe,Entregado,1,1,101,91.0,1.0,3754512.00
+mes,2025-07,Todos,Santa Fe,Cancelado,0,3,6,5.4,0.0594,188685.00
+mes,2025-07,Todos,Santa Fe,Reembolsado,0,4,4,3.6,0.0396,200061.00
+mes,2025-07,Todos,Todas,Entregado,1,1,443,93.1,1.0,14696799.00
+mes,2025-07,Todos,Todas,Cancelado,0,3,21,4.4,0.0474,995736.00
+mes,2025-07,Todos,Todas,Reembolsado,0,4,12,2.5,0.0271,449571.00
+mes,2025-08,Tienda Online,Buenos Aires,Entregado,1,1,136,85.0,1.0,4677274.50
+mes,2025-08,Tienda Online,Buenos Aires,Cancelado,0,3,18,11.3,0.1324,672922.50
+mes,2025-08,Tienda Online,Buenos Aires,Reembolsado,0,4,6,3.8,0.0441,258900.00
+mes,2025-08,Tienda Online,Córdoba,Entregado,1,1,80,92.0,1.0,2799261.00
+mes,2025-08,Tienda Online,Córdoba,Cancelado,0,3,5,5.7,0.0625,82278.00
+mes,2025-08,Tienda Online,Córdoba,Reembolsado,0,4,2,2.3,0.025,88620.00
+mes,2025-08,Tienda Online,Mendoza,Entregado,1,1,47,94.0,1.0,2056566.00
+mes,2025-08,Tienda Online,Mendoza,Cancelado,0,3,2,4.0,0.0426,74400.00
+mes,2025-08,Tienda Online,Mendoza,Reembolsado,0,4,1,2.0,0.0213,87120.00
+mes,2025-08,Tienda Online,Santa Fe,Entregado,1,1,77,85.6,1.0,2608371.00
+mes,2025-08,Tienda Online,Santa Fe,Cancelado,0,3,9,10.0,0.1169,265059.00
+mes,2025-08,Tienda Online,Santa Fe,Reembolsado,0,4,4,4.4,0.0519,124290.00
+mes,2025-08,Tienda Online,Todas,Entregado,1,1,340,87.9,1.0,12141472.50
+mes,2025-08,Tienda Online,Todas,Cancelado,0,3,34,8.8,0.1,1094659.50
+mes,2025-08,Tienda Online,Todas,Reembolsado,0,4,13,3.4,0.0382,558930.00
+mes,2025-08,Tiendas Físicas,Buenos Aires,Entregado,1,1,58,100.0,1.0,1981587.00
+mes,2025-08,Tiendas Físicas,Córdoba,Entregado,1,1,53,89.8,1.0,1622610.00
+mes,2025-08,Tiendas Físicas,Córdoba,Cancelado,0,3,2,3.4,0.0377,43560.00
+mes,2025-08,Tiendas Físicas,Córdoba,Reembolsado,0,4,4,6.8,0.0755,134310.00
+mes,2025-08,Tiendas Físicas,Mendoza,Entregado,1,1,46,97.9,1.0,1703166.00
+mes,2025-08,Tiendas Físicas,Mendoza,Cancelado,0,3,1,2.1,0.0217,14520.00
+mes,2025-08,Tiendas Físicas,Santa Fe,Entregado,1,1,54,94.7,1.0,1778070.00
+mes,2025-08,Tiendas Físicas,Santa Fe,Cancelado,0,3,2,3.5,0.037,94380.00
+mes,2025-08,Tiendas Físicas,Santa Fe,Reembolsado,0,4,1,1.8,0.0185,29040.00
+mes,2025-08,Tiendas Físicas,Todas,Entregado,1,1,211,95.5,1.0,7085433.00
+mes,2025-08,Tiendas Físicas,Todas,Cancelado,0,3,5,2.3,0.0237,152460.00
+mes,2025-08,Tiendas Físicas,Todas,Reembolsado,0,4,5,2.3,0.0237,163350.00
+mes,2025-08,Todos,Buenos Aires,Entregado,1,1,194,89.0,1.0,6658861.50
+mes,2025-08,Todos,Buenos Aires,Cancelado,0,3,18,8.3,0.0928,672922.50
+mes,2025-08,Todos,Buenos Aires,Reembolsado,0,4,6,2.8,0.0309,258900.00
+mes,2025-08,Todos,Córdoba,Entregado,1,1,133,91.1,1.0,4421871.00
+mes,2025-08,Todos,Córdoba,Cancelado,0,3,7,4.8,0.0526,125838.00
+mes,2025-08,Todos,Córdoba,Reembolsado,0,4,6,4.1,0.0451,222930.00
+mes,2025-08,Todos,Mendoza,Entregado,1,1,93,95.9,1.0,3759732.00
+mes,2025-08,Todos,Mendoza,Cancelado,0,3,3,3.1,0.0323,88920.00
+mes,2025-08,Todos,Mendoza,Reembolsado,0,4,1,1.0,0.0108,87120.00
+mes,2025-08,Todos,Santa Fe,Entregado,1,1,131,89.1,1.0,4386441.00
+mes,2025-08,Todos,Santa Fe,Cancelado,0,3,11,7.5,0.084,359439.00
+mes,2025-08,Todos,Santa Fe,Reembolsado,0,4,5,3.4,0.0382,153330.00
+mes,2025-08,Todos,Todas,Entregado,1,1,551,90.6,1.0,19226905.50
+mes,2025-08,Todos,Todas,Cancelado,0,3,39,6.4,0.0708,1247119.50
+mes,2025-08,Todos,Todas,Reembolsado,0,4,18,3.0,0.0327,722280.00
+mes,2025-09,Tienda Online,Buenos Aires,Entregado,1,1,111,76.6,1.0,3763239.00
+mes,2025-09,Tienda Online,Buenos Aires,Pagado,1,2,17,11.7,0.1532,444888.00
+mes,2025-09,Tienda Online,Buenos Aires,Cancelado,0,3,11,7.6,0.0991,296340.00
+mes,2025-09,Tienda Online,Buenos Aires,Reembolsado,0,4,5,3.4,0.045,169350.00
+mes,2025-09,Tienda Online,Buenos Aires,Creado,0,5,1,0.7,0.009,15720.00
+mes,2025-09,Tienda Online,Córdoba,Entregado,1,1,66,75.0,1.0,2584515.00
+mes,2025-09,Tienda Online,Córdoba,Pagado,1,2,19,21.6,0.2879,530844.00
+mes,2025-09,Tienda Online,Córdoba,Cancelado,0,3,3,3.4,0.0455,98880.00
+mes,2025-09,Tienda Online,Mendoza,Entregado,1,1,38,71.7,1.0,1474404.00
+mes,2025-09,Tienda Online,Mendoza,Pagado,1,2,9,17.0,0.2368,289372.50
+mes,2025-09,Tienda Online,Mendoza,Cancelado,0,3,3,5.7,0.0789,52590.00
+mes,2025-09,Tienda Online,Mendoza,Reembolsado,0,4,3,5.7,0.0789,114300.00
+mes,2025-09,Tienda Online,Santa Fe,Entregado,1,1,50,68.5,1.0,1667641.50
+mes,2025-09,Tienda Online,Santa Fe,Pagado,1,2,14,19.2,0.28,589132.50
+mes,2025-09,Tienda Online,Santa Fe,Cancelado,0,3,9,12.3,0.18,297318.00
+mes,2025-09,Tienda Online,Todas,Entregado,1,1,265,73.8,1.0,9489799.50
+mes,2025-09,Tienda Online,Todas,Pagado,1,2,59,16.4,0.2226,1854237.00
+mes,2025-09,Tienda Online,Todas,Cancelado,0,3,26,7.2,0.0981,745128.00
+mes,2025-09,Tienda Online,Todas,Reembolsado,0,4,8,2.2,0.0302,283650.00
+mes,2025-09,Tienda Online,Todas,Creado,0,5,1,0.3,0.0038,15720.00
+mes,2025-09,Tiendas Físicas,Buenos Aires,Entregado,1,1,45,97.8,1.0,1503546.00
+mes,2025-09,Tiendas Físicas,Buenos Aires,Pagado,1,2,1,2.2,0.0222,15720.00
+mes,2025-09,Tiendas Físicas,Córdoba,Entregado,1,1,47,95.9,1.0,1617939.00
+mes,2025-09,Tiendas Físicas,Córdoba,Reembolsado,0,4,2,4.1,0.0426,54450.00
+mes,2025-09,Tiendas Físicas,Mendoza,Entregado,1,1,36,94.7,1.0,1160874.00
+mes,2025-09,Tiendas Físicas,Mendoza,Cancelado,0,3,1,2.6,0.0278,65340.00
+mes,2025-09,Tiendas Físicas,Mendoza,Reembolsado,0,4,1,2.6,0.0278,18150.00
+mes,2025-09,Tiendas Físicas,Santa Fe,Entregado,1,1,34,100.0,1.0,1004517.00
+mes,2025-09,Tiendas Físicas,Todas,Entregado,1,1,162,97.0,1.0,5286876.00
+mes,2025-09,Tiendas Físicas,Todas,Pagado,1,2,1,0.6,0.0062,15720.00
+mes,2025-09,Tiendas Físicas,Todas,Cancelado,0,3,1,0.6,0.0062,65340.00
+mes,2025-09,Tiendas Físicas,Todas,Reembolsado,0,4,3,1.8,0.0185,72600.00
+mes,2025-09,Todos,Buenos Aires,Entregado,1,1,156,81.7,1.0,5266785.00
+mes,2025-09,Todos,Buenos Aires,Pagado,1,2,18,9.4,0.1154,460608.00
+mes,2025-09,Todos,Buenos Aires,Cancelado,0,3,11,5.8,0.0705,296340.00
+mes,2025-09,Todos,Buenos Aires,Reembolsado,0,4,5,2.6,0.0321,169350.00
+mes,2025-09,Todos,Buenos Aires,Creado,0,5,1,0.5,0.0064,15720.00
+mes,2025-09,Todos,Córdoba,Entregado,1,1,113,82.5,1.0,4202454.00
+mes,2025-09,Todos,Córdoba,Pagado,1,2,19,13.9,0.1681,530844.00
+mes,2025-09,Todos,Córdoba,Cancelado,0,3,3,2.2,0.0265,98880.00
+mes,2025-09,Todos,Córdoba,Reembolsado,0,4,2,1.5,0.0177,54450.00
+mes,2025-09,Todos,Mendoza,Entregado,1,1,74,81.3,1.0,2635278.00
+mes,2025-09,Todos,Mendoza,Pagado,1,2,9,9.9,0.1216,289372.50
+mes,2025-09,Todos,Mendoza,Cancelado,0,3,4,4.4,0.0541,117930.00
+mes,2025-09,Todos,Mendoza,Reembolsado,0,4,4,4.4,0.0541,132450.00
+mes,2025-09,Todos,Santa Fe,Entregado,1,1,84,78.5,1.0,2672158.50
+mes,2025-09,Todos,Santa Fe,Pagado,1,2,14,13.1,0.1667,589132.50
+mes,2025-09,Todos,Santa Fe,Cancelado,0,3,9,8.4,0.1071,297318.00
+mes,2025-09,Todos,Todas,Entregado,1,1,427,81.2,1.0,14776675.50
+mes,2025-09,Todos,Todas,Pagado,1,2,60,11.4,0.1405,1869957.00
+mes,2025-09,Todos,Todas,Cancelado,0,3,27,5.1,0.0632,810468.00
+mes,2025-09,Todos,Todas,Reembolsado,0,4,11,2.1,0.0258,356250.00
+mes,2025-09,Todos,Todas,Creado,0,5,1,0.2,0.0023,15720.00
+total,Todo,Tienda Online,Buenos Aires,Entregado,1,1,2694,88.5,1.0,93563415.00
+total,Todo,Tienda Online,Buenos Aires,Pagado,1,2,17,0.6,0.0063,444888.00
+total,Todo,Tienda Online,Buenos Aires,Cancelado,0,3,246,8.1,0.0913,8586549.00
+total,Todo,Tienda Online,Buenos Aires,Reembolsado,0,4,85,2.8,0.0316,2805915.00
+total,Todo,Tienda Online,Buenos Aires,Creado,0,5,1,0.0,0.0004,15720.00
+total,Todo,Tienda Online,Córdoba,Entregado,1,1,1390,88.3,1.0,48792912.00
+total,Todo,Tienda Online,Córdoba,Pagado,1,2,19,1.2,0.0137,530844.00
+total,Todo,Tienda Online,Córdoba,Cancelado,0,3,125,7.9,0.0899,4214932.50
+total,Todo,Tienda Online,Córdoba,Reembolsado,0,4,40,2.5,0.0288,1433475.00
+total,Todo,Tienda Online,Mendoza,Entregado,1,1,888,87.3,1.0,32157879.00
+total,Todo,Tienda Online,Mendoza,Pagado,1,2,9,0.9,0.0101,289372.50
+total,Todo,Tienda Online,Mendoza,Cancelado,0,3,89,8.8,0.1002,2824482.00
+total,Todo,Tienda Online,Mendoza,Reembolsado,0,4,31,3.0,0.0349,1109361.00
+total,Todo,Tienda Online,Santa Fe,Entregado,1,1,1427,86.4,1.0,50643687.00
+total,Todo,Tienda Online,Santa Fe,Pagado,1,2,14,0.8,0.0098,589132.50
+total,Todo,Tienda Online,Santa Fe,Cancelado,0,3,144,8.7,0.1009,5000992.50
+total,Todo,Tienda Online,Santa Fe,Reembolsado,0,4,67,4.1,0.047,2408631.00
+total,Todo,Tienda Online,Todas,Entregado,1,1,6399,87.8,1.0,225157893.00
+total,Todo,Tienda Online,Todas,Pagado,1,2,59,0.8,0.0092,1854237.00
+total,Todo,Tienda Online,Todas,Cancelado,0,3,604,8.3,0.0944,20626956.00
+total,Todo,Tienda Online,Todas,Reembolsado,0,4,223,3.1,0.0348,7757382.00
+total,Todo,Tienda Online,Todas,Creado,0,5,1,0.0,0.0002,15720.00
+total,Todo,Tiendas Físicas,Buenos Aires,Entregado,1,1,1386,97.1,1.0,48675229.50
+total,Todo,Tiendas Físicas,Buenos Aires,Pagado,1,2,1,0.1,0.0007,15720.00
+total,Todo,Tiendas Físicas,Buenos Aires,Cancelado,0,3,17,1.2,0.0123,518838.00
+total,Todo,Tiendas Físicas,Buenos Aires,Reembolsado,0,4,23,1.6,0.0166,574629.00
+total,Todo,Tiendas Físicas,Córdoba,Entregado,1,1,1192,96.0,1.0,40211419.50
+total,Todo,Tiendas Físicas,Córdoba,Cancelado,0,3,18,1.4,0.0151,602265.00
+total,Todo,Tiendas Físicas,Córdoba,Reembolsado,0,4,32,2.6,0.0268,1192551.00
+total,Todo,Tiendas Físicas,Mendoza,Entregado,1,1,884,97.1,1.0,30181549.50
+total,Todo,Tiendas Físicas,Mendoza,Cancelado,0,3,8,0.9,0.009,268983.00
+total,Todo,Tiendas Físicas,Mendoza,Reembolsado,0,4,18,2.0,0.0204,577125.00
+total,Todo,Tiendas Físicas,Santa Fe,Entregado,1,1,1077,97.6,1.0,36314587.50
+total,Todo,Tiendas Físicas,Santa Fe,Cancelado,0,3,11,1.0,0.0102,449805.00
+total,Todo,Tiendas Físicas,Santa Fe,Reembolsado,0,4,16,1.4,0.0149,570684.00
+total,Todo,Tiendas Físicas,Todas,Entregado,1,1,4539,96.9,1.0,155382786.00
+total,Todo,Tiendas Físicas,Todas,Pagado,1,2,1,0.0,0.0002,15720.00
+total,Todo,Tiendas Físicas,Todas,Cancelado,0,3,54,1.2,0.0119,1839891.00
+total,Todo,Tiendas Físicas,Todas,Reembolsado,0,4,89,1.9,0.0196,2914989.00
+total,Todo,Todos,Buenos Aires,Entregado,1,1,4080,91.3,1.0,142238644.50
+total,Todo,Todos,Buenos Aires,Pagado,1,2,18,0.4,0.0044,460608.00
+total,Todo,Todos,Buenos Aires,Cancelado,0,3,263,5.9,0.0645,9105387.00
+total,Todo,Todos,Buenos Aires,Reembolsado,0,4,108,2.4,0.0265,3380544.00
+total,Todo,Todos,Buenos Aires,Creado,0,5,1,0.0,0.0002,15720.00
+total,Todo,Todos,Córdoba,Entregado,1,1,2582,91.7,1.0,89004331.50
+total,Todo,Todos,Córdoba,Pagado,1,2,19,0.7,0.0074,530844.00
+total,Todo,Todos,Córdoba,Cancelado,0,3,143,5.1,0.0554,4817197.50
+total,Todo,Todos,Córdoba,Reembolsado,0,4,72,2.6,0.0279,2626026.00
+total,Todo,Todos,Mendoza,Entregado,1,1,1772,92.0,1.0,62339428.50
+total,Todo,Todos,Mendoza,Pagado,1,2,9,0.5,0.0051,289372.50
+total,Todo,Todos,Mendoza,Cancelado,0,3,97,5.0,0.0547,3093465.00
+total,Todo,Todos,Mendoza,Reembolsado,0,4,49,2.5,0.0277,1686486.00
+total,Todo,Todos,Santa Fe,Entregado,1,1,2504,90.9,1.0,86958274.50
+total,Todo,Todos,Santa Fe,Pagado,1,2,14,0.5,0.0056,589132.50
+total,Todo,Todos,Santa Fe,Cancelado,0,3,155,5.6,0.0619,5450797.50
+total,Todo,Todos,Santa Fe,Reembolsado,0,4,83,3.0,0.0331,2979315.00
+total,Todo,Todos,Todas,Entregado,1,1,10938,91.4,1.0,380540679.00
+total,Todo,Todos,Todas,Pagado,1,2,60,0.5,0.0055,1869957.00
+total,Todo,Todos,Todas,Cancelado,0,3,658,5.5,0.0602,22466847.00
+total,Todo,Todos,Todas,Reembolsado,0,4,312,2.6,0.0285,10672371.00
+total,Todo,Todos,Todas,Creado,0,5,1,0.0,0.0001,15720.00

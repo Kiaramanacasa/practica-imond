@@ -1,0 +1,8 @@
+grupo,categoria,orden,cantidad,pct_cantidad,ventas,pct_ventas
+Frecuencia,1 compra,1,912,28.6,32171079.00,8.4
+Frecuencia,2 a 3 compras,2,1076,33.7,92040067.50,24.1
+Frecuencia,4 o más compras,3,1206,37.8,258199489.50,67.5
+Tipo de compra,Primera compra,1,3194,29.0,113433538.50,29.7
+Tipo de compra,Recompra,2,7804,71.0,268977097.50,70.3
+Valor,Top 20 % de clientes,1,639,20.0,181279200.00,47.4
+Valor,Resto de clientes,2,2555,80.0,201131436.00,52.6

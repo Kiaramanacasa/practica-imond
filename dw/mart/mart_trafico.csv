@@ -1,0 +1,289 @@
+periodo_tipo,periodo,origen,campania,dispositivo,sesiones,sesiones_origen,pct_del_origen,nivel_origen
+anio,2024,Directo,Email,Celular,9090,16051,56.6,1.0
+anio,2024,Directo,Email,Computadora,6024,16051,37.5,1.0
+anio,2024,Directo,Email,Tablet,937,16051,5.8,1.0
+anio,2024,Orgánico,Sin campaña,Celular,7728,13940,55.4,0.8685
+anio,2024,Orgánico,Sin campaña,Computadora,5391,13940,38.7,0.8685
+anio,2024,Orgánico,Sin campaña,Tablet,821,13940,5.9,0.8685
+anio,2024,Anuncios,Redes sociales,Celular,10831,13533,80.0,0.8431
+anio,2024,Anuncios,Redes sociales,Computadora,2026,13533,15.0,0.8431
+anio,2024,Anuncios,Redes sociales,Tablet,676,13533,5.0,0.8431
+anio,2024,Referido,Email,Celular,5415,9716,55.7,0.6053
+anio,2024,Referido,Email,Computadora,3702,9716,38.1,0.6053
+anio,2024,Referido,Email,Tablet,599,9716,6.2,0.6053
+anio,2025,Directo,Email,Celular,7913,14415,54.9,1.0
+anio,2025,Directo,Email,Computadora,5595,14415,38.8,1.0
+anio,2025,Directo,Email,Tablet,907,14415,6.3,1.0
+anio,2025,Orgánico,Sin campaña,Celular,6948,12477,55.7,0.8656
+anio,2025,Orgánico,Sin campaña,Computadora,4774,12477,38.3,0.8656
+anio,2025,Orgánico,Sin campaña,Tablet,755,12477,6.1,0.8656
+anio,2025,Anuncios,Redes sociales,Celular,9326,11632,80.2,0.8069
+anio,2025,Anuncios,Redes sociales,Computadora,1694,11632,14.6,0.8069
+anio,2025,Anuncios,Redes sociales,Tablet,612,11632,5.3,0.8069
+anio,2025,Referido,Email,Celular,4866,8599,56.6,0.5965
+anio,2025,Referido,Email,Computadora,3222,8599,37.5,0.5965
+anio,2025,Referido,Email,Tablet,511,8599,5.9,0.5965
+mes,2024-01,Directo,Email,Celular,666,1177,56.6,1.0
+mes,2024-01,Directo,Email,Computadora,436,1177,37.0,1.0
+mes,2024-01,Directo,Email,Tablet,75,1177,6.4,1.0
+mes,2024-01,Orgánico,Sin campaña,Celular,601,1140,52.7,0.9686
+mes,2024-01,Orgánico,Sin campaña,Computadora,452,1140,39.6,0.9686
+mes,2024-01,Orgánico,Sin campaña,Tablet,87,1140,7.6,0.9686
+mes,2024-01,Anuncios,Redes sociales,Celular,790,1001,78.9,0.8505
+mes,2024-01,Anuncios,Redes sociales,Computadora,155,1001,15.5,0.8505
+mes,2024-01,Anuncios,Redes sociales,Tablet,56,1001,5.6,0.8505
+mes,2024-01,Referido,Email,Celular,427,770,55.5,0.6542
+mes,2024-01,Referido,Email,Computadora,288,770,37.4,0.6542
+mes,2024-01,Referido,Email,Tablet,55,770,7.1,0.6542
+mes,2024-02,Directo,Email,Celular,678,1230,55.1,1.0
+mes,2024-02,Directo,Email,Computadora,484,1230,39.3,1.0
+mes,2024-02,Directo,Email,Tablet,68,1230,5.5,1.0
+mes,2024-02,Orgánico,Sin campaña,Celular,550,1040,52.9,0.8455
+mes,2024-02,Orgánico,Sin campaña,Computadora,427,1040,41.1,0.8455
+mes,2024-02,Orgánico,Sin campaña,Tablet,63,1040,6.1,0.8455
+mes,2024-02,Anuncios,Redes sociales,Celular,766,932,82.2,0.7577
+mes,2024-02,Anuncios,Redes sociales,Computadora,128,932,13.7,0.7577
+mes,2024-02,Anuncios,Redes sociales,Tablet,38,932,4.1,0.7577
+mes,2024-02,Referido,Email,Celular,375,703,53.3,0.5715
+mes,2024-02,Referido,Email,Computadora,279,703,39.7,0.5715
+mes,2024-02,Referido,Email,Tablet,49,703,7.0,0.5715
+mes,2024-03,Directo,Email,Celular,716,1258,56.9,1.0
+mes,2024-03,Directo,Email,Computadora,482,1258,38.3,1.0
+mes,2024-03,Directo,Email,Tablet,60,1258,4.8,1.0
+mes,2024-03,Anuncios,Redes sociales,Celular,841,1048,80.2,0.8331
+mes,2024-03,Anuncios,Redes sociales,Computadora,150,1048,14.3,0.8331
+mes,2024-03,Anuncios,Redes sociales,Tablet,57,1048,5.4,0.8331
+mes,2024-03,Orgánico,Sin campaña,Celular,568,1034,54.9,0.8219
+mes,2024-03,Orgánico,Sin campaña,Computadora,401,1034,38.8,0.8219
+mes,2024-03,Orgánico,Sin campaña,Tablet,65,1034,6.3,0.8219
+mes,2024-03,Referido,Email,Celular,408,724,56.4,0.5755
+mes,2024-03,Referido,Email,Computadora,276,724,38.1,0.5755
+mes,2024-03,Referido,Email,Tablet,40,724,5.5,0.5755
+mes,2024-04,Directo,Email,Celular,672,1171,57.4,1.0
+mes,2024-04,Directo,Email,Computadora,432,1171,36.9,1.0
+mes,2024-04,Directo,Email,Tablet,67,1171,5.7,1.0
+mes,2024-04,Orgánico,Sin campaña,Celular,563,1009,55.8,0.8617
+mes,2024-04,Orgánico,Sin campaña,Computadora,388,1009,38.5,0.8617
+mes,2024-04,Orgánico,Sin campaña,Tablet,58,1009,5.7,0.8617
+mes,2024-04,Anuncios,Redes sociales,Celular,741,926,80.0,0.7908
+mes,2024-04,Anuncios,Redes sociales,Computadora,136,926,14.7,0.7908
+mes,2024-04,Anuncios,Redes sociales,Tablet,49,926,5.3,0.7908
+mes,2024-04,Referido,Email,Celular,346,649,53.3,0.5542
+mes,2024-04,Referido,Email,Computadora,261,649,40.2,0.5542
+mes,2024-04,Referido,Email,Tablet,42,649,6.5,0.5542
+mes,2024-05,Directo,Email,Celular,689,1255,54.9,1.0
+mes,2024-05,Directo,Email,Computadora,494,1255,39.4,1.0
+mes,2024-05,Directo,Email,Tablet,72,1255,5.7,1.0
+mes,2024-05,Anuncios,Redes sociales,Celular,996,1231,80.9,0.9809
+mes,2024-05,Anuncios,Redes sociales,Computadora,176,1231,14.3,0.9809
+mes,2024-05,Anuncios,Redes sociales,Tablet,59,1231,4.8,0.9809
+mes,2024-05,Orgánico,Sin campaña,Celular,615,1072,57.4,0.8542
+mes,2024-05,Orgánico,Sin campaña,Computadora,389,1072,36.3,0.8542
+mes,2024-05,Orgánico,Sin campaña,Tablet,68,1072,6.3,0.8542
+mes,2024-05,Referido,Email,Celular,433,750,57.7,0.5976
+mes,2024-05,Referido,Email,Computadora,272,750,36.3,0.5976
+mes,2024-05,Referido,Email,Tablet,45,750,6.0,0.5976
+mes,2024-06,Directo,Email,Celular,757,1311,57.7,1.0
+mes,2024-06,Directo,Email,Computadora,486,1311,37.1,1.0
+mes,2024-06,Directo,Email,Tablet,68,1311,5.2,1.0
+mes,2024-06,Orgánico,Sin campaña,Celular,637,1138,56.0,0.868
+mes,2024-06,Orgánico,Sin campaña,Computadora,439,1138,38.6,0.868
+mes,2024-06,Orgánico,Sin campaña,Tablet,62,1138,5.4,0.868
+mes,2024-06,Anuncios,Redes sociales,Celular,823,1051,78.3,0.8017
+mes,2024-06,Anuncios,Redes sociales,Computadora,184,1051,17.5,0.8017
+mes,2024-06,Anuncios,Redes sociales,Tablet,44,1051,4.2,0.8017
+mes,2024-06,Referido,Email,Celular,446,838,53.2,0.6392
+mes,2024-06,Referido,Email,Computadora,335,838,40.0,0.6392
+mes,2024-06,Referido,Email,Tablet,57,838,6.8,0.6392
+mes,2024-07,Directo,Email,Celular,656,1150,57.0,1.0
+mes,2024-07,Directo,Email,Computadora,427,1150,37.1,1.0
+mes,2024-07,Directo,Email,Tablet,67,1150,5.8,1.0
+mes,2024-07,Orgánico,Sin campaña,Celular,541,952,56.8,0.8278
+mes,2024-07,Orgánico,Sin campaña,Computadora,360,952,37.8,0.8278
+mes,2024-07,Orgánico,Sin campaña,Tablet,51,952,5.4,0.8278
+mes,2024-07,Anuncios,Redes sociales,Celular,728,943,77.2,0.82
+mes,2024-07,Anuncios,Redes sociales,Computadora,173,943,18.3,0.82
+mes,2024-07,Anuncios,Redes sociales,Tablet,42,943,4.5,0.82
+mes,2024-07,Referido,Email,Celular,393,686,57.3,0.5965
+mes,2024-07,Referido,Email,Computadora,248,686,36.2,0.5965
+mes,2024-07,Referido,Email,Tablet,45,686,6.6,0.5965
+mes,2024-08,Directo,Email,Celular,729,1265,57.6,1.0
+mes,2024-08,Directo,Email,Computadora,476,1265,37.6,1.0
+mes,2024-08,Directo,Email,Tablet,60,1265,4.7,1.0
+mes,2024-08,Orgánico,Sin campaña,Celular,592,1045,56.7,0.8261
+mes,2024-08,Orgánico,Sin campaña,Computadora,384,1045,36.7,0.8261
+mes,2024-08,Orgánico,Sin campaña,Tablet,69,1045,6.6,0.8261
+mes,2024-08,Anuncios,Redes sociales,Celular,790,984,80.3,0.7779
+mes,2024-08,Anuncios,Redes sociales,Computadora,142,984,14.4,0.7779
+mes,2024-08,Anuncios,Redes sociales,Tablet,52,984,5.3,0.7779
+mes,2024-08,Referido,Email,Celular,374,671,55.7,0.5304
+mes,2024-08,Referido,Email,Computadora,260,671,38.7,0.5304
+mes,2024-08,Referido,Email,Tablet,37,671,5.5,0.5304
+mes,2024-09,Directo,Email,Celular,717,1239,57.9,1.0
+mes,2024-09,Directo,Email,Computadora,448,1239,36.2,1.0
+mes,2024-09,Directo,Email,Tablet,74,1239,6.0,1.0
+mes,2024-09,Orgánico,Sin campaña,Celular,617,1157,53.3,0.9338
+mes,2024-09,Orgánico,Sin campaña,Computadora,472,1157,40.8,0.9338
+mes,2024-09,Orgánico,Sin campaña,Tablet,68,1157,5.9,0.9338
+mes,2024-09,Anuncios,Redes sociales,Celular,829,1024,81.0,0.8265
+mes,2024-09,Anuncios,Redes sociales,Computadora,153,1024,14.9,0.8265
+mes,2024-09,Anuncios,Redes sociales,Tablet,42,1024,4.1,0.8265
+mes,2024-09,Referido,Email,Celular,426,751,56.7,0.6061
+mes,2024-09,Referido,Email,Computadora,268,751,35.7,0.6061
+mes,2024-09,Referido,Email,Tablet,57,751,7.6,0.6061
+mes,2024-10,Directo,Email,Celular,785,1406,55.8,1.0
+mes,2024-10,Directo,Email,Computadora,525,1406,37.3,1.0
+mes,2024-10,Directo,Email,Tablet,96,1406,6.8,1.0
+mes,2024-10,Orgánico,Sin campaña,Celular,711,1281,55.5,0.9111
+mes,2024-10,Orgánico,Sin campaña,Computadora,494,1281,38.6,0.9111
+mes,2024-10,Orgánico,Sin campaña,Tablet,76,1281,5.9,0.9111
+mes,2024-10,Anuncios,Redes sociales,Celular,917,1117,82.1,0.7945
+mes,2024-10,Anuncios,Redes sociales,Computadora,141,1117,12.6,0.7945
+mes,2024-10,Anuncios,Redes sociales,Tablet,59,1117,5.3,0.7945
+mes,2024-10,Referido,Email,Celular,526,917,57.4,0.6522
+mes,2024-10,Referido,Email,Computadora,340,917,37.1,0.6522
+mes,2024-10,Referido,Email,Tablet,51,917,5.6,0.6522
+mes,2024-11,Anuncios,Redes sociales,Celular,1303,1624,80.2,1.0
+mes,2024-11,Anuncios,Redes sociales,Computadora,244,1624,15.0,1.0
+mes,2024-11,Anuncios,Redes sociales,Tablet,77,1624,4.7,1.0
+mes,2024-11,Directo,Email,Celular,862,1542,55.9,0.9495
+mes,2024-11,Directo,Email,Computadora,582,1542,37.7,0.9495
+mes,2024-11,Directo,Email,Tablet,98,1542,6.4,0.9495
+mes,2024-11,Orgánico,Sin campaña,Celular,700,1262,55.5,0.7771
+mes,2024-11,Orgánico,Sin campaña,Computadora,491,1262,38.9,0.7771
+mes,2024-11,Orgánico,Sin campaña,Tablet,71,1262,5.6,0.7771
+mes,2024-11,Referido,Email,Celular,538,960,56.0,0.5911
+mes,2024-11,Referido,Email,Computadora,374,960,39.0,0.5911
+mes,2024-11,Referido,Email,Tablet,48,960,5.0,0.5911
+mes,2024-12,Directo,Email,Celular,1163,2047,56.8,1.0
+mes,2024-12,Directo,Email,Computadora,752,2047,36.7,1.0
+mes,2024-12,Directo,Email,Tablet,132,2047,6.4,1.0
+mes,2024-12,Orgánico,Sin campaña,Celular,1033,1810,57.1,0.8842
+mes,2024-12,Orgánico,Sin campaña,Computadora,694,1810,38.3,0.8842
+mes,2024-12,Orgánico,Sin campaña,Tablet,83,1810,4.6,0.8842
+mes,2024-12,Anuncios,Redes sociales,Celular,1307,1652,79.1,0.807
+mes,2024-12,Anuncios,Redes sociales,Computadora,244,1652,14.8,0.807
+mes,2024-12,Anuncios,Redes sociales,Tablet,101,1652,6.1,0.807
+mes,2024-12,Referido,Email,Celular,723,1297,55.7,0.6336
+mes,2024-12,Referido,Email,Computadora,501,1297,38.6,0.6336
+mes,2024-12,Referido,Email,Tablet,73,1297,5.6,0.6336
+mes,2025-01,Directo,Email,Celular,870,1616,53.8,1.0
+mes,2025-01,Directo,Email,Computadora,649,1616,40.2,1.0
+mes,2025-01,Directo,Email,Tablet,97,1616,6.0,1.0
+mes,2025-01,Orgánico,Sin campaña,Celular,812,1496,54.3,0.9257
+mes,2025-01,Orgánico,Sin campaña,Computadora,592,1496,39.6,0.9257
+mes,2025-01,Orgánico,Sin campaña,Tablet,92,1496,6.1,0.9257
+mes,2025-01,Anuncios,Redes sociales,Celular,1017,1273,79.9,0.7877
+mes,2025-01,Anuncios,Redes sociales,Computadora,189,1273,14.8,0.7877
+mes,2025-01,Anuncios,Redes sociales,Tablet,67,1273,5.3,0.7877
+mes,2025-01,Referido,Email,Celular,593,1042,56.9,0.6448
+mes,2025-01,Referido,Email,Computadora,385,1042,36.9,0.6448
+mes,2025-01,Referido,Email,Tablet,64,1042,6.1,0.6448
+mes,2025-02,Directo,Email,Celular,905,1571,57.6,1.0
+mes,2025-02,Directo,Email,Computadora,577,1571,36.7,1.0
+mes,2025-02,Directo,Email,Tablet,89,1571,5.7,1.0
+mes,2025-02,Orgánico,Sin campaña,Celular,686,1285,53.4,0.818
+mes,2025-02,Orgánico,Sin campaña,Computadora,508,1285,39.5,0.818
+mes,2025-02,Orgánico,Sin campaña,Tablet,91,1285,7.1,0.818
+mes,2025-02,Anuncios,Redes sociales,Celular,1026,1265,81.1,0.8052
+mes,2025-02,Anuncios,Redes sociales,Computadora,167,1265,13.2,0.8052
+mes,2025-02,Anuncios,Redes sociales,Tablet,72,1265,5.7,0.8052
+mes,2025-02,Referido,Email,Celular,501,940,53.3,0.5983
+mes,2025-02,Referido,Email,Computadora,384,940,40.9,0.5983
+mes,2025-02,Referido,Email,Tablet,55,940,5.9,0.5983
+mes,2025-03,Directo,Email,Celular,913,1641,55.6,1.0
+mes,2025-03,Directo,Email,Computadora,619,1641,37.7,1.0
+mes,2025-03,Directo,Email,Tablet,109,1641,6.6,1.0
+mes,2025-03,Orgánico,Sin campaña,Celular,816,1478,55.2,0.9007
+mes,2025-03,Orgánico,Sin campaña,Computadora,575,1478,38.9,0.9007
+mes,2025-03,Orgánico,Sin campaña,Tablet,87,1478,5.9,0.9007
+mes,2025-03,Anuncios,Redes sociales,Celular,1027,1275,80.5,0.777
+mes,2025-03,Anuncios,Redes sociales,Computadora,182,1275,14.3,0.777
+mes,2025-03,Anuncios,Redes sociales,Tablet,66,1275,5.2,0.777
+mes,2025-03,Referido,Email,Celular,570,1019,55.9,0.621
+mes,2025-03,Referido,Email,Computadora,393,1019,38.6,0.621
+mes,2025-03,Referido,Email,Tablet,56,1019,5.5,0.621
+mes,2025-04,Directo,Email,Celular,847,1500,56.5,1.0
+mes,2025-04,Directo,Email,Computadora,555,1500,37.0,1.0
+mes,2025-04,Directo,Email,Tablet,98,1500,6.5,1.0
+mes,2025-04,Orgánico,Sin campaña,Celular,750,1331,56.3,0.8873
+mes,2025-04,Orgánico,Sin campaña,Computadora,503,1331,37.8,0.8873
+mes,2025-04,Orgánico,Sin campaña,Tablet,78,1331,5.9,0.8873
+mes,2025-04,Anuncios,Redes sociales,Celular,955,1227,77.8,0.818
+mes,2025-04,Anuncios,Redes sociales,Computadora,199,1227,16.2,0.818
+mes,2025-04,Anuncios,Redes sociales,Tablet,73,1227,5.9,0.818
+mes,2025-04,Referido,Email,Celular,496,877,56.6,0.5847
+mes,2025-04,Referido,Email,Computadora,335,877,38.2,0.5847
+mes,2025-04,Referido,Email,Tablet,46,877,5.2,0.5847
+mes,2025-05,Directo,Email,Celular,893,1659,53.8,1.0
+mes,2025-05,Directo,Email,Computadora,674,1659,40.6,1.0
+mes,2025-05,Directo,Email,Tablet,92,1659,5.5,1.0
+mes,2025-05,Anuncios,Redes sociales,Celular,1318,1656,79.6,0.9982
+mes,2025-05,Anuncios,Redes sociales,Computadora,242,1656,14.6,0.9982
+mes,2025-05,Anuncios,Redes sociales,Tablet,96,1656,5.8,0.9982
+mes,2025-05,Orgánico,Sin campaña,Celular,820,1423,57.6,0.8577
+mes,2025-05,Orgánico,Sin campaña,Computadora,516,1423,36.3,0.8577
+mes,2025-05,Orgánico,Sin campaña,Tablet,87,1423,6.1,0.8577
+mes,2025-05,Referido,Email,Celular,582,996,58.4,0.6004
+mes,2025-05,Referido,Email,Computadora,356,996,35.7,0.6004
+mes,2025-05,Referido,Email,Tablet,58,996,5.8,0.6004
+mes,2025-06,Directo,Email,Celular,921,1671,55.1,1.0
+mes,2025-06,Directo,Email,Computadora,644,1671,38.5,1.0
+mes,2025-06,Directo,Email,Tablet,106,1671,6.3,1.0
+mes,2025-06,Orgánico,Sin campaña,Celular,802,1414,56.7,0.8462
+mes,2025-06,Orgánico,Sin campaña,Computadora,511,1414,36.1,0.8462
+mes,2025-06,Orgánico,Sin campaña,Tablet,101,1414,7.1,0.8462
+mes,2025-06,Anuncios,Redes sociales,Celular,1015,1263,80.4,0.7558
+mes,2025-06,Anuncios,Redes sociales,Computadora,193,1263,15.3,0.7558
+mes,2025-06,Anuncios,Redes sociales,Tablet,55,1263,4.4,0.7558
+mes,2025-06,Referido,Email,Celular,524,921,56.9,0.5512
+mes,2025-06,Referido,Email,Computadora,335,921,36.4,0.5512
+mes,2025-06,Referido,Email,Tablet,62,921,6.7,0.5512
+mes,2025-07,Directo,Email,Celular,804,1522,52.8,1.0
+mes,2025-07,Directo,Email,Computadora,631,1522,41.5,1.0
+mes,2025-07,Directo,Email,Tablet,87,1522,5.7,1.0
+mes,2025-07,Orgánico,Sin campaña,Celular,692,1242,55.7,0.816
+mes,2025-07,Orgánico,Sin campaña,Computadora,488,1242,39.3,0.816
+mes,2025-07,Orgánico,Sin campaña,Tablet,62,1242,5.0,0.816
+mes,2025-07,Anuncios,Redes sociales,Celular,937,1159,80.8,0.7615
+mes,2025-07,Anuncios,Redes sociales,Computadora,166,1159,14.3,0.7615
+mes,2025-07,Anuncios,Redes sociales,Tablet,56,1159,4.8,0.7615
+mes,2025-07,Referido,Email,Celular,502,873,57.5,0.5736
+mes,2025-07,Referido,Email,Computadora,319,873,36.5,0.5736
+mes,2025-07,Referido,Email,Tablet,52,873,6.0,0.5736
+mes,2025-08,Directo,Email,Celular,893,1612,55.4,1.0
+mes,2025-08,Directo,Email,Computadora,597,1612,37.0,1.0
+mes,2025-08,Directo,Email,Tablet,122,1612,7.6,1.0
+mes,2025-08,Orgánico,Sin campaña,Celular,804,1421,56.6,0.8815
+mes,2025-08,Orgánico,Sin campaña,Computadora,527,1421,37.1,0.8815
+mes,2025-08,Orgánico,Sin campaña,Tablet,90,1421,6.3,0.8815
+mes,2025-08,Anuncios,Redes sociales,Celular,996,1221,81.6,0.7574
+mes,2025-08,Anuncios,Redes sociales,Computadora,165,1221,13.5,0.7574
+mes,2025-08,Anuncios,Redes sociales,Tablet,60,1221,4.9,0.7574
+mes,2025-08,Referido,Email,Celular,536,933,57.4,0.5788
+mes,2025-08,Referido,Email,Computadora,342,933,36.7,0.5788
+mes,2025-08,Referido,Email,Tablet,55,933,5.9,0.5788
+mes,2025-09,Directo,Email,Celular,867,1623,53.4,1.0
+mes,2025-09,Directo,Email,Computadora,649,1623,40.0,1.0
+mes,2025-09,Directo,Email,Tablet,107,1623,6.6,1.0
+mes,2025-09,Orgánico,Sin campaña,Celular,766,1387,55.2,0.8546
+mes,2025-09,Orgánico,Sin campaña,Computadora,554,1387,39.9,0.8546
+mes,2025-09,Orgánico,Sin campaña,Tablet,67,1387,4.8,0.8546
+mes,2025-09,Anuncios,Redes sociales,Celular,1035,1293,80.0,0.7967
+mes,2025-09,Anuncios,Redes sociales,Computadora,191,1293,14.8,0.7967
+mes,2025-09,Anuncios,Redes sociales,Tablet,67,1293,5.2,0.7967
+mes,2025-09,Referido,Email,Celular,562,998,56.3,0.6149
+mes,2025-09,Referido,Email,Computadora,373,998,37.4,0.6149
+mes,2025-09,Referido,Email,Tablet,63,998,6.3,0.6149
+total,Todo,Directo,Email,Celular,17003,30466,55.8,1.0
+total,Todo,Directo,Email,Computadora,11619,30466,38.1,1.0
+total,Todo,Directo,Email,Tablet,1844,30466,6.1,1.0
+total,Todo,Orgánico,Sin campaña,Celular,14676,26417,55.6,0.8671
+total,Todo,Orgánico,Sin campaña,Computadora,10165,26417,38.5,0.8671
+total,Todo,Orgánico,Sin campaña,Tablet,1576,26417,6.0,0.8671
+total,Todo,Anuncios,Redes sociales,Celular,20157,25165,80.1,0.826
+total,Todo,Anuncios,Redes sociales,Computadora,3720,25165,14.8,0.826
+total,Todo,Anuncios,Redes sociales,Tablet,1288,25165,5.1,0.826
+total,Todo,Referido,Email,Celular,10281,18315,56.1,0.6012
+total,Todo,Referido,Email,Computadora,6924,18315,37.8,0.6012
+total,Todo,Referido,Email,Tablet,1110,18315,6.1,0.6012

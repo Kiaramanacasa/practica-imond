@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>EcoBottle AR: ventas en botellas</title>
+  <meta name="description" content="Tablero interactivo de EcoBottle AR: ventas, clientes y operación entre enero de 2024 y septiembre de 2025.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💧</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="burbujas" aria-hidden="true"></canvas>
+
+  <section class="portada" id="portada" aria-label="Presentación del tablero">
+    <div class="portada-escena">
+      <a class="saltar" href="#tablero">Saltar la presentación</a>
+      <div class="portada-texto">
+        <p class="portada-marca">
+          <svg viewBox="0 0 20 26" aria-hidden="true"><path d="M10 1 C10 1 2 11 2 16.5 A8 8 0 0 0 18 16.5 C18 11 10 1 10 1Z"/></svg>
+          EcoBottle AR
+        </p>
+        <h1 class="portada-titulo">Todo lo que vendimos, servido en una botella</h1>
+        <p class="portada-bajada" id="portada-bajada">Ventas, clientes y operación de la marca.</p>
+        <ol class="marcas" id="marcas"></ol>
+        <a class="entrar" id="entrar" href="#tablero">Entrar al tablero</a>
+      </div>
+      <figure class="portada-botella" id="portada-botella"></figure>
+      <p class="indicador" id="indicador" aria-hidden="true"><span class="gota-baja"></span>Bajá para llenarla</p>
+    </div>
+  </section>
+
+  <header class="encabezado" id="tablero">
+    <div class="encabezado-fila">
+      <a class="marca" href="#resumen" aria-label="EcoBottle AR, ir al resumen">
+        <svg viewBox="0 0 20 26" aria-hidden="true"><path d="M10 1 C10 1 2 11 2 16.5 A8 8 0 0 0 18 16.5 C18 11 10 1 10 1Z"/></svg>
+        <span>EcoBottle AR</span>
+      </a>
+      <nav class="pestanas" role="tablist" aria-label="Secciones del tablero">
+        <button type="button" role="tab" id="tab-resumen" aria-controls="pag-resumen" data-tab="resumen"><span>Resumen comercial</span></button>
+        <button type="button" role="tab" id="tab-operacion" aria-controls="pag-operacion" data-tab="operacion"><span>Clientes y operación</span></button>
+        <button type="button" role="tab" id="tab-clientes" aria-controls="pag-clientes" data-tab="clientes"><span>Ventas netas y clientes</span></button>
+      </nav>
+    </div>
+
+    <section class="filtros" aria-label="Filtros">
+      <div class="filtro">
+        <span class="filtro-nombre" id="lbl-anio">Período</span>
+        <div class="segmentado" data-filtro="anio" role="group" aria-labelledby="lbl-anio"></div>
+      </div>
+      <div class="filtro">
+        <label class="filtro-nombre" for="f-mes">Mes</label>
+        <select id="f-mes"></select>
+      </div>
+      <div class="filtro">
+        <span class="filtro-nombre" id="lbl-canal">Canal</span>
+        <div class="segmentado" data-filtro="canal" role="group" aria-labelledby="lbl-canal"></div>
+      </div>
+      <div class="filtro">
+        <label class="filtro-nombre" for="f-provincia">Provincia</label>
+        <select id="f-provincia"></select>
+      </div>
+      <button type="button" class="restablecer" id="restablecer">Restablecer</button>
+    </section>
+  </header>
+
+  <main>
+    <!-- =============================== RESUMEN =============================== -->
+    <section class="pagina" id="pag-resumen" role="tabpanel" aria-labelledby="tab-resumen" tabindex="-1">
+      <div class="pagina-titulo">
+        <h1>Resumen comercial</h1>
+        <p class="estado-filtros"></p>
+      </div>
+
+      <div class="hero">
+        <figure class="hero-botella" id="botella-total"></figure>
+        <div class="kpis" id="kpis-resumen"></div>
+      </div>
+
+      <article class="panel" data-responde="periodo canal provincia" data-mart="mart_ventas">
+        <header class="panel-cabeza">
+          <div>
+            <h2>La góndola de los meses</h2>
+            <p>Cada botella es un mes, llenada según sus ventas frente al mejor mes de la selección. Tocá una botella para filtrar ese mes.</p>
+          </div>
+        </header>
+        <div class="gondola-marco"><div class="gondola" id="gondola" role="list"></div></div>
+        <div class="leyenda" id="leyenda-gondola"></div>
+      </article>
+
+      <div class="grilla">
+        <article class="panel" data-responde="periodo" data-mart="mart_usuarios">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Usuarios activos por mes</h2>
+              <p>Cada columna suma los clientes que iniciaron sesión y los visitantes anónimos. Tocá un mes para filtrarlo.</p>
+            </div>
+          </header>
+          <div class="producto-resumen" id="usuarios-resumen"></div>
+          <div class="columnas-marco"><div class="columnas columnas-bajas" id="columnas-usuarios"></div></div>
+          <div class="leyenda" id="leyenda-usuarios"></div>
+        </article>
+
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_ventas">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Ventas por provincia</h2>
+              <p>Tocá una provincia para filtrar todo el tablero.</p>
+            </div>
+          </header>
+          <ol class="canos" id="provincias"></ol>
+        </article>
+      </div>
+
+      <article class="panel" data-responde="periodo canal provincia" data-mart="mart_productos">
+        <header class="panel-cabeza">
+          <div>
+            <h2>Ranking mensual por producto</h2>
+            <p>Ventas de cada producto por mes. La gota marca al producto que ganó el mes.</p>
+          </div>
+        </header>
+        <div class="producto-resumen" id="producto-resumen"></div>
+        <div class="columnas-marco"><div class="columnas" id="columnas-productos"></div></div>
+        <div class="leyenda" id="leyenda-productos"></div>
+      </article>
+
+      <section class="hallazgos" id="hallazgos-resumen" aria-label="Hallazgos"></section>
+    </section>
+
+    <!-- =========================== OPERACIÓN =========================== -->
+    <section class="pagina" id="pag-operacion" role="tabpanel" aria-labelledby="tab-operacion" tabindex="-1" hidden>
+      <div class="pagina-titulo">
+        <h1>Clientes y operación</h1>
+        <p class="estado-filtros"></p>
+      </div>
+      <div class="kpis kpis-fila" id="kpis-operacion"></div>
+
+      <div class="grilla">
+        <article class="panel" data-responde="periodo" data-mart="mart_trafico">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Sesiones por origen y dispositivo</h2>
+              <p>De dónde llega cada visita a la web y desde qué dispositivo.</p>
+            </div>
+          </header>
+          <div class="leyenda" id="leyenda-trafico"></div>
+          <ul class="apiladas" id="trafico"></ul>
+        </article>
+
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_pagos">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Medios de pago y tasa de fallos</h2>
+              <p>La barra es la cantidad de pagos; la gota roja, el porcentaje que falló.</p>
+            </div>
+          </header>
+          <ul class="pagos" id="pagos"></ul>
+        </article>
+
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_entregas">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Días promedio de entrega por provincia</h2>
+              <p>Solo envíos entregados. La línea punteada es el promedio de la selección.</p>
+            </div>
+          </header>
+          <div class="columnas-marco"><div class="columnas columnas-anchas" id="columnas-entregas"></div></div>
+        </article>
+
+        <article class="panel" data-responde="periodo canal" data-mart="mart_nps">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Satisfacción por canal</h2>
+              <p>Promotores, pasivos y detractores de la encuesta NPS.</p>
+            </div>
+          </header>
+          <ul class="apiladas" id="nps-canales"></ul>
+          <div class="leyenda" id="leyenda-nps"></div>
+        </article>
+      </div>
+
+      <article class="panel" data-responde="periodo canal" data-mart="mart_nps">
+        <header class="panel-cabeza">
+          <div>
+            <h2>NPS mes a mes</h2>
+            <p>Porcentaje de promotores menos porcentaje de detractores. Tocá un punto para filtrar ese mes.</p>
+          </div>
+        </header>
+        <div class="grafico-linea alto" id="linea-nps"></div>
+      </article>
+
+      <section class="hallazgos" id="hallazgos-operacion" aria-label="Hallazgos"></section>
+    </section>
+
+    <!-- ======================= VENTAS NETAS Y CLIENTES ======================= -->
+    <section class="pagina" id="pag-clientes" role="tabpanel" aria-labelledby="tab-clientes" tabindex="-1" hidden>
+      <div class="pagina-titulo">
+        <h1>Ventas netas y clientes</h1>
+        <p class="estado-filtros"></p>
+      </div>
+      <div class="kpis kpis-fila kpis-5" id="kpis-clientes"></div>
+
+      <div class="grilla">
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_estados">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Pedidos por estado</h2>
+              <p>Solo Entregado y Pagado cuentan como venta.</p>
+            </div>
+          </header>
+          <ul class="estados" id="estados"></ul>
+        </article>
+
+        <article class="panel" data-responde="periodo provincia" data-mart="mart_ventas">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Ventas y ticket por canal</h2>
+              <p>Cada botella se llena según lo que vende el canal. Tocá una para filtrar.</p>
+            </div>
+          </header>
+          <div class="duelo" id="duelo-canales"></div>
+        </article>
+      </div>
+
+      <article class="panel" data-responde="periodo canal provincia" data-mart="mart_ventas">
+        <header class="panel-cabeza">
+          <div>
+            <h2>Qué hay dentro de cada venta, mes a mes</h2>
+            <p>Cada columna es lo cobrado en el mes, separado en productos, envíos e IVA. Tocá un mes para filtrarlo.</p>
+          </div>
+        </header>
+        <div class="columnas-marco"><div class="columnas" id="columnas-neta"></div></div>
+        <div class="leyenda" id="leyenda-neta"></div>
+      </article>
+
+      <div class="grilla">
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_compras_estado_cliente">
+          <header class="panel-cabeza">
+            <div>
+              <h2>Qué compran los clientes activos e inactivos</h2>
+              <p>Inactivos son los clientes que dieron de baja su cuenta.</p>
+            </div>
+          </header>
+          <ul class="apiladas" id="activos-inactivos"></ul>
+          <div class="leyenda" id="leyenda-activos"></div>
+        </article>
+
+        <article class="panel" data-responde="periodo canal provincia" data-mart="mart_ventas">
+          <header class="panel-cabeza">
+            <div>
+              <h2 id="iva-titulo">Cuánto es IVA</h2>
+              <p id="iva-nota"></p>
+            </div>
+          </header>
+          <div class="gotas" id="gotas" aria-hidden="true"></div>
+          <div class="leyenda"><span><i style="background:var(--agua-online)"></i>Productos</span><span><i style="background:var(--agua-tiendas)"></i>Envío</span><span><i style="background:var(--sol)"></i>IVA</span></div>
+        </article>
+      </div>
+
+      <article class="panel" data-responde="" data-mart="mart_clientes">
+        <header class="panel-cabeza">
+          <div>
+            <h2>Cómo compran los clientes</h2>
+            <p>Foto del período completo: cuántos clientes hay en cada grupo y cuánto aportan a las ventas.</p>
+          </div>
+        </header>
+        <div class="comparaciones" id="comparaciones"></div>
+      </article>
+
+      <section class="hallazgos" id="hallazgos-clientes" aria-label="Hallazgos"></section>
+    </section>
+  </main>
+
+  <footer class="pie">
+    <p>EcoBottle AR, enero 2024 a septiembre 2025. Los datos salen de los marts de <code>dw/mart/</code>: la página no calcula, solo muestra la fila de los filtros elegidos.</p>
+    <a href="https://github.com/Kiaramanacasa/practica-imond">Ver el código en GitHub</a>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="status" hidden></div>
+  <div class="error-carga" id="error" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

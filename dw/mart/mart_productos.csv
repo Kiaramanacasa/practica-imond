@@ -1,0 +1,721 @@
+periodo_tipo,periodo,anio,mes,canal,provincia,producto,unidades,ventas,ranking,pct_del_periodo,nivel_mes
+anio,2024,2024,,Tienda Online,Buenos Aires,Sport B Bottle,1483,26864176.96,1,52.5,
+anio,2024,2024,,Tienda Online,Buenos Aires,Classic A Bottle,1657,24309740.54,2,47.5,
+anio,2024,2024,,Tienda Online,Córdoba,Sport B Bottle,730,13455164.93,1,50.8,
+anio,2024,2024,,Tienda Online,Córdoba,Classic A Bottle,885,13055136.07,2,49.2,
+anio,2024,2024,,Tienda Online,Mendoza,Sport B Bottle,491,8961494.11,1,54.9,
+anio,2024,2024,,Tienda Online,Mendoza,Classic A Bottle,493,7370312.39,2,45.1,
+anio,2024,2024,,Tienda Online,Santa Fe,Classic A Bottle,953,14102371.6,1,50.9,
+anio,2024,2024,,Tienda Online,Santa Fe,Sport B Bottle,744,13583599.4,2,49.1,
+anio,2024,2024,,Tienda Online,Todas,Sport B Bottle,3448,62864435.4,1,51.7,
+anio,2024,2024,,Tienda Online,Todas,Classic A Bottle,3988,58837560.6,2,48.3,
+anio,2024,2024,,Tiendas Físicas,Buenos Aires,Sport B Bottle,844,15156858.78,1,54.0,
+anio,2024,2024,,Tiendas Físicas,Buenos Aires,Classic A Bottle,907,12925116.72,2,46.0,
+anio,2024,2024,,Tiendas Físicas,Córdoba,Sport B Bottle,693,12329707.18,1,52.9,
+anio,2024,2024,,Tiendas Físicas,Córdoba,Classic A Bottle,767,10961140.82,2,47.1,
+anio,2024,2024,,Tiendas Físicas,Mendoza,Sport B Bottle,521,9371657.83,1,53.3,
+anio,2024,2024,,Tiendas Físicas,Mendoza,Classic A Bottle,570,8207437.67,2,46.7,
+anio,2024,2024,,Tiendas Físicas,Santa Fe,Sport B Bottle,625,11185880.87,1,52.9,
+anio,2024,2024,,Tiendas Físicas,Santa Fe,Classic A Bottle,692,9939922.63,2,47.1,
+anio,2024,2024,,Tiendas Físicas,Todas,Sport B Bottle,2683,48044104.66,1,53.3,
+anio,2024,2024,,Tiendas Físicas,Todas,Classic A Bottle,2936,42033617.84,2,46.7,
+anio,2024,2024,,Todos,Buenos Aires,Sport B Bottle,2327,42021035.74,1,53.0,
+anio,2024,2024,,Todos,Buenos Aires,Classic A Bottle,2564,37234857.26,2,47.0,
+anio,2024,2024,,Todos,Córdoba,Sport B Bottle,1423,25784872.11,1,51.8,
+anio,2024,2024,,Todos,Córdoba,Classic A Bottle,1652,24016276.89,2,48.2,
+anio,2024,2024,,Todos,Mendoza,Sport B Bottle,1012,18333151.94,1,54.1,
+anio,2024,2024,,Todos,Mendoza,Classic A Bottle,1063,15577750.06,2,45.9,
+anio,2024,2024,,Todos,Santa Fe,Sport B Bottle,1369,24769480.27,1,50.7,
+anio,2024,2024,,Todos,Santa Fe,Classic A Bottle,1645,24042294.23,2,49.3,
+anio,2024,2024,,Todos,Todas,Sport B Bottle,6131,110908540.06,1,52.4,
+anio,2024,2024,,Todos,Todas,Classic A Bottle,6924,100871178.44,2,47.6,
+anio,2025,2025,,Tienda Online,Buenos Aires,Classic A Bottle,1476,21545606.24,1,50.3,
+anio,2025,2025,,Tienda Online,Buenos Aires,Sport B Bottle,1162,21288779.26,2,49.7,
+anio,2025,2025,,Tienda Online,Córdoba,Sport B Bottle,627,11445752.25,1,50.2,
+anio,2025,2025,,Tienda Online,Córdoba,Classic A Bottle,774,11367702.75,2,49.8,
+anio,2025,2025,,Tienda Online,Mendoza,Sport B Bottle,462,8454041.04,1,52.5,
+anio,2025,2025,,Tienda Online,Mendoza,Classic A Bottle,511,7661403.96,2,47.5,
+anio,2025,2025,,Tienda Online,Santa Fe,Sport B Bottle,686,12504949.53,1,53.1,
+anio,2025,2025,,Tienda Online,Santa Fe,Classic A Bottle,748,11041898.97,2,46.9,
+anio,2025,2025,,Tienda Online,Todas,Sport B Bottle,2937,53693522.09,1,51.0,
+anio,2025,2025,,Tienda Online,Todas,Classic A Bottle,3509,51616611.91,2,49.0,
+anio,2025,2025,,Tiendas Físicas,Buenos Aires,Sport B Bottle,641,11526954.87,1,55.9,
+anio,2025,2025,,Tiendas Físicas,Buenos Aires,Classic A Bottle,630,9082019.13,2,44.1,
+anio,2025,2025,,Tiendas Físicas,Córdoba,Sport B Bottle,538,9612460.83,1,56.8,
+anio,2025,2025,,Tiendas Físicas,Córdoba,Classic A Bottle,506,7308110.67,2,43.2,
+anio,2025,2025,,Tiendas Físicas,Mendoza,Sport B Bottle,372,6699783.74,1,53.2,
+anio,2025,2025,,Tiendas Físicas,Mendoza,Classic A Bottle,409,5902670.26,2,46.8,
+anio,2025,2025,,Tiendas Físicas,Santa Fe,Sport B Bottle,428,7725120.0,1,50.9,
+anio,2025,2025,,Tiendas Físicas,Santa Fe,Classic A Bottle,520,7463664.0,2,49.1,
+anio,2025,2025,,Tiendas Físicas,Todas,Sport B Bottle,1979,35564319.44,1,54.4,
+anio,2025,2025,,Tiendas Físicas,Todas,Classic A Bottle,2065,29756464.06,2,45.6,
+anio,2025,2025,,Todos,Buenos Aires,Sport B Bottle,1803,32815734.13,1,51.7,
+anio,2025,2025,,Todos,Buenos Aires,Classic A Bottle,2106,30627625.37,2,48.3,
+anio,2025,2025,,Todos,Córdoba,Sport B Bottle,1165,21058213.09,1,53.0,
+anio,2025,2025,,Todos,Córdoba,Classic A Bottle,1280,18675813.41,2,47.0,
+anio,2025,2025,,Todos,Mendoza,Sport B Bottle,834,15153824.78,1,52.8,
+anio,2025,2025,,Todos,Mendoza,Classic A Bottle,920,13564074.22,2,47.2,
+anio,2025,2025,,Todos,Santa Fe,Sport B Bottle,1114,20230069.53,1,52.2,
+anio,2025,2025,,Todos,Santa Fe,Classic A Bottle,1268,18505562.97,2,47.8,
+anio,2025,2025,,Todos,Todas,Sport B Bottle,4916,89257841.53,1,52.3,
+anio,2025,2025,,Todos,Todas,Classic A Bottle,5574,81373075.97,2,47.7,
+mes,2024-01,2024,1,Tienda Online,Buenos Aires,Sport B Bottle,98,1801822.95,1,56.8,0.3764
+mes,2024-01,2024,1,Tienda Online,Buenos Aires,Classic A Bottle,92,1373092.05,2,43.2,0.2868
+mes,2024-01,2024,1,Tienda Online,Córdoba,Sport B Bottle,74,1379578.98,1,54.6,0.6643
+mes,2024-01,2024,1,Tienda Online,Córdoba,Classic A Bottle,78,1149071.52,2,45.4,0.5533
+mes,2024-01,2024,1,Tienda Online,Mendoza,Sport B Bottle,44,796123.02,1,70.3,0.5188
+mes,2024-01,2024,1,Tienda Online,Mendoza,Classic A Bottle,22,336061.98,2,29.7,0.219
+mes,2024-01,2024,1,Tienda Online,Santa Fe,Sport B Bottle,55,1033751.94,1,52.6,0.4889
+mes,2024-01,2024,1,Tienda Online,Santa Fe,Classic A Bottle,62,932814.06,2,47.4,0.4412
+mes,2024-01,2024,1,Tienda Online,Todas,Sport B Bottle,271,5011276.9,1,56.9,0.4767
+mes,2024-01,2024,1,Tienda Online,Todas,Classic A Bottle,254,3791039.6,2,43.1,0.3606
+mes,2024-01,2024,1,Tiendas Físicas,Buenos Aires,Sport B Bottle,89,1608060.0,1,65.4,0.7166
+mes,2024-01,2024,1,Tiendas Físicas,Buenos Aires,Classic A Bottle,60,849894.0,2,34.6,0.3788
+mes,2024-01,2024,1,Tiendas Físicas,Córdoba,Sport B Bottle,56,1010955.0,1,57.3,0.59
+mes,2024-01,2024,1,Tiendas Físicas,Córdoba,Classic A Bottle,52,752136.0,2,42.7,0.439
+mes,2024-01,2024,1,Tiendas Físicas,Mendoza,Sport B Bottle,43,778605.0,1,61.1,0.5805
+mes,2024-01,2024,1,Tiendas Físicas,Mendoza,Classic A Bottle,34,495828.0,2,38.9,0.3697
+mes,2024-01,2024,1,Tiendas Físicas,Santa Fe,Sport B Bottle,60,1086870.0,1,65.2,0.8018
+mes,2024-01,2024,1,Tiendas Físicas,Santa Fe,Classic A Bottle,40,580800.0,2,34.8,0.4285
+mes,2024-01,2024,1,Tiendas Físicas,Todas,Sport B Bottle,248,4484490.0,1,62.6,0.6844
+mes,2024-01,2024,1,Tiendas Físicas,Todas,Classic A Bottle,186,2678658.0,2,37.4,0.4088
+mes,2024-01,2024,1,Todos,Buenos Aires,Sport B Bottle,187,3409882.95,1,60.5,0.485
+mes,2024-01,2024,1,Todos,Buenos Aires,Classic A Bottle,152,2222986.05,2,39.5,0.3162
+mes,2024-01,2024,1,Todos,Córdoba,Sport B Bottle,130,2390533.98,1,55.7,0.639
+mes,2024-01,2024,1,Todos,Córdoba,Classic A Bottle,130,1901207.52,2,44.3,0.5082
+mes,2024-01,2024,1,Todos,Mendoza,Sport B Bottle,87,1574728.02,1,65.4,0.5476
+mes,2024-01,2024,1,Todos,Mendoza,Classic A Bottle,56,831889.98,2,34.6,0.2893
+mes,2024-01,2024,1,Todos,Santa Fe,Sport B Bottle,115,2120621.94,1,58.4,0.6206
+mes,2024-01,2024,1,Todos,Santa Fe,Classic A Bottle,102,1513614.06,2,41.6,0.4429
+mes,2024-01,2024,1,Todos,Todas,Sport B Bottle,519,9495766.9,1,59.5,0.5564
+mes,2024-01,2024,1,Todos,Todas,Classic A Bottle,440,6469697.6,2,40.5,0.3791
+mes,2024-02,2024,2,Tienda Online,Buenos Aires,Sport B Bottle,126,2283263.19,1,57.6,0.477
+mes,2024-02,2024,2,Tienda Online,Buenos Aires,Classic A Bottle,113,1683486.81,2,42.4,0.3517
+mes,2024-02,2024,2,Tienda Online,Córdoba,Sport B Bottle,77,1447269.78,1,55.1,0.6969
+mes,2024-02,2024,2,Tienda Online,Córdoba,Classic A Bottle,78,1178306.22,2,44.9,0.5674
+mes,2024-02,2024,2,Tienda Online,Mendoza,Classic A Bottle,43,660708.0,1,50.3,0.4306
+mes,2024-02,2024,2,Tienda Online,Mendoza,Sport B Bottle,37,652327.5,2,49.7,0.4251
+mes,2024-02,2024,2,Tienda Online,Santa Fe,Classic A Bottle,73,1091405.24,1,51.9,0.5162
+mes,2024-02,2024,2,Tienda Online,Santa Fe,Sport B Bottle,56,1012172.26,2,48.1,0.4787
+mes,2024-02,2024,2,Tienda Online,Todas,Sport B Bottle,296,5395032.73,1,53.9,0.5132
+mes,2024-02,2024,2,Tienda Online,Todas,Classic A Bottle,307,4613906.27,2,46.1,0.4389
+mes,2024-02,2024,2,Tiendas Físicas,Buenos Aires,Sport B Bottle,97,1729987.5,1,56.9,0.771
+mes,2024-02,2024,2,Tiendas Físicas,Buenos Aires,Classic A Bottle,96,1313052.0,2,43.1,0.5852
+mes,2024-02,2024,2,Tiendas Físicas,Córdoba,Sport B Bottle,55,996435.0,1,54.4,0.5816
+mes,2024-02,2024,2,Tiendas Físicas,Córdoba,Classic A Bottle,58,836400.0,2,45.6,0.4882
+mes,2024-02,2024,2,Tiendas Físicas,Mendoza,Sport B Bottle,46,827625.0,1,58.2,0.617
+mes,2024-02,2024,2,Tiendas Físicas,Mendoza,Classic A Bottle,41,594564.0,2,41.8,0.4433
+mes,2024-02,2024,2,Tiendas Físicas,Santa Fe,Sport B Bottle,63,1121947.5,1,54.2,0.8277
+mes,2024-02,2024,2,Tiendas Físicas,Santa Fe,Classic A Bottle,67,948930.0,2,45.8,0.7001
+mes,2024-02,2024,2,Tiendas Físicas,Todas,Sport B Bottle,261,4675995.0,1,55.9,0.7136
+mes,2024-02,2024,2,Tiendas Físicas,Todas,Classic A Bottle,262,3692946.0,2,44.1,0.5636
+mes,2024-02,2024,2,Todos,Buenos Aires,Sport B Bottle,223,4013250.69,1,57.3,0.5708
+mes,2024-02,2024,2,Todos,Buenos Aires,Classic A Bottle,209,2996538.81,2,42.7,0.4262
+mes,2024-02,2024,2,Todos,Córdoba,Sport B Bottle,132,2443704.78,1,54.8,0.6532
+mes,2024-02,2024,2,Todos,Córdoba,Classic A Bottle,136,2014706.22,2,45.2,0.5385
+mes,2024-02,2024,2,Todos,Mendoza,Sport B Bottle,83,1479952.5,1,54.1,0.5146
+mes,2024-02,2024,2,Todos,Mendoza,Classic A Bottle,84,1255272.0,2,45.9,0.4365
+mes,2024-02,2024,2,Todos,Santa Fe,Sport B Bottle,119,2134119.76,1,51.1,0.6245
+mes,2024-02,2024,2,Todos,Santa Fe,Classic A Bottle,140,2040335.24,2,48.9,0.5971
+mes,2024-02,2024,2,Todos,Todas,Sport B Bottle,557,10071027.73,1,54.8,0.5902
+mes,2024-02,2024,2,Todos,Todas,Classic A Bottle,569,8306852.27,2,45.2,0.4868
+mes,2024-03,2024,3,Tienda Online,Buenos Aires,Classic A Bottle,130,1950695.29,1,51.0,0.4075
+mes,2024-03,2024,3,Tienda Online,Buenos Aires,Sport B Bottle,103,1872942.71,2,49.0,0.3912
+mes,2024-03,2024,3,Tienda Online,Córdoba,Classic A Bottle,71,1038992.79,1,52.8,0.5003
+mes,2024-03,2024,3,Tienda Online,Córdoba,Sport B Bottle,50,930253.71,2,47.2,0.448
+mes,2024-03,2024,3,Tienda Online,Mendoza,Classic A Bottle,39,588408.26,1,52.0,0.3835
+mes,2024-03,2024,3,Tienda Online,Mendoza,Sport B Bottle,29,543413.74,2,48.0,0.3541
+mes,2024-03,2024,3,Tienda Online,Santa Fe,Classic A Bottle,101,1438103.19,1,59.1,0.6802
+mes,2024-03,2024,3,Tienda Online,Santa Fe,Sport B Bottle,55,994896.81,2,40.9,0.4705
+mes,2024-03,2024,3,Tienda Online,Todas,Classic A Bottle,341,5016199.53,1,53.6,0.4772
+mes,2024-03,2024,3,Tienda Online,Todas,Sport B Bottle,237,4341506.97,2,46.4,0.413
+mes,2024-03,2024,3,Tiendas Físicas,Buenos Aires,Classic A Bottle,89,1291776.0,1,54.2,0.5757
+mes,2024-03,2024,3,Tiendas Físicas,Buenos Aires,Sport B Bottle,61,1090200.0,2,45.8,0.4858
+mes,2024-03,2024,3,Tiendas Físicas,Córdoba,Classic A Bottle,85,1195193.08,1,54.2,0.6976
+mes,2024-03,2024,3,Tiendas Físicas,Córdoba,Sport B Bottle,56,1009716.92,2,45.8,0.5893
+mes,2024-03,2024,3,Tiendas Físicas,Mendoza,Sport B Bottle,32,579647.31,1,53.4,0.4322
+mes,2024-03,2024,3,Tiendas Físicas,Mendoza,Classic A Bottle,35,505647.69,2,46.6,0.377
+mes,2024-03,2024,3,Tiendas Físicas,Santa Fe,Classic A Bottle,80,1134209.08,1,54.6,0.8368
+mes,2024-03,2024,3,Tiendas Físicas,Santa Fe,Sport B Bottle,52,944376.92,2,45.4,0.6967
+mes,2024-03,2024,3,Tiendas Físicas,Todas,Classic A Bottle,289,4126825.85,1,53.2,0.6298
+mes,2024-03,2024,3,Tiendas Físicas,Todas,Sport B Bottle,201,3623941.15,2,46.8,0.5531
+mes,2024-03,2024,3,Todos,Buenos Aires,Classic A Bottle,219,3242471.29,1,52.3,0.4612
+mes,2024-03,2024,3,Todos,Buenos Aires,Sport B Bottle,164,2963142.71,2,47.7,0.4214
+mes,2024-03,2024,3,Todos,Córdoba,Classic A Bottle,156,2234185.87,1,53.5,0.5972
+mes,2024-03,2024,3,Todos,Córdoba,Sport B Bottle,106,1939970.63,2,46.5,0.5185
+mes,2024-03,2024,3,Todos,Mendoza,Sport B Bottle,61,1123061.04,1,50.7,0.3905
+mes,2024-03,2024,3,Todos,Mendoza,Classic A Bottle,74,1094055.96,2,49.3,0.3804
+mes,2024-03,2024,3,Todos,Santa Fe,Classic A Bottle,181,2572312.26,1,57.0,0.7528
+mes,2024-03,2024,3,Todos,Santa Fe,Sport B Bottle,107,1939273.74,2,43.0,0.5675
+mes,2024-03,2024,3,Todos,Todas,Classic A Bottle,630,9143025.38,1,53.4,0.5358
+mes,2024-03,2024,3,Todos,Todas,Sport B Bottle,438,7965448.12,2,46.6,0.4668
+mes,2024-04,2024,4,Tienda Online,Buenos Aires,Classic A Bottle,122,1827472.32,1,54.3,0.3817
+mes,2024-04,2024,4,Tienda Online,Buenos Aires,Sport B Bottle,83,1536738.18,2,45.7,0.321
+mes,2024-04,2024,4,Tienda Online,Córdoba,Classic A Bottle,66,987727.39,1,56.9,0.4756
+mes,2024-04,2024,4,Tienda Online,Córdoba,Sport B Bottle,40,747058.61,2,43.1,0.3597
+mes,2024-04,2024,4,Tienda Online,Mendoza,Classic A Bottle,38,579148.29,1,51.8,0.3774
+mes,2024-04,2024,4,Tienda Online,Mendoza,Sport B Bottle,29,538713.21,2,48.2,0.3511
+mes,2024-04,2024,4,Tienda Online,Santa Fe,Sport B Bottle,67,1233530.87,1,55.7,0.5834
+mes,2024-04,2024,4,Tienda Online,Santa Fe,Classic A Bottle,65,980206.63,2,44.3,0.4636
+mes,2024-04,2024,4,Tienda Online,Todas,Classic A Bottle,291,4374554.63,1,51.9,0.4161
+mes,2024-04,2024,4,Tienda Online,Todas,Sport B Bottle,219,4056040.87,2,48.1,0.3858
+mes,2024-04,2024,4,Tiendas Físicas,Buenos Aires,Classic A Bottle,58,841656.0,1,52.6,0.3751
+mes,2024-04,2024,4,Tiendas Físicas,Buenos Aires,Sport B Bottle,42,759870.0,2,47.4,0.3386
+mes,2024-04,2024,4,Tiendas Físicas,Córdoba,Classic A Bottle,58,838775.08,1,55.7,0.4895
+mes,2024-04,2024,4,Tiendas Físicas,Córdoba,Sport B Bottle,37,666681.92,2,44.3,0.3891
+mes,2024-04,2024,4,Tiendas Físicas,Mendoza,Sport B Bottle,43,778635.0,1,55.5,0.5805
+mes,2024-04,2024,4,Tiendas Físicas,Mendoza,Classic A Bottle,43,624360.0,2,44.5,0.4655
+mes,2024-04,2024,4,Tiendas Físicas,Santa Fe,Classic A Bottle,88,1270500.0,1,55.2,0.9373
+mes,2024-04,2024,4,Tiendas Físicas,Santa Fe,Sport B Bottle,59,1032735.0,2,44.8,0.7619
+mes,2024-04,2024,4,Tiendas Físicas,Todas,Classic A Bottle,247,3575291.08,1,52.5,0.5456
+mes,2024-04,2024,4,Tiendas Físicas,Todas,Sport B Bottle,181,3237921.92,2,47.5,0.4941
+mes,2024-04,2024,4,Todos,Buenos Aires,Classic A Bottle,180,2669128.32,1,53.8,0.3796
+mes,2024-04,2024,4,Todos,Buenos Aires,Sport B Bottle,125,2296608.18,2,46.2,0.3266
+mes,2024-04,2024,4,Todos,Córdoba,Classic A Bottle,124,1826502.47,1,56.4,0.4882
+mes,2024-04,2024,4,Todos,Córdoba,Sport B Bottle,77,1413740.53,2,43.6,0.3779
+mes,2024-04,2024,4,Todos,Mendoza,Sport B Bottle,72,1317348.21,1,52.3,0.4581
+mes,2024-04,2024,4,Todos,Mendoza,Classic A Bottle,81,1203508.29,2,47.7,0.4185
+mes,2024-04,2024,4,Todos,Santa Fe,Sport B Bottle,126,2266265.87,1,50.2,0.6632
+mes,2024-04,2024,4,Todos,Santa Fe,Classic A Bottle,153,2250706.63,2,49.8,0.6586
+mes,2024-04,2024,4,Todos,Todas,Classic A Bottle,538,7949845.71,1,52.2,0.4659
+mes,2024-04,2024,4,Todos,Todas,Sport B Bottle,400,7293962.79,2,47.8,0.4274
+mes,2024-05,2024,5,Tienda Online,Buenos Aires,Classic A Bottle,161,2257572.62,1,57.0,0.4716
+mes,2024-05,2024,5,Tienda Online,Buenos Aires,Sport B Bottle,97,1701381.88,2,43.0,0.3554
+mes,2024-05,2024,5,Tienda Online,Córdoba,Classic A Bottle,72,999197.9,1,52.6,0.4812
+mes,2024-05,2024,5,Tienda Online,Córdoba,Sport B Bottle,53,901143.1,2,47.4,0.4339
+mes,2024-05,2024,5,Tienda Online,Mendoza,Sport B Bottle,44,772240.0,1,58.3,0.5033
+mes,2024-05,2024,5,Tienda Online,Mendoza,Classic A Bottle,38,553106.0,2,41.7,0.3605
+mes,2024-05,2024,5,Tienda Online,Santa Fe,Classic A Bottle,93,1321151.14,1,57.0,0.6249
+mes,2024-05,2024,5,Tienda Online,Santa Fe,Sport B Bottle,57,995427.86,2,43.0,0.4708
+mes,2024-05,2024,5,Tienda Online,Todas,Classic A Bottle,364,5131027.67,1,54.0,0.4881
+mes,2024-05,2024,5,Tienda Online,Todas,Sport B Bottle,251,4370192.83,2,46.0,0.4157
+mes,2024-05,2024,5,Tiendas Físicas,Buenos Aires,Sport B Bottle,66,1157970.0,1,57.8,0.516
+mes,2024-05,2024,5,Tiendas Físicas,Buenos Aires,Classic A Bottle,59,844308.0,2,42.2,0.3763
+mes,2024-05,2024,5,Tiendas Físicas,Córdoba,Sport B Bottle,67,1128930.0,1,55.0,0.6589
+mes,2024-05,2024,5,Tiendas Físicas,Córdoba,Classic A Bottle,64,924924.0,2,45.0,0.5398
+mes,2024-05,2024,5,Tiendas Físicas,Mendoza,Classic A Bottle,49,710031.69,1,57.7,0.5294
+mes,2024-05,2024,5,Tiendas Físicas,Mendoza,Sport B Bottle,29,519782.31,2,42.3,0.3875
+mes,2024-05,2024,5,Tiendas Físicas,Santa Fe,Sport B Bottle,59,1061775.0,1,68.7,0.7833
+mes,2024-05,2024,5,Tiendas Físicas,Santa Fe,Classic A Bottle,34,483564.0,2,31.3,0.3567
+mes,2024-05,2024,5,Tiendas Físicas,Todas,Sport B Bottle,221,3868457.31,1,56.6,0.5904
+mes,2024-05,2024,5,Tiendas Físicas,Todas,Classic A Bottle,206,2962827.69,2,43.4,0.4522
+mes,2024-05,2024,5,Todos,Buenos Aires,Classic A Bottle,220,3101880.62,1,52.0,0.4412
+mes,2024-05,2024,5,Todos,Buenos Aires,Sport B Bottle,163,2859351.88,2,48.0,0.4067
+mes,2024-05,2024,5,Todos,Córdoba,Sport B Bottle,120,2030073.1,1,51.3,0.5426
+mes,2024-05,2024,5,Todos,Córdoba,Classic A Bottle,136,1924121.9,2,48.7,0.5143
+mes,2024-05,2024,5,Todos,Mendoza,Sport B Bottle,73,1292022.31,1,50.6,0.4493
+mes,2024-05,2024,5,Todos,Mendoza,Classic A Bottle,87,1263137.69,2,49.4,0.4392
+mes,2024-05,2024,5,Todos,Santa Fe,Sport B Bottle,116,2057202.86,1,53.3,0.602
+mes,2024-05,2024,5,Todos,Santa Fe,Classic A Bottle,127,1804715.14,2,46.7,0.5281
+mes,2024-05,2024,5,Todos,Todas,Sport B Bottle,472,8238650.14,1,50.4,0.4828
+mes,2024-05,2024,5,Todos,Todas,Classic A Bottle,570,8093855.36,2,49.6,0.4743
+mes,2024-06,2024,6,Tienda Online,Buenos Aires,Sport B Bottle,173,3150458.09,1,63.3,0.6581
+mes,2024-06,2024,6,Tienda Online,Buenos Aires,Classic A Bottle,126,1824071.41,2,36.7,0.381
+mes,2024-06,2024,6,Tienda Online,Córdoba,Sport B Bottle,66,1229664.7,1,55.2,0.5921
+mes,2024-06,2024,6,Tienda Online,Córdoba,Classic A Bottle,66,998613.8,2,44.8,0.4809
+mes,2024-06,2024,6,Tienda Online,Mendoza,Sport B Bottle,46,872370.71,1,66.5,0.5685
+mes,2024-06,2024,6,Tienda Online,Mendoza,Classic A Bottle,28,439274.29,2,33.5,0.2863
+mes,2024-06,2024,6,Tienda Online,Santa Fe,Sport B Bottle,68,1266228.51,1,50.9,0.5989
+mes,2024-06,2024,6,Tienda Online,Santa Fe,Classic A Bottle,81,1219341.99,2,49.1,0.5767
+mes,2024-06,2024,6,Tienda Online,Todas,Sport B Bottle,353,6518722.01,1,59.3,0.6201
+mes,2024-06,2024,6,Tienda Online,Todas,Classic A Bottle,301,4481301.49,2,40.7,0.4263
+mes,2024-06,2024,6,Tiendas Físicas,Buenos Aires,Sport B Bottle,81,1462275.0,1,52.6,0.6517
+mes,2024-06,2024,6,Tiendas Físicas,Buenos Aires,Classic A Bottle,91,1319616.0,2,47.4,0.5881
+mes,2024-06,2024,6,Tiendas Físicas,Córdoba,Sport B Bottle,95,1713360.0,1,66.0,1.0
+mes,2024-06,2024,6,Tiendas Físicas,Córdoba,Classic A Bottle,61,884316.0,2,34.0,0.5161
+mes,2024-06,2024,6,Tiendas Físicas,Mendoza,Sport B Bottle,51,901132.5,1,58.7,0.6718
+mes,2024-06,2024,6,Tiendas Físicas,Mendoza,Classic A Bottle,44,634524.0,2,41.3,0.4731
+mes,2024-06,2024,6,Tiendas Físicas,Santa Fe,Sport B Bottle,60,1078866.43,1,59.0,0.7959
+mes,2024-06,2024,6,Tiendas Físicas,Santa Fe,Classic A Bottle,53,750434.57,2,41.0,0.5536
+mes,2024-06,2024,6,Tiendas Físicas,Todas,Sport B Bottle,287,5155633.93,1,59.0,0.7868
+mes,2024-06,2024,6,Tiendas Físicas,Todas,Classic A Bottle,249,3588890.57,2,41.0,0.5477
+mes,2024-06,2024,6,Todos,Buenos Aires,Sport B Bottle,254,4612733.09,1,59.5,0.6561
+mes,2024-06,2024,6,Todos,Buenos Aires,Classic A Bottle,217,3143687.41,2,40.5,0.4471
+mes,2024-06,2024,6,Todos,Córdoba,Sport B Bottle,161,2943024.7,1,61.0,0.7867
+mes,2024-06,2024,6,Todos,Córdoba,Classic A Bottle,127,1882929.8,2,39.0,0.5033
+mes,2024-06,2024,6,Todos,Mendoza,Sport B Bottle,97,1773503.21,1,62.3,0.6167
+mes,2024-06,2024,6,Todos,Mendoza,Classic A Bottle,72,1073798.29,2,37.7,0.3734
+mes,2024-06,2024,6,Todos,Santa Fe,Sport B Bottle,128,2345094.94,1,54.3,0.6863
+mes,2024-06,2024,6,Todos,Santa Fe,Classic A Bottle,134,1969776.56,2,45.7,0.5764
+mes,2024-06,2024,6,Todos,Todas,Sport B Bottle,640,11674355.93,1,59.1,0.6841
+mes,2024-06,2024,6,Todos,Todas,Classic A Bottle,550,8070192.07,2,40.9,0.4729
+mes,2024-07,2024,7,Tienda Online,Buenos Aires,Classic A Bottle,113,1702947.56,1,52.4,0.3557
+mes,2024-07,2024,7,Tienda Online,Buenos Aires,Sport B Bottle,84,1547037.94,2,47.6,0.3232
+mes,2024-07,2024,7,Tienda Online,Córdoba,Classic A Bottle,54,794402.98,1,72.6,0.3825
+mes,2024-07,2024,7,Tienda Online,Córdoba,Sport B Bottle,16,299715.02,2,27.4,0.1443
+mes,2024-07,2024,7,Tienda Online,Mendoza,Classic A Bottle,41,587562.0,1,50.7,0.3829
+mes,2024-07,2024,7,Tienda Online,Mendoza,Sport B Bottle,32,571620.0,2,49.3,0.3725
+mes,2024-07,2024,7,Tienda Online,Santa Fe,Classic A Bottle,67,1014996.82,1,53.8,0.4801
+mes,2024-07,2024,7,Tienda Online,Santa Fe,Sport B Bottle,51,872537.18,2,46.2,0.4127
+mes,2024-07,2024,7,Tienda Online,Todas,Classic A Bottle,275,4099909.36,1,55.5,0.39
+mes,2024-07,2024,7,Tienda Online,Todas,Sport B Bottle,183,3290910.14,2,44.5,0.313
+mes,2024-07,2024,7,Tiendas Físicas,Buenos Aires,Sport B Bottle,68,1227986.54,1,62.1,0.5472
+mes,2024-07,2024,7,Tiendas Físicas,Buenos Aires,Classic A Bottle,52,748518.46,2,37.9,0.3336
+mes,2024-07,2024,7,Tiendas Físicas,Córdoba,Classic A Bottle,78,1087548.0,1,61.4,0.6347
+mes,2024-07,2024,7,Tiendas Físicas,Córdoba,Sport B Bottle,38,684255.0,2,38.6,0.3994
+mes,2024-07,2024,7,Tiendas Físicas,Mendoza,Classic A Bottle,56,793562.0,1,61.9,0.5916
+mes,2024-07,2024,7,Tiendas Físicas,Mendoza,Sport B Bottle,27,487420.0,2,38.1,0.3634
+mes,2024-07,2024,7,Tiendas Físicas,Santa Fe,Sport B Bottle,35,635768.33,1,53.4,0.469
+mes,2024-07,2024,7,Tiendas Físicas,Santa Fe,Classic A Bottle,38,555426.67,2,46.6,0.4098
+mes,2024-07,2024,7,Tiendas Físicas,Todas,Classic A Bottle,224,3185055.13,1,51.2,0.4861
+mes,2024-07,2024,7,Tiendas Físicas,Todas,Sport B Bottle,168,3035429.87,2,48.8,0.4632
+mes,2024-07,2024,7,Todos,Buenos Aires,Sport B Bottle,152,2775024.48,1,53.1,0.3947
+mes,2024-07,2024,7,Todos,Buenos Aires,Classic A Bottle,165,2451466.02,2,46.9,0.3487
+mes,2024-07,2024,7,Todos,Córdoba,Classic A Bottle,132,1881950.98,1,65.7,0.503
+mes,2024-07,2024,7,Todos,Córdoba,Sport B Bottle,54,983970.02,2,34.3,0.263
+mes,2024-07,2024,7,Todos,Mendoza,Classic A Bottle,97,1381124.0,1,56.6,0.4803
+mes,2024-07,2024,7,Todos,Mendoza,Sport B Bottle,59,1059040.0,2,43.4,0.3683
+mes,2024-07,2024,7,Todos,Santa Fe,Classic A Bottle,105,1570423.49,1,51.0,0.4596
+mes,2024-07,2024,7,Todos,Santa Fe,Sport B Bottle,86,1508305.51,2,49.0,0.4414
+mes,2024-07,2024,7,Todos,Todas,Classic A Bottle,499,7284964.49,1,53.5,0.4269
+mes,2024-07,2024,7,Todos,Todas,Sport B Bottle,351,6326340.01,2,46.5,0.3707
+mes,2024-08,2024,8,Tienda Online,Buenos Aires,Classic A Bottle,148,2214906.64,1,55.3,0.4627
+mes,2024-08,2024,8,Tienda Online,Buenos Aires,Sport B Bottle,97,1792863.86,2,44.7,0.3745
+mes,2024-08,2024,8,Tienda Online,Córdoba,Classic A Bottle,77,1152361.04,1,62.2,0.5549
+mes,2024-08,2024,8,Tienda Online,Córdoba,Sport B Bottle,38,701739.46,2,37.8,0.3379
+mes,2024-08,2024,8,Tienda Online,Mendoza,Classic A Bottle,27,412821.69,1,53.8,0.269
+mes,2024-08,2024,8,Tienda Online,Mendoza,Sport B Bottle,19,354834.81,2,46.2,0.2312
+mes,2024-08,2024,8,Tienda Online,Santa Fe,Classic A Bottle,48,735354.15,1,50.5,0.3478
+mes,2024-08,2024,8,Tienda Online,Santa Fe,Sport B Bottle,38,721853.85,2,49.5,0.3414
+mes,2024-08,2024,8,Tienda Online,Todas,Classic A Bottle,300,4515443.53,1,55.8,0.4295
+mes,2024-08,2024,8,Tienda Online,Todas,Sport B Bottle,192,3571291.97,2,44.2,0.3397
+mes,2024-08,2024,8,Tiendas Físicas,Buenos Aires,Classic A Bottle,87,1243386.0,1,63.7,0.5541
+mes,2024-08,2024,8,Tiendas Físicas,Buenos Aires,Sport B Bottle,39,709050.0,2,36.3,0.316
+mes,2024-08,2024,8,Tiendas Físicas,Córdoba,Classic A Bottle,64,902466.0,1,57.3,0.5267
+mes,2024-08,2024,8,Tiendas Físicas,Córdoba,Sport B Bottle,37,673050.0,2,42.7,0.3928
+mes,2024-08,2024,8,Tiendas Físicas,Mendoza,Classic A Bottle,70,992790.0,1,53.1,0.7402
+mes,2024-08,2024,8,Tiendas Físicas,Mendoza,Sport B Bottle,50,876630.0,2,46.9,0.6536
+mes,2024-08,2024,8,Tiendas Físicas,Santa Fe,Classic A Bottle,72,1046202.67,1,68.8,0.7718
+mes,2024-08,2024,8,Tiendas Físicas,Santa Fe,Sport B Bottle,26,474233.33,2,31.2,0.3499
+mes,2024-08,2024,8,Tiendas Físicas,Todas,Classic A Bottle,293,4184844.67,1,60.5,0.6387
+mes,2024-08,2024,8,Tiendas Físicas,Todas,Sport B Bottle,152,2732963.33,2,39.5,0.4171
+mes,2024-08,2024,8,Todos,Buenos Aires,Classic A Bottle,235,3458292.64,1,58.0,0.4919
+mes,2024-08,2024,8,Todos,Buenos Aires,Sport B Bottle,136,2501913.86,2,42.0,0.3558
+mes,2024-08,2024,8,Todos,Córdoba,Classic A Bottle,141,2054827.04,1,59.9,0.5492
+mes,2024-08,2024,8,Todos,Córdoba,Sport B Bottle,75,1374789.46,2,40.1,0.3675
+mes,2024-08,2024,8,Todos,Mendoza,Classic A Bottle,97,1405611.69,1,53.3,0.4888
+mes,2024-08,2024,8,Todos,Mendoza,Sport B Bottle,69,1231464.81,2,46.7,0.4282
+mes,2024-08,2024,8,Todos,Santa Fe,Classic A Bottle,120,1781556.82,1,59.8,0.5214
+mes,2024-08,2024,8,Todos,Santa Fe,Sport B Bottle,64,1196087.18,2,40.2,0.35
+mes,2024-08,2024,8,Todos,Todas,Classic A Bottle,593,8700288.2,1,58.0,0.5098
+mes,2024-08,2024,8,Todos,Todas,Sport B Bottle,344,6304255.3,2,42.0,0.3694
+mes,2024-09,2024,9,Tienda Online,Buenos Aires,Classic A Bottle,130,1936434.54,1,54.2,0.4045
+mes,2024-09,2024,9,Tienda Online,Buenos Aires,Sport B Bottle,88,1638567.96,2,45.8,0.3423
+mes,2024-09,2024,9,Tienda Online,Córdoba,Classic A Bottle,71,1062362.15,1,55.5,0.5116
+mes,2024-09,2024,9,Tienda Online,Córdoba,Sport B Bottle,45,853181.35,2,44.5,0.4109
+mes,2024-09,2024,9,Tienda Online,Mendoza,Classic A Bottle,33,497730.0,1,57.1,0.3244
+mes,2024-09,2024,9,Tienda Online,Mendoza,Sport B Bottle,20,374077.5,2,42.9,0.2438
+mes,2024-09,2024,9,Tienda Online,Santa Fe,Classic A Bottle,77,1162614.02,1,51.8,0.5499
+mes,2024-09,2024,9,Tienda Online,Santa Fe,Sport B Bottle,58,1083221.98,2,48.2,0.5123
+mes,2024-09,2024,9,Tienda Online,Todas,Classic A Bottle,311,4659140.72,1,54.1,0.4432
+mes,2024-09,2024,9,Tienda Online,Todas,Sport B Bottle,211,3949048.78,2,45.9,0.3757
+mes,2024-09,2024,9,Tiendas Físicas,Buenos Aires,Classic A Bottle,72,1042770.46,1,52.9,0.4647
+mes,2024-09,2024,9,Tiendas Físicas,Buenos Aires,Sport B Bottle,51,927311.54,2,47.1,0.4133
+mes,2024-09,2024,9,Tiendas Físicas,Córdoba,Classic A Bottle,72,1010592.0,1,64.1,0.5898
+mes,2024-09,2024,9,Tiendas Físicas,Córdoba,Sport B Bottle,31,565650.0,2,35.9,0.3301
+mes,2024-09,2024,9,Tiendas Físicas,Mendoza,Classic A Bottle,55,794350.29,1,62.8,0.5922
+mes,2024-09,2024,9,Tiendas Físicas,Mendoza,Sport B Bottle,26,471370.71,2,37.2,0.3514
+mes,2024-09,2024,9,Tiendas Físicas,Santa Fe,Sport B Bottle,46,825825.0,1,55.1,0.6092
+mes,2024-09,2024,9,Tiendas Físicas,Santa Fe,Classic A Bottle,47,673728.0,2,44.9,0.497
+mes,2024-09,2024,9,Tiendas Físicas,Todas,Classic A Bottle,246,3521440.75,1,55.8,0.5374
+mes,2024-09,2024,9,Tiendas Físicas,Todas,Sport B Bottle,154,2790157.25,2,44.2,0.4258
+mes,2024-09,2024,9,Todos,Buenos Aires,Classic A Bottle,202,2979205.0,1,53.7,0.4237
+mes,2024-09,2024,9,Todos,Buenos Aires,Sport B Bottle,139,2565879.5,2,46.3,0.3649
+mes,2024-09,2024,9,Todos,Córdoba,Classic A Bottle,143,2072954.15,1,59.4,0.5541
+mes,2024-09,2024,9,Todos,Córdoba,Sport B Bottle,76,1418831.35,2,40.6,0.3792
+mes,2024-09,2024,9,Todos,Mendoza,Classic A Bottle,88,1292080.29,1,60.4,0.4493
+mes,2024-09,2024,9,Todos,Mendoza,Sport B Bottle,46,845448.21,2,39.6,0.294
+mes,2024-09,2024,9,Todos,Santa Fe,Sport B Bottle,104,1909046.98,1,51.0,0.5587
+mes,2024-09,2024,9,Todos,Santa Fe,Classic A Bottle,124,1836342.02,2,49.0,0.5374
+mes,2024-09,2024,9,Todos,Todas,Classic A Bottle,557,8180581.47,1,54.8,0.4794
+mes,2024-09,2024,9,Todos,Todas,Sport B Bottle,365,6739206.03,2,45.2,0.3949
+mes,2024-10,2024,10,Tienda Online,Buenos Aires,Sport B Bottle,106,1957674.51,1,51.3,0.4089
+mes,2024-10,2024,10,Tienda Online,Buenos Aires,Classic A Bottle,125,1861103.49,2,48.7,0.3888
+mes,2024-10,2024,10,Tienda Online,Córdoba,Sport B Bottle,75,1400479.9,1,55.3,0.6744
+mes,2024-10,2024,10,Tienda Online,Córdoba,Classic A Bottle,75,1132520.6,2,44.7,0.5454
+mes,2024-10,2024,10,Tienda Online,Mendoza,Classic A Bottle,68,1015667.08,1,50.8,0.6619
+mes,2024-10,2024,10,Tienda Online,Mendoza,Sport B Bottle,53,984089.42,2,49.2,0.6413
+mes,2024-10,2024,10,Tienda Online,Santa Fe,Sport B Bottle,68,1271607.52,1,51.0,0.6014
+mes,2024-10,2024,10,Tienda Online,Santa Fe,Classic A Bottle,80,1220880.98,2,49.0,0.5774
+mes,2024-10,2024,10,Tienda Online,Todas,Sport B Bottle,302,5613851.35,1,51.8,0.534
+mes,2024-10,2024,10,Tienda Online,Todas,Classic A Bottle,348,5230172.15,2,48.2,0.4975
+mes,2024-10,2024,10,Tiendas Físicas,Buenos Aires,Classic A Bottle,85,1178058.46,1,50.8,0.525
+mes,2024-10,2024,10,Tiendas Físicas,Buenos Aires,Sport B Bottle,63,1141481.54,2,49.2,0.5087
+mes,2024-10,2024,10,Tiendas Físicas,Córdoba,Sport B Bottle,55,962857.5,1,55.1,0.562
+mes,2024-10,2024,10,Tiendas Físicas,Córdoba,Classic A Bottle,54,785628.0,2,44.9,0.4585
+mes,2024-10,2024,10,Tiendas Físicas,Mendoza,Sport B Bottle,54,980085.0,1,58.4,0.7307
+mes,2024-10,2024,10,Tiendas Físicas,Mendoza,Classic A Bottle,48,698760.0,2,41.6,0.521
+mes,2024-10,2024,10,Tiendas Físicas,Santa Fe,Classic A Bottle,73,1058171.08,1,62.9,0.7807
+mes,2024-10,2024,10,Tiendas Físicas,Santa Fe,Sport B Bottle,35,624936.92,2,37.1,0.461
+mes,2024-10,2024,10,Tiendas Físicas,Todas,Classic A Bottle,260,3720617.54,1,50.1,0.5678
+mes,2024-10,2024,10,Tiendas Físicas,Todas,Sport B Bottle,207,3709360.96,2,49.9,0.5661
+mes,2024-10,2024,10,Todos,Buenos Aires,Sport B Bottle,169,3099156.04,1,50.5,0.4408
+mes,2024-10,2024,10,Todos,Buenos Aires,Classic A Bottle,210,3039161.96,2,49.5,0.4323
+mes,2024-10,2024,10,Todos,Córdoba,Sport B Bottle,130,2363337.4,1,55.2,0.6317
+mes,2024-10,2024,10,Todos,Córdoba,Classic A Bottle,129,1918148.6,2,44.8,0.5127
+mes,2024-10,2024,10,Todos,Mendoza,Sport B Bottle,107,1964174.42,1,53.4,0.683
+mes,2024-10,2024,10,Todos,Mendoza,Classic A Bottle,116,1714427.08,2,46.6,0.5962
+mes,2024-10,2024,10,Todos,Santa Fe,Classic A Bottle,153,2279052.06,1,54.6,0.6669
+mes,2024-10,2024,10,Todos,Santa Fe,Sport B Bottle,103,1896544.44,2,45.4,0.555
+mes,2024-10,2024,10,Todos,Todas,Sport B Bottle,509,9323212.31,1,51.0,0.5463
+mes,2024-10,2024,10,Todos,Todas,Classic A Bottle,608,8950789.69,2,49.0,0.5245
+mes,2024-11,2024,11,Tienda Online,Buenos Aires,Sport B Bottle,159,2794327.79,1,55.1,0.5837
+mes,2024-11,2024,11,Tienda Online,Buenos Aires,Classic A Bottle,164,2280793.21,2,44.9,0.4764
+mes,2024-11,2024,11,Tienda Online,Córdoba,Sport B Bottle,83,1488455.98,1,53.6,0.7168
+mes,2024-11,2024,11,Tienda Online,Córdoba,Classic A Bottle,91,1291032.02,2,46.4,0.6217
+mes,2024-11,2024,11,Tienda Online,Mendoza,Sport B Bottle,55,967262.43,1,54.9,0.6304
+mes,2024-11,2024,11,Tienda Online,Mendoza,Classic A Bottle,56,795348.57,2,45.1,0.5183
+mes,2024-11,2024,11,Tienda Online,Santa Fe,Classic A Bottle,93,1325265.46,1,57.4,0.6268
+mes,2024-11,2024,11,Tienda Online,Santa Fe,Sport B Bottle,57,984037.04,2,42.6,0.4654
+mes,2024-11,2024,11,Tienda Online,Todas,Sport B Bottle,354,6234083.25,1,52.3,0.593
+mes,2024-11,2024,11,Tienda Online,Todas,Classic A Bottle,404,5692439.25,2,47.7,0.5415
+mes,2024-11,2024,11,Tiendas Físicas,Buenos Aires,Sport B Bottle,62,1098741.67,1,55.4,0.4897
+mes,2024-11,2024,11,Tiendas Físicas,Buenos Aires,Classic A Bottle,62,886001.33,2,44.6,0.3948
+mes,2024-11,2024,11,Tiendas Físicas,Córdoba,Sport B Bottle,74,1253257.5,1,71.6,0.7315
+mes,2024-11,2024,11,Tiendas Físicas,Córdoba,Classic A Bottle,35,498084.0,2,28.4,0.2907
+mes,2024-11,2024,11,Tiendas Físicas,Mendoza,Sport B Bottle,46,829440.0,1,61.1,0.6184
+mes,2024-11,2024,11,Tiendas Físicas,Mendoza,Classic A Bottle,37,527424.0,2,38.9,0.3932
+mes,2024-11,2024,11,Tiendas Físicas,Santa Fe,Sport B Bottle,56,995691.43,1,57.6,0.7346
+mes,2024-11,2024,11,Tiendas Físicas,Santa Fe,Classic A Bottle,51,733736.57,2,42.4,0.5413
+mes,2024-11,2024,11,Tiendas Físicas,Todas,Sport B Bottle,238,4177130.6,1,61.2,0.6375
+mes,2024-11,2024,11,Tiendas Físicas,Todas,Classic A Bottle,185,2645245.9,2,38.8,0.4037
+mes,2024-11,2024,11,Todos,Buenos Aires,Sport B Bottle,221,3893069.46,1,55.1,0.5537
+mes,2024-11,2024,11,Todos,Buenos Aires,Classic A Bottle,226,3166794.54,2,44.9,0.4504
+mes,2024-11,2024,11,Todos,Córdoba,Sport B Bottle,157,2741713.48,1,60.5,0.7328
+mes,2024-11,2024,11,Todos,Córdoba,Classic A Bottle,126,1789116.02,2,39.5,0.4782
+mes,2024-11,2024,11,Todos,Mendoza,Sport B Bottle,101,1796702.43,1,57.6,0.6248
+mes,2024-11,2024,11,Todos,Mendoza,Classic A Bottle,93,1322772.57,2,42.4,0.46
+mes,2024-11,2024,11,Todos,Santa Fe,Classic A Bottle,144,2059002.03,1,51.0,0.6025
+mes,2024-11,2024,11,Todos,Santa Fe,Sport B Bottle,113,1979728.47,2,49.0,0.5793
+mes,2024-11,2024,11,Todos,Todas,Sport B Bottle,592,10411213.84,1,55.5,0.6101
+mes,2024-11,2024,11,Todos,Todas,Classic A Bottle,589,8337685.16,2,44.5,0.4886
+mes,2024-12,2024,12,Tienda Online,Buenos Aires,Sport B Bottle,269,4787097.92,1,58.5,1.0
+mes,2024-12,2024,12,Tienda Online,Buenos Aires,Classic A Bottle,233,3397164.58,2,41.5,0.7097
+mes,2024-12,2024,12,Tienda Online,Córdoba,Sport B Bottle,113,2076624.36,1,62.0,1.0
+mes,2024-12,2024,12,Tienda Online,Córdoba,Classic A Bottle,86,1270547.64,2,38.0,0.6118
+mes,2024-12,2024,12,Tienda Online,Mendoza,Sport B Bottle,83,1534421.76,1,62.9,1.0
+mes,2024-12,2024,12,Tienda Online,Mendoza,Classic A Bottle,60,904476.24,2,37.1,0.5895
+mes,2024-12,2024,12,Tienda Online,Santa Fe,Sport B Bottle,114,2114333.58,1,56.0,1.0
+mes,2024-12,2024,12,Tienda Online,Santa Fe,Classic A Bottle,113,1660237.92,2,44.0,0.7852
+mes,2024-12,2024,12,Tienda Online,Todas,Sport B Bottle,579,10512477.62,1,59.2,1.0
+mes,2024-12,2024,12,Tienda Online,Todas,Classic A Bottle,492,7232426.38,2,40.8,0.688
+mes,2024-12,2024,12,Tiendas Físicas,Buenos Aires,Sport B Bottle,125,2243925.0,1,62.2,1.0
+mes,2024-12,2024,12,Tiendas Físicas,Buenos Aires,Classic A Bottle,96,1366080.0,2,37.8,0.6088
+mes,2024-12,2024,12,Tiendas Físicas,Córdoba,Sport B Bottle,92,1664558.33,1,57.2,0.9715
+mes,2024-12,2024,12,Tiendas Físicas,Córdoba,Classic A Bottle,86,1245078.67,2,42.8,0.7267
+mes,2024-12,2024,12,Tiendas Físicas,Mendoza,Sport B Bottle,74,1341285.0,1,61.6,1.0
+mes,2024-12,2024,12,Tiendas Físicas,Mendoza,Classic A Bottle,58,835596.0,2,38.4,0.623
+mes,2024-12,2024,12,Tiendas Físicas,Santa Fe,Sport B Bottle,74,1302855.0,1,64.9,0.9612
+mes,2024-12,2024,12,Tiendas Físicas,Santa Fe,Classic A Bottle,49,704220.0,2,35.1,0.5195
+mes,2024-12,2024,12,Tiendas Físicas,Todas,Sport B Bottle,365,6552623.33,1,61.2,1.0
+mes,2024-12,2024,12,Tiendas Físicas,Todas,Classic A Bottle,289,4150974.67,2,38.8,0.6335
+mes,2024-12,2024,12,Todos,Buenos Aires,Sport B Bottle,394,7031022.92,1,59.6,1.0
+mes,2024-12,2024,12,Todos,Buenos Aires,Classic A Bottle,329,4763244.58,2,40.4,0.6775
+mes,2024-12,2024,12,Todos,Córdoba,Sport B Bottle,205,3741182.69,1,59.8,1.0
+mes,2024-12,2024,12,Todos,Córdoba,Classic A Bottle,172,2515626.31,2,40.2,0.6724
+mes,2024-12,2024,12,Todos,Mendoza,Sport B Bottle,157,2875706.76,1,62.3,1.0
+mes,2024-12,2024,12,Todos,Mendoza,Classic A Bottle,118,1740072.24,2,37.7,0.6051
+mes,2024-12,2024,12,Todos,Santa Fe,Sport B Bottle,188,3417188.58,1,59.1,1.0
+mes,2024-12,2024,12,Todos,Santa Fe,Classic A Bottle,162,2364457.92,2,40.9,0.6919
+mes,2024-12,2024,12,Todos,Todas,Sport B Bottle,944,17065100.96,1,60.0,1.0
+mes,2024-12,2024,12,Todos,Todas,Classic A Bottle,781,11383401.04,2,40.0,0.6671
+mes,2025-01,2025,1,Tienda Online,Buenos Aires,Sport B Bottle,150,2795888.16,1,62.0,0.584
+mes,2025-01,2025,1,Tienda Online,Buenos Aires,Classic A Bottle,115,1711775.34,2,38.0,0.3576
+mes,2025-01,2025,1,Tienda Online,Córdoba,Sport B Bottle,82,1527944.78,1,65.5,0.7358
+mes,2025-01,2025,1,Tienda Online,Córdoba,Classic A Bottle,53,804210.22,2,34.5,0.3873
+mes,2025-01,2025,1,Tienda Online,Mendoza,Sport B Bottle,74,1376172.64,1,68.1,0.8969
+mes,2025-01,2025,1,Tienda Online,Mendoza,Classic A Bottle,43,644441.36,2,31.9,0.42
+mes,2025-01,2025,1,Tienda Online,Santa Fe,Sport B Bottle,90,1678218.93,1,65.3,0.7937
+mes,2025-01,2025,1,Tienda Online,Santa Fe,Classic A Bottle,60,892416.57,2,34.7,0.4221
+mes,2025-01,2025,1,Tienda Online,Todas,Sport B Bottle,396,7378224.51,1,64.5,0.7019
+mes,2025-01,2025,1,Tienda Online,Todas,Classic A Bottle,271,4052843.49,2,35.5,0.3855
+mes,2025-01,2025,1,Tiendas Físicas,Buenos Aires,Sport B Bottle,102,1847670.0,1,63.0,0.8234
+mes,2025-01,2025,1,Tiendas Físicas,Buenos Aires,Classic A Bottle,75,1084140.0,2,37.0,0.4831
+mes,2025-01,2025,1,Tiendas Físicas,Córdoba,Sport B Bottle,81,1457130.0,1,62.1,0.8505
+mes,2025-01,2025,1,Tiendas Físicas,Córdoba,Classic A Bottle,61,888720.0,2,37.9,0.5187
+mes,2025-01,2025,1,Tiendas Físicas,Mendoza,Sport B Bottle,57,1030390.71,1,64.4,0.7682
+mes,2025-01,2025,1,Tiendas Físicas,Mendoza,Classic A Bottle,39,568594.29,2,35.6,0.4239
+mes,2025-01,2025,1,Tiendas Físicas,Santa Fe,Sport B Bottle,75,1355490.0,1,59.7,1.0
+mes,2025-01,2025,1,Tiendas Físicas,Santa Fe,Classic A Bottle,63,913452.0,2,40.3,0.6739
+mes,2025-01,2025,1,Tiendas Físicas,Todas,Sport B Bottle,315,5690680.71,1,62.2,0.8685
+mes,2025-01,2025,1,Tiendas Físicas,Todas,Classic A Bottle,238,3454906.29,2,37.8,0.5273
+mes,2025-01,2025,1,Todos,Buenos Aires,Sport B Bottle,252,4643558.16,1,62.4,0.6604
+mes,2025-01,2025,1,Todos,Buenos Aires,Classic A Bottle,190,2795915.34,2,37.6,0.3977
+mes,2025-01,2025,1,Todos,Córdoba,Sport B Bottle,163,2985074.78,1,63.8,0.7979
+mes,2025-01,2025,1,Todos,Córdoba,Classic A Bottle,114,1692930.22,2,36.2,0.4525
+mes,2025-01,2025,1,Todos,Mendoza,Sport B Bottle,131,2406563.35,1,66.5,0.8369
+mes,2025-01,2025,1,Todos,Mendoza,Classic A Bottle,82,1213035.65,2,33.5,0.4218
+mes,2025-01,2025,1,Todos,Santa Fe,Sport B Bottle,165,3033708.93,1,62.7,0.8878
+mes,2025-01,2025,1,Todos,Santa Fe,Classic A Bottle,123,1805868.57,2,37.3,0.5285
+mes,2025-01,2025,1,Todos,Todas,Sport B Bottle,711,13068905.22,1,63.5,0.7658
+mes,2025-01,2025,1,Todos,Todas,Classic A Bottle,509,7507749.78,2,36.5,0.4399
+mes,2025-02,2025,2,Tienda Online,Buenos Aires,Sport B Bottle,145,2690868.41,1,51.5,0.5621
+mes,2025-02,2025,2,Tienda Online,Buenos Aires,Classic A Bottle,170,2538590.59,2,48.5,0.5303
+mes,2025-02,2025,2,Tienda Online,Córdoba,Classic A Bottle,105,1540471.74,1,54.3,0.7418
+mes,2025-02,2025,2,Tienda Online,Córdoba,Sport B Bottle,71,1297075.26,2,45.7,0.6246
+mes,2025-02,2025,2,Tienda Online,Mendoza,Sport B Bottle,53,948931.24,1,53.1,0.6184
+mes,2025-02,2025,2,Tienda Online,Mendoza,Classic A Bottle,55,837684.26,2,46.9,0.5459
+mes,2025-02,2025,2,Tienda Online,Santa Fe,Sport B Bottle,75,1367469.18,1,51.5,0.6468
+mes,2025-02,2025,2,Tienda Online,Santa Fe,Classic A Bottle,89,1287964.32,2,48.5,0.6092
+mes,2025-02,2025,2,Tienda Online,Todas,Sport B Bottle,344,6304344.08,1,50.4,0.5997
+mes,2025-02,2025,2,Tienda Online,Todas,Classic A Bottle,419,6204710.92,2,49.6,0.5902
+mes,2025-02,2025,2,Tiendas Físicas,Buenos Aires,Sport B Bottle,84,1519740.0,1,50.1,0.6773
+mes,2025-02,2025,2,Tiendas Físicas,Buenos Aires,Classic A Bottle,105,1515636.0,2,49.9,0.6754
+mes,2025-02,2025,2,Tiendas Físicas,Córdoba,Sport B Bottle,82,1453425.83,1,61.2,0.8483
+mes,2025-02,2025,2,Tiendas Físicas,Córdoba,Classic A Bottle,64,922734.67,2,38.8,0.5386
+mes,2025-02,2025,2,Tiendas Físicas,Mendoza,Sport B Bottle,51,921205.0,1,54.6,0.6868
+mes,2025-02,2025,2,Tiendas Físicas,Mendoza,Classic A Bottle,53,766352.0,2,45.4,0.5714
+mes,2025-02,2025,2,Tiendas Físicas,Santa Fe,Sport B Bottle,67,1215420.0,1,59.4,0.8967
+mes,2025-02,2025,2,Tiendas Físicas,Santa Fe,Classic A Bottle,58,830544.0,2,40.6,0.6127
+mes,2025-02,2025,2,Tiendas Físicas,Todas,Sport B Bottle,284,5109790.83,1,55.9,0.7798
+mes,2025-02,2025,2,Tiendas Físicas,Todas,Classic A Bottle,280,4035266.67,2,44.1,0.6158
+mes,2025-02,2025,2,Todos,Buenos Aires,Sport B Bottle,229,4210608.41,1,50.9,0.5989
+mes,2025-02,2025,2,Todos,Buenos Aires,Classic A Bottle,275,4054226.59,2,49.1,0.5766
+mes,2025-02,2025,2,Todos,Córdoba,Sport B Bottle,153,2750501.09,1,52.8,0.7352
+mes,2025-02,2025,2,Todos,Córdoba,Classic A Bottle,169,2463206.41,2,47.2,0.6584
+mes,2025-02,2025,2,Todos,Mendoza,Sport B Bottle,104,1870136.24,1,53.8,0.6503
+mes,2025-02,2025,2,Todos,Mendoza,Classic A Bottle,108,1604036.26,2,46.2,0.5578
+mes,2025-02,2025,2,Todos,Santa Fe,Sport B Bottle,142,2582889.18,1,54.9,0.7559
+mes,2025-02,2025,2,Todos,Santa Fe,Classic A Bottle,147,2118508.32,2,45.1,0.62
+mes,2025-02,2025,2,Todos,Todas,Sport B Bottle,628,11414134.92,1,52.7,0.6689
+mes,2025-02,2025,2,Todos,Todas,Classic A Bottle,699,10239977.58,2,47.3,0.6001
+mes,2025-03,2025,3,Tienda Online,Buenos Aires,Classic A Bottle,168,2457937.18,1,51.7,0.5135
+mes,2025-03,2025,3,Tienda Online,Buenos Aires,Sport B Bottle,124,2297745.32,2,48.3,0.48
+mes,2025-03,2025,3,Tienda Online,Córdoba,Classic A Bottle,90,1323927.39,1,53.9,0.6375
+mes,2025-03,2025,3,Tienda Online,Córdoba,Sport B Bottle,63,1132726.11,2,46.1,0.5455
+mes,2025-03,2025,3,Tienda Online,Mendoza,Classic A Bottle,83,1267623.05,1,59.4,0.8261
+mes,2025-03,2025,3,Tienda Online,Mendoza,Sport B Bottle,46,865417.45,2,40.6,0.564
+mes,2025-03,2025,3,Tienda Online,Santa Fe,Sport B Bottle,72,1336591.21,1,56.0,0.6322
+mes,2025-03,2025,3,Tienda Online,Santa Fe,Classic A Bottle,69,1049458.79,2,44.0,0.4964
+mes,2025-03,2025,3,Tienda Online,Todas,Classic A Bottle,410,6098946.42,1,52.0,0.5802
+mes,2025-03,2025,3,Tienda Online,Todas,Sport B Bottle,305,5632480.08,2,48.0,0.5358
+mes,2025-03,2025,3,Tiendas Físicas,Buenos Aires,Sport B Bottle,82,1476795.0,1,52.9,0.6581
+mes,2025-03,2025,3,Tiendas Físicas,Buenos Aires,Classic A Bottle,91,1314756.0,2,47.1,0.5859
+mes,2025-03,2025,3,Tiendas Físicas,Córdoba,Classic A Bottle,76,1100712.0,1,50.5,0.6424
+mes,2025-03,2025,3,Tiendas Físicas,Córdoba,Sport B Bottle,60,1078110.0,2,49.5,0.6292
+mes,2025-03,2025,3,Tiendas Físicas,Mendoza,Classic A Bottle,66,955764.0,1,55.9,0.7126
+mes,2025-03,2025,3,Tiendas Físicas,Mendoza,Sport B Bottle,42,755040.0,2,44.1,0.5629
+mes,2025-03,2025,3,Tiendas Físicas,Santa Fe,Classic A Bottle,57,797874.0,1,50.7,0.5886
+mes,2025-03,2025,3,Tiendas Físicas,Santa Fe,Sport B Bottle,43,774690.0,2,49.3,0.5715
+mes,2025-03,2025,3,Tiendas Físicas,Todas,Classic A Bottle,290,4169106.0,1,50.5,0.6362
+mes,2025-03,2025,3,Tiendas Físicas,Todas,Sport B Bottle,227,4084635.0,2,49.5,0.6234
+mes,2025-03,2025,3,Todos,Buenos Aires,Sport B Bottle,206,3774540.32,1,50.0,0.5368
+mes,2025-03,2025,3,Todos,Buenos Aires,Classic A Bottle,259,3772693.18,2,50.0,0.5366
+mes,2025-03,2025,3,Todos,Córdoba,Classic A Bottle,166,2424639.39,1,52.3,0.6481
+mes,2025-03,2025,3,Todos,Córdoba,Sport B Bottle,123,2210836.11,2,47.7,0.5909
+mes,2025-03,2025,3,Todos,Mendoza,Classic A Bottle,149,2223387.05,1,57.8,0.7732
+mes,2025-03,2025,3,Todos,Mendoza,Sport B Bottle,88,1620457.45,2,42.2,0.5635
+mes,2025-03,2025,3,Todos,Santa Fe,Sport B Bottle,115,2111281.21,1,53.3,0.6178
+mes,2025-03,2025,3,Todos,Santa Fe,Classic A Bottle,126,1847332.79,2,46.7,0.5406
+mes,2025-03,2025,3,Todos,Todas,Classic A Bottle,700,10268052.42,1,51.4,0.6017
+mes,2025-03,2025,3,Todos,Todas,Sport B Bottle,532,9717115.08,2,48.6,0.5694
+mes,2025-04,2025,4,Tienda Online,Buenos Aires,Classic A Bottle,162,2407228.58,1,54.5,0.5029
+mes,2025-04,2025,4,Tienda Online,Buenos Aires,Sport B Bottle,109,2011982.92,2,45.5,0.4203
+mes,2025-04,2025,4,Tienda Online,Córdoba,Sport B Bottle,72,1307336.92,1,52.7,0.6295
+mes,2025-04,2025,4,Tienda Online,Córdoba,Classic A Bottle,79,1172415.08,2,47.3,0.5646
+mes,2025-04,2025,4,Tienda Online,Mendoza,Classic A Bottle,51,758585.36,1,64.4,0.4944
+mes,2025-04,2025,4,Tienda Online,Mendoza,Sport B Bottle,22,420155.14,2,35.6,0.2738
+mes,2025-04,2025,4,Tienda Online,Santa Fe,Sport B Bottle,79,1460759.48,1,50.3,0.6909
+mes,2025-04,2025,4,Tienda Online,Santa Fe,Classic A Bottle,96,1440638.02,2,49.7,0.6814
+mes,2025-04,2025,4,Tienda Online,Todas,Classic A Bottle,388,5778867.04,1,52.6,0.5497
+mes,2025-04,2025,4,Tienda Online,Todas,Sport B Bottle,282,5200234.46,2,47.4,0.4947
+mes,2025-04,2025,4,Tiendas Físicas,Buenos Aires,Sport B Bottle,81,1461045.0,1,58.7,0.6511
+mes,2025-04,2025,4,Tiendas Físicas,Buenos Aires,Classic A Bottle,71,1026564.0,2,41.3,0.4575
+mes,2025-04,2025,4,Tiendas Físicas,Córdoba,Sport B Bottle,53,958005.0,1,64.1,0.5591
+mes,2025-04,2025,4,Tiendas Físicas,Córdoba,Classic A Bottle,37,537240.0,2,35.9,0.3136
+mes,2025-04,2025,4,Tiendas Físicas,Mendoza,Classic A Bottle,35,507096.0,1,56.4,0.3781
+mes,2025-04,2025,4,Tiendas Físicas,Mendoza,Sport B Bottle,22,392040.0,2,43.6,0.2923
+mes,2025-04,2025,4,Tiendas Físicas,Santa Fe,Classic A Bottle,53,769656.0,1,64.1,0.5678
+mes,2025-04,2025,4,Tiendas Físicas,Santa Fe,Sport B Bottle,24,430155.0,2,35.9,0.3173
+mes,2025-04,2025,4,Tiendas Físicas,Todas,Sport B Bottle,180,3241245.0,1,53.3,0.4946
+mes,2025-04,2025,4,Tiendas Físicas,Todas,Classic A Bottle,196,2840556.0,2,46.7,0.4335
+mes,2025-04,2025,4,Todos,Buenos Aires,Sport B Bottle,190,3473027.92,1,50.3,0.494
+mes,2025-04,2025,4,Todos,Buenos Aires,Classic A Bottle,233,3433792.58,2,49.7,0.4884
+mes,2025-04,2025,4,Todos,Córdoba,Sport B Bottle,125,2265341.92,1,57.0,0.6055
+mes,2025-04,2025,4,Todos,Córdoba,Classic A Bottle,116,1709655.08,2,43.0,0.457
+mes,2025-04,2025,4,Todos,Mendoza,Classic A Bottle,86,1265681.36,1,60.9,0.4401
+mes,2025-04,2025,4,Todos,Mendoza,Sport B Bottle,44,812195.14,2,39.1,0.2824
+mes,2025-04,2025,4,Todos,Santa Fe,Classic A Bottle,149,2210294.02,1,53.9,0.6468
+mes,2025-04,2025,4,Todos,Santa Fe,Sport B Bottle,103,1890914.48,2,46.1,0.5534
+mes,2025-04,2025,4,Todos,Todas,Classic A Bottle,584,8619423.04,1,50.5,0.5051
+mes,2025-04,2025,4,Todos,Todas,Sport B Bottle,462,8441479.46,2,49.5,0.4947
+mes,2025-05,2025,5,Tienda Online,Buenos Aires,Sport B Bottle,162,2861155.06,1,53.2,0.5977
+mes,2025-05,2025,5,Tienda Online,Buenos Aires,Classic A Bottle,183,2521155.44,2,46.8,0.5267
+mes,2025-05,2025,5,Tienda Online,Córdoba,Sport B Bottle,90,1561175.05,1,53.7,0.7518
+mes,2025-05,2025,5,Tienda Online,Córdoba,Classic A Bottle,99,1344888.95,2,46.3,0.6476
+mes,2025-05,2025,5,Tienda Online,Mendoza,Sport B Bottle,50,888814.64,1,57.1,0.5793
+mes,2025-05,2025,5,Tienda Online,Mendoza,Classic A Bottle,45,666992.86,2,42.9,0.4347
+mes,2025-05,2025,5,Tienda Online,Santa Fe,Classic A Bottle,119,1639695.65,1,56.4,0.7755
+mes,2025-05,2025,5,Tienda Online,Santa Fe,Sport B Bottle,75,1268775.85,2,43.6,0.6001
+mes,2025-05,2025,5,Tienda Online,Todas,Sport B Bottle,377,6579920.61,1,51.6,0.6259
+mes,2025-05,2025,5,Tienda Online,Todas,Classic A Bottle,446,6172732.89,2,48.4,0.5872
+mes,2025-05,2025,5,Tiendas Físicas,Buenos Aires,Sport B Bottle,57,1028951.54,1,55.5,0.4585
+mes,2025-05,2025,5,Tiendas Físicas,Buenos Aires,Classic A Bottle,57,823518.46,2,44.5,0.367
+mes,2025-05,2025,5,Tiendas Físicas,Córdoba,Sport B Bottle,54,975173.33,1,58.4,0.5692
+mes,2025-05,2025,5,Tiendas Físicas,Córdoba,Classic A Bottle,48,694770.67,2,41.6,0.4055
+mes,2025-05,2025,5,Tiendas Físicas,Mendoza,Sport B Bottle,35,631605.0,1,53.5,0.4709
+mes,2025-05,2025,5,Tiendas Físicas,Mendoza,Classic A Bottle,38,549204.0,2,46.5,0.4095
+mes,2025-05,2025,5,Tiendas Físicas,Santa Fe,Classic A Bottle,85,1197174.0,1,56.5,0.8832
+mes,2025-05,2025,5,Tiendas Físicas,Santa Fe,Sport B Bottle,51,920205.0,2,43.5,0.6789
+mes,2025-05,2025,5,Tiendas Físicas,Todas,Sport B Bottle,197,3555934.87,1,52.1,0.5427
+mes,2025-05,2025,5,Tiendas Físicas,Todas,Classic A Bottle,228,3264667.13,2,47.9,0.4982
+mes,2025-05,2025,5,Todos,Buenos Aires,Sport B Bottle,219,3890106.6,1,53.8,0.5533
+mes,2025-05,2025,5,Todos,Buenos Aires,Classic A Bottle,240,3344673.9,2,46.2,0.4757
+mes,2025-05,2025,5,Todos,Córdoba,Sport B Bottle,144,2536348.39,1,55.4,0.678
+mes,2025-05,2025,5,Todos,Córdoba,Classic A Bottle,147,2039659.61,2,44.6,0.5452
+mes,2025-05,2025,5,Todos,Mendoza,Sport B Bottle,85,1520419.64,1,55.6,0.5287
+mes,2025-05,2025,5,Todos,Mendoza,Classic A Bottle,83,1216196.86,2,44.4,0.4229
+mes,2025-05,2025,5,Todos,Santa Fe,Classic A Bottle,204,2836869.65,1,56.4,0.8302
+mes,2025-05,2025,5,Todos,Santa Fe,Sport B Bottle,126,2188980.85,2,43.6,0.6406
+mes,2025-05,2025,5,Todos,Todas,Sport B Bottle,574,10135855.49,1,51.8,0.594
+mes,2025-05,2025,5,Todos,Todas,Classic A Bottle,674,9437400.01,2,48.2,0.553
+mes,2025-06,2025,6,Tienda Online,Buenos Aires,Sport B Bottle,179,3199534.5,1,56.3,0.6684
+mes,2025-06,2025,6,Tienda Online,Buenos Aires,Classic A Bottle,177,2485185.0,2,43.7,0.5191
+mes,2025-06,2025,6,Tienda Online,Córdoba,Sport B Bottle,74,1382213.61,1,59.2,0.6656
+mes,2025-06,2025,6,Tienda Online,Córdoba,Classic A Bottle,64,952509.39,2,40.8,0.4587
+mes,2025-06,2025,6,Tienda Online,Mendoza,Sport B Bottle,81,1512839.64,1,66.9,0.9859
+mes,2025-06,2025,6,Tienda Online,Mendoza,Classic A Bottle,50,749230.86,2,33.1,0.4883
+mes,2025-06,2025,6,Tienda Online,Santa Fe,Sport B Bottle,99,1799268.97,1,63.6,0.851
+mes,2025-06,2025,6,Tienda Online,Santa Fe,Classic A Bottle,68,1030206.53,2,36.4,0.4872
+mes,2025-06,2025,6,Tienda Online,Todas,Sport B Bottle,433,7893856.71,1,60.2,0.7509
+mes,2025-06,2025,6,Tienda Online,Todas,Classic A Bottle,359,5217131.79,2,39.8,0.4963
+mes,2025-06,2025,6,Tiendas Físicas,Buenos Aires,Sport B Bottle,97,1703055.0,1,61.6,0.759
+mes,2025-06,2025,6,Tiendas Físicas,Buenos Aires,Classic A Bottle,75,1062138.0,2,38.4,0.4733
+mes,2025-06,2025,6,Tiendas Físicas,Córdoba,Sport B Bottle,66,1188713.33,1,57.6,0.6938
+mes,2025-06,2025,6,Tiendas Físicas,Córdoba,Classic A Bottle,61,873318.67,2,42.4,0.5097
+mes,2025-06,2025,6,Tiendas Físicas,Mendoza,Sport B Bottle,51,920205.0,1,66.0,0.6861
+mes,2025-06,2025,6,Tiendas Físicas,Mendoza,Classic A Bottle,33,474804.0,2,34.0,0.354
+mes,2025-06,2025,6,Tiendas Físicas,Santa Fe,Sport B Bottle,63,1136745.0,1,60.6,0.8386
+mes,2025-06,2025,6,Tiendas Físicas,Santa Fe,Classic A Bottle,51,740520.0,2,39.4,0.5463
+mes,2025-06,2025,6,Tiendas Físicas,Todas,Sport B Bottle,277,4948718.33,1,61.1,0.7552
+mes,2025-06,2025,6,Tiendas Físicas,Todas,Classic A Bottle,220,3150780.67,2,38.9,0.4808
+mes,2025-06,2025,6,Todos,Buenos Aires,Sport B Bottle,276,4902589.5,1,58.0,0.6973
+mes,2025-06,2025,6,Todos,Buenos Aires,Classic A Bottle,252,3547323.0,2,42.0,0.5045
+mes,2025-06,2025,6,Todos,Córdoba,Sport B Bottle,140,2570926.94,1,58.5,0.6872
+mes,2025-06,2025,6,Todos,Córdoba,Classic A Bottle,125,1825828.06,2,41.5,0.488
+mes,2025-06,2025,6,Todos,Mendoza,Sport B Bottle,132,2433044.64,1,66.5,0.8461
+mes,2025-06,2025,6,Todos,Mendoza,Classic A Bottle,83,1224034.86,2,33.5,0.4256
+mes,2025-06,2025,6,Todos,Santa Fe,Sport B Bottle,162,2936013.97,1,62.4,0.8592
+mes,2025-06,2025,6,Todos,Santa Fe,Classic A Bottle,119,1770726.53,2,37.6,0.5182
+mes,2025-06,2025,6,Todos,Todas,Sport B Bottle,710,12842575.05,1,60.5,0.7526
+mes,2025-06,2025,6,Todos,Todas,Classic A Bottle,579,8367912.45,2,39.5,0.4904
+mes,2025-07,2025,7,Tienda Online,Buenos Aires,Classic A Bottle,187,2739394.43,1,69.0,0.5722
+mes,2025-07,2025,7,Tienda Online,Buenos Aires,Sport B Bottle,66,1230543.07,2,31.0,0.2571
+mes,2025-07,2025,7,Tienda Online,Córdoba,Classic A Bottle,64,971395.8,1,62.6,0.4678
+mes,2025-07,2025,7,Tienda Online,Córdoba,Sport B Bottle,31,580544.7,2,37.4,0.2796
+mes,2025-07,2025,7,Tienda Online,Mendoza,Classic A Bottle,47,719135.98,1,52.9,0.4687
+mes,2025-07,2025,7,Tienda Online,Mendoza,Sport B Bottle,34,639078.02,2,47.1,0.4165
+mes,2025-07,2025,7,Tienda Online,Santa Fe,Sport B Bottle,74,1308543.88,1,53.8,0.6189
+mes,2025-07,2025,7,Tienda Online,Santa Fe,Classic A Bottle,76,1121696.12,2,46.2,0.5305
+mes,2025-07,2025,7,Tienda Online,Todas,Classic A Bottle,374,5551622.33,1,59.6,0.5281
+mes,2025-07,2025,7,Tienda Online,Todas,Sport B Bottle,205,3758709.67,2,40.4,0.3575
+mes,2025-07,2025,7,Tiendas Físicas,Buenos Aires,Classic A Bottle,49,706205.33,1,56.8,0.3147
+mes,2025-07,2025,7,Tiendas Físicas,Buenos Aires,Sport B Bottle,30,537906.67,2,43.2,0.2397
+mes,2025-07,2025,7,Tiendas Físicas,Córdoba,Classic A Bottle,61,877770.67,1,56.6,0.5123
+mes,2025-07,2025,7,Tiendas Físicas,Córdoba,Sport B Bottle,39,674198.33,2,43.4,0.3935
+mes,2025-07,2025,7,Tiendas Físicas,Mendoza,Classic A Bottle,46,666471.69,1,52.6,0.4969
+mes,2025-07,2025,7,Tiendas Físicas,Mendoza,Sport B Bottle,33,599642.31,2,47.4,0.4471
+mes,2025-07,2025,7,Tiendas Físicas,Santa Fe,Classic A Bottle,52,749232.0,1,56.6,0.5527
+mes,2025-07,2025,7,Tiendas Físicas,Santa Fe,Sport B Bottle,32,575040.0,2,43.4,0.4242
+mes,2025-07,2025,7,Tiendas Físicas,Todas,Classic A Bottle,208,2999679.69,1,55.7,0.4578
+mes,2025-07,2025,7,Tiendas Físicas,Todas,Sport B Bottle,134,2386787.31,2,44.3,0.3642
+mes,2025-07,2025,7,Todos,Buenos Aires,Classic A Bottle,236,3445599.77,1,66.1,0.4901
+mes,2025-07,2025,7,Todos,Buenos Aires,Sport B Bottle,96,1768449.73,2,33.9,0.2515
+mes,2025-07,2025,7,Todos,Córdoba,Classic A Bottle,125,1849166.47,1,59.6,0.4943
+mes,2025-07,2025,7,Todos,Córdoba,Sport B Bottle,70,1254743.03,2,40.4,0.3354
+mes,2025-07,2025,7,Todos,Mendoza,Classic A Bottle,93,1385607.67,1,52.8,0.4818
+mes,2025-07,2025,7,Todos,Mendoza,Sport B Bottle,67,1238720.33,2,47.2,0.4308
+mes,2025-07,2025,7,Todos,Santa Fe,Sport B Bottle,106,1883583.88,1,50.2,0.5512
+mes,2025-07,2025,7,Todos,Santa Fe,Classic A Bottle,128,1870928.12,2,49.8,0.5475
+mes,2025-07,2025,7,Todos,Todas,Classic A Bottle,582,8551302.02,1,58.2,0.5011
+mes,2025-07,2025,7,Todos,Todas,Sport B Bottle,339,6145496.98,2,41.8,0.3601
+mes,2025-08,2025,8,Tienda Online,Buenos Aires,Classic A Bottle,169,2511565.26,1,53.7,0.5247
+mes,2025-08,2025,8,Tienda Online,Buenos Aires,Sport B Bottle,118,2165709.24,2,46.3,0.4524
+mes,2025-08,2025,8,Tienda Online,Córdoba,Classic A Bottle,101,1519773.55,1,54.3,0.7318
+mes,2025-08,2025,8,Tienda Online,Córdoba,Sport B Bottle,69,1279487.45,2,45.7,0.6161
+mes,2025-08,2025,8,Tienda Online,Mendoza,Classic A Bottle,79,1158657.65,1,56.3,0.7551
+mes,2025-08,2025,8,Tienda Online,Mendoza,Sport B Bottle,52,897908.35,2,43.7,0.5852
+mes,2025-08,2025,8,Tienda Online,Santa Fe,Classic A Bottle,92,1390425.01,1,53.3,0.6576
+mes,2025-08,2025,8,Tienda Online,Santa Fe,Sport B Bottle,65,1217945.99,2,46.7,0.576
+mes,2025-08,2025,8,Tienda Online,Todas,Classic A Bottle,441,6580421.47,1,54.2,0.626
+mes,2025-08,2025,8,Tienda Online,Todas,Sport B Bottle,304,5561051.03,2,45.8,0.529
+mes,2025-08,2025,8,Tiendas Físicas,Buenos Aires,Classic A Bottle,73,1057085.33,1,53.3,0.4711
+mes,2025-08,2025,8,Tiendas Físicas,Buenos Aires,Sport B Bottle,51,924501.67,2,46.7,0.412
+mes,2025-08,2025,8,Tiendas Físicas,Córdoba,Classic A Bottle,60,863940.0,1,53.2,0.5042
+mes,2025-08,2025,8,Tiendas Físicas,Córdoba,Sport B Bottle,42,758670.0,2,46.8,0.4428
+mes,2025-08,2025,8,Tiendas Físicas,Mendoza,Sport B Bottle,52,923305.71,1,54.2,0.6884
+mes,2025-08,2025,8,Tiendas Físicas,Mendoza,Classic A Bottle,55,779860.29,2,45.8,0.5814
+mes,2025-08,2025,8,Tiendas Físicas,Santa Fe,Classic A Bottle,66,961320.0,1,54.1,0.7092
+mes,2025-08,2025,8,Tiendas Físicas,Santa Fe,Sport B Bottle,45,816750.0,2,45.9,0.6025
+mes,2025-08,2025,8,Tiendas Físicas,Todas,Classic A Bottle,254,3662205.62,1,51.7,0.5589
+mes,2025-08,2025,8,Tiendas Físicas,Todas,Sport B Bottle,190,3423227.38,2,48.3,0.5224
+mes,2025-08,2025,8,Todos,Buenos Aires,Classic A Bottle,242,3568650.59,1,53.6,0.5076
+mes,2025-08,2025,8,Todos,Buenos Aires,Sport B Bottle,169,3090210.91,2,46.4,0.4395
+mes,2025-08,2025,8,Todos,Córdoba,Classic A Bottle,161,2383713.55,1,53.9,0.6372
+mes,2025-08,2025,8,Todos,Córdoba,Sport B Bottle,111,2038157.45,2,46.1,0.5448
+mes,2025-08,2025,8,Todos,Mendoza,Classic A Bottle,134,1938517.93,1,51.6,0.6741
+mes,2025-08,2025,8,Todos,Mendoza,Sport B Bottle,104,1821214.07,2,48.4,0.6333
+mes,2025-08,2025,8,Todos,Santa Fe,Classic A Bottle,158,2351745.01,1,53.6,0.6882
+mes,2025-08,2025,8,Todos,Santa Fe,Sport B Bottle,110,2034695.99,2,46.4,0.5954
+mes,2025-08,2025,8,Todos,Todas,Classic A Bottle,695,10242627.08,1,53.3,0.6002
+mes,2025-08,2025,8,Todos,Todas,Sport B Bottle,494,8984278.42,2,46.7,0.5265
+mes,2025-09,2025,9,Tienda Online,Buenos Aires,Classic A Bottle,145,2172774.42,1,51.6,0.4539
+mes,2025-09,2025,9,Tienda Online,Buenos Aires,Sport B Bottle,109,2035352.58,2,48.4,0.4252
+mes,2025-09,2025,9,Tienda Online,Córdoba,Classic A Bottle,119,1738110.63,1,55.8,0.837
+mes,2025-09,2025,9,Tienda Online,Córdoba,Sport B Bottle,75,1377248.37,2,44.2,0.6632
+mes,2025-09,2025,9,Tienda Online,Mendoza,Sport B Bottle,50,904723.93,1,51.3,0.5896
+mes,2025-09,2025,9,Tienda Online,Mendoza,Classic A Bottle,58,859052.57,2,48.7,0.5599
+mes,2025-09,2025,9,Tienda Online,Santa Fe,Classic A Bottle,79,1189397.96,1,52.7,0.5625
+mes,2025-09,2025,9,Tienda Online,Santa Fe,Sport B Bottle,57,1067376.04,2,47.3,0.5048
+mes,2025-09,2025,9,Tienda Online,Todas,Classic A Bottle,401,5959335.58,1,52.5,0.5669
+mes,2025-09,2025,9,Tienda Online,Todas,Sport B Bottle,291,5384700.92,2,47.5,0.5122
+mes,2025-09,2025,9,Tiendas Físicas,Buenos Aires,Sport B Bottle,57,1027290.0,1,67.6,0.4578
+mes,2025-09,2025,9,Tiendas Físicas,Buenos Aires,Classic A Bottle,34,491976.0,2,32.4,0.2192
+mes,2025-09,2025,9,Tiendas Físicas,Córdoba,Sport B Bottle,61,1069035.0,1,66.1,0.6239
+mes,2025-09,2025,9,Tiendas Físicas,Córdoba,Classic A Bottle,38,548904.0,2,33.9,0.3204
+mes,2025-09,2025,9,Tiendas Físicas,Mendoza,Classic A Bottle,44,634524.0,1,54.7,0.4731
+mes,2025-09,2025,9,Tiendas Físicas,Mendoza,Sport B Bottle,29,526350.0,2,45.3,0.3924
+mes,2025-09,2025,9,Tiendas Físicas,Santa Fe,Classic A Bottle,35,503892.0,1,50.2,0.3717
+mes,2025-09,2025,9,Tiendas Físicas,Santa Fe,Sport B Bottle,28,500625.0,2,49.8,0.3693
+mes,2025-09,2025,9,Tiendas Físicas,Todas,Sport B Bottle,175,3123300.0,1,58.9,0.4766
+mes,2025-09,2025,9,Tiendas Físicas,Todas,Classic A Bottle,151,2179296.0,2,41.1,0.3326
+mes,2025-09,2025,9,Todos,Buenos Aires,Sport B Bottle,166,3062642.58,1,53.5,0.4356
+mes,2025-09,2025,9,Todos,Buenos Aires,Classic A Bottle,179,2664750.42,2,46.5,0.379
+mes,2025-09,2025,9,Todos,Córdoba,Sport B Bottle,136,2446283.37,1,51.7,0.6539
+mes,2025-09,2025,9,Todos,Córdoba,Classic A Bottle,157,2287014.63,2,48.3,0.6113
+mes,2025-09,2025,9,Todos,Mendoza,Classic A Bottle,102,1493576.57,1,51.1,0.5194
+mes,2025-09,2025,9,Todos,Mendoza,Sport B Bottle,79,1431073.93,2,48.9,0.4976
+mes,2025-09,2025,9,Todos,Santa Fe,Classic A Bottle,114,1693289.96,1,51.9,0.4955
+mes,2025-09,2025,9,Todos,Santa Fe,Sport B Bottle,85,1568001.04,2,48.1,0.4589
+mes,2025-09,2025,9,Todos,Todas,Sport B Bottle,466,8508000.92,1,51.1,0.4986
+mes,2025-09,2025,9,Todos,Todas,Classic A Bottle,552,8138631.58,2,48.9,0.4769
+total,Todo,,,Tienda Online,Buenos Aires,Sport B Bottle,2645,48152956.22,1,51.2,
+total,Todo,,,Tienda Online,Buenos Aires,Classic A Bottle,3133,45855346.78,2,48.8,
+total,Todo,,,Tienda Online,Córdoba,Sport B Bottle,1357,24900917.18,1,50.5,
+total,Todo,,,Tienda Online,Córdoba,Classic A Bottle,1659,24422838.82,2,49.5,
+total,Todo,,,Tienda Online,Mendoza,Sport B Bottle,953,17415535.15,1,53.7,
+total,Todo,,,Tienda Online,Mendoza,Classic A Bottle,1004,15031716.35,2,46.3,
+total,Todo,,,Tienda Online,Santa Fe,Sport B Bottle,1430,26088548.93,1,50.9,
+total,Todo,,,Tienda Online,Santa Fe,Classic A Bottle,1701,25144270.57,2,49.1,
+total,Todo,,,Tienda Online,Todas,Sport B Bottle,6385,116557957.49,1,51.3,
+total,Todo,,,Tienda Online,Todas,Classic A Bottle,7497,110454172.51,2,48.7,
+total,Todo,,,Tiendas Físicas,Buenos Aires,Sport B Bottle,1485,26683813.65,1,54.8,
+total,Todo,,,Tiendas Físicas,Buenos Aires,Classic A Bottle,1537,22007135.85,2,45.2,
+total,Todo,,,Tiendas Físicas,Córdoba,Sport B Bottle,1231,21942168.01,1,54.6,
+total,Todo,,,Tiendas Físicas,Córdoba,Classic A Bottle,1273,18269251.49,2,45.4,
+total,Todo,,,Tiendas Físicas,Mendoza,Sport B Bottle,893,16071441.57,1,53.2,
+total,Todo,,,Tiendas Físicas,Mendoza,Classic A Bottle,979,14110107.93,2,46.8,
+total,Todo,,,Tiendas Físicas,Santa Fe,Sport B Bottle,1053,18911000.87,1,52.1,
+total,Todo,,,Tiendas Físicas,Santa Fe,Classic A Bottle,1212,17403586.63,2,47.9,
+total,Todo,,,Tiendas Físicas,Todas,Sport B Bottle,4662,83608424.1,1,53.8,
+total,Todo,,,Tiendas Físicas,Todas,Classic A Bottle,5001,71790081.9,2,46.2,
+total,Todo,,,Todos,Buenos Aires,Sport B Bottle,4130,74836769.87,1,52.4,
+total,Todo,,,Todos,Buenos Aires,Classic A Bottle,4670,67862482.63,2,47.6,
+total,Todo,,,Todos,Córdoba,Sport B Bottle,2588,46843085.2,1,52.3,
+total,Todo,,,Todos,Córdoba,Classic A Bottle,2932,42692090.3,2,47.7,
+total,Todo,,,Todos,Mendoza,Sport B Bottle,1846,33486976.72,1,53.5,
+total,Todo,,,Todos,Mendoza,Classic A Bottle,1983,29141824.28,2,46.5,
+total,Todo,,,Todos,Santa Fe,Sport B Bottle,2483,44999549.8,1,51.4,
+total,Todo,,,Todos,Santa Fe,Classic A Bottle,2913,42547857.2,2,48.6,
+total,Todo,,,Todos,Todas,Sport B Bottle,11047,200166381.59,1,52.3,
+total,Todo,,,Todos,Todas,Classic A Bottle,12498,182244254.41,2,47.7,

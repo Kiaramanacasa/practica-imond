@@ -13,8 +13,10 @@ Cada vez que se arma el data warehouse:
   1. Borra la base warehouse.duckdb y la vuelve a crear desde cero.
   2. Ejecuta los archivos de sql/ en orden alfabético (01_..., 02_..., 03_...).
      Si una consulta es un SELECT, muestra el resultado en la terminal.
-  3. Exporta cada tabla creada a dw/<tabla>.csv (la carpeta dw/ se regenera completa).
-  4. Genera dw/modelo_estrella.md con el diagrama del modelo (GitHub lo dibuja solo).
+  3. Exporta cada tabla creada a dw/, separada en dos carpetas:
+       dw/modelo_estrella/  las dimensiones (dim_) y los hechos (fact_)
+       dw/mart/             los data marts (mart_), que leen del modelo estrella
+  4. Genera dw/modelo_estrella/modelo_estrella.md con el diagrama del modelo.
 
 La interfaz del navegador necesita internet. Sin conexión se abre una consola SQL en la terminal.
 """
@@ -33,8 +35,10 @@ ROOT = Path(__file__).resolve().parent
 RAW_DIR = ROOT / "raw"
 SQL_DIR = ROOT / "sql"
 DW_DIR = ROOT / "dw"
+STAR_DIR = DW_DIR / "modelo_estrella"   # dimensiones y hechos
+MART_DIR = DW_DIR / "mart"              # data marts
 DATABASE = ROOT / "warehouse.duckdb"
-DIAGRAM = DW_DIR / "modelo_estrella.md"
+DIAGRAM = STAR_DIR / "modelo_estrella.md"
 UI_HOST = "ui.duckdb.org"  # de acá la interfaz descarga sus archivos
 ALREADY_OPEN = ("La base warehouse.duckdb está abierta en otra terminal (¿quedó abierto --ui o --explorar?).\n"
                 "Cerrala presionando Enter en esa terminal y volvé a ejecutar.")
@@ -60,8 +64,10 @@ def reset_outputs() -> None:
     try:
         for path in (DATABASE, DATABASE.with_name(DATABASE.name + ".wal")):
             path.unlink(missing_ok=True)
-        DW_DIR.mkdir(exist_ok=True)
-        for path in list(DW_DIR.glob("*.csv")) + [DIAGRAM]:
+        for folder in (STAR_DIR, MART_DIR):
+            folder.mkdir(parents=True, exist_ok=True)
+        old_files = list(DW_DIR.glob("*.csv")) + [DW_DIR / "modelo_estrella.md"]  # estructura anterior
+        for path in old_files + list(STAR_DIR.glob("*.csv")) + list(MART_DIR.glob("*.csv")) + [DIAGRAM]:
             path.unlink(missing_ok=True)
     except PermissionError:
         sys.exit(ALREADY_OPEN)
@@ -106,12 +112,21 @@ def user_tables(con: duckdb.DuckDBPyConnection) -> list[str]:
     return [row[0] for row in rows]
 
 
+def is_star(table: str) -> bool:
+    """True si la tabla es del modelo estrella (dimensión o hecho)."""
+    return table.startswith(("dim_", "fact_"))
+
+
 def export_tables(con: duckdb.DuckDBPyConnection, tables: list[str]) -> None:
-    print("\nTablas exportadas a dw/:")
-    for table in tables:
-        rows = con.sql(f'SELECT COUNT(*) FROM main."{table}"').fetchone()[0]
-        con.sql(f"COPY main.\"{table}\" TO '{(DW_DIR / f'{table}.csv').as_posix()}' (HEADER)")
-        print(f"  {table + '.csv':<32}{rows:>10} filas")
+    for title, folder, group in (
+        ("Modelo estrella", STAR_DIR, [t for t in tables if is_star(t)]),
+        ("Data marts", MART_DIR, [t for t in tables if not is_star(t)]),
+    ):
+        print(f"\n{title} -> {folder.relative_to(ROOT)}/")
+        for table in group:
+            rows = con.sql(f'SELECT COUNT(*) FROM main."{table}"').fetchone()[0]
+            con.sql(f"COPY main.\"{table}\" TO '{(folder / f'{table}.csv').as_posix()}' (HEADER)")
+            print(f"  {table + '.csv':<32}{rows:>10} filas")
 
 
 def write_diagram(con: duckdb.DuckDBPyConnection, tables: list[str]) -> None:
@@ -167,7 +182,7 @@ def build() -> duckdb.DuckDBPyConnection:
     tables = user_tables(con)
     if tables:
         export_tables(con, tables)
-        write_diagram(con, tables)
+        write_diagram(con, [t for t in tables if is_star(t)])
     else:
         print("\nTodavía no se creó ninguna tabla.")
     print(f"\nListo. Base de datos: {DATABASE.name}")

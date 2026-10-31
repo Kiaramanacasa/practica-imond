@@ -1,0 +1,354 @@
+periodo_tipo,periodo,canal,provincia,envios_entregados,dias_promedio,es_mas_lenta
+anio,2024,Tienda Online,Buenos Aires,1501,4.5,0
+anio,2024,Tienda Online,Córdoba,789,6.5,1
+anio,2024,Tienda Online,Mendoza,475,6.3,0
+anio,2024,Tienda Online,Santa Fe,850,6.3,0
+anio,2024,Tienda Online,Todas,3615,5.6,0
+anio,2024,Tiendas Físicas,Buenos Aires,43,4.4,0
+anio,2024,Tiendas Físicas,Córdoba,27,4.6,0
+anio,2024,Tiendas Físicas,Mendoza,34,4.6,0
+anio,2024,Tiendas Físicas,Santa Fe,32,5.0,1
+anio,2024,Tiendas Físicas,Todas,136,4.7,0
+anio,2024,Todos,Buenos Aires,1544,4.5,0
+anio,2024,Todos,Córdoba,816,6.4,1
+anio,2024,Todos,Mendoza,509,6.2,0
+anio,2024,Todos,Santa Fe,882,6.3,0
+anio,2024,Todos,Todas,3751,5.5,0
+anio,2025,Tienda Online,Buenos Aires,1278,3.5,0
+anio,2025,Tienda Online,Córdoba,641,5.7,1
+anio,2025,Tienda Online,Mendoza,444,5.4,0
+anio,2025,Tienda Online,Santa Fe,644,5.4,0
+anio,2025,Tienda Online,Todas,3007,4.7,0
+anio,2025,Tiendas Físicas,Buenos Aires,35,3.1,0
+anio,2025,Tiendas Físicas,Córdoba,25,3.7,1
+anio,2025,Tiendas Físicas,Mendoza,16,3.3,0
+anio,2025,Tiendas Físicas,Santa Fe,22,3.4,0
+anio,2025,Tiendas Físicas,Todas,98,3.3,0
+anio,2025,Todos,Buenos Aires,1313,3.5,0
+anio,2025,Todos,Córdoba,666,5.6,1
+anio,2025,Todos,Mendoza,460,5.3,0
+anio,2025,Todos,Santa Fe,666,5.3,0
+anio,2025,Todos,Todas,3105,4.6,0
+mes,2024-01,Tienda Online,Buenos Aires,96,3.3,0
+mes,2024-01,Tienda Online,Córdoba,64,6.0,1
+mes,2024-01,Tienda Online,Mendoza,30,5.0,0
+mes,2024-01,Tienda Online,Santa Fe,72,5.0,0
+mes,2024-01,Tienda Online,Todas,262,4.6,0
+mes,2024-01,Tiendas Físicas,Buenos Aires,4,3.8,0
+mes,2024-01,Tiendas Físicas,Córdoba,2,4.0,1
+mes,2024-01,Tiendas Físicas,Mendoza,4,3.0,0
+mes,2024-01,Tiendas Físicas,Santa Fe,1,4.0,1
+mes,2024-01,Tiendas Físicas,Todas,11,3.5,0
+mes,2024-01,Todos,Buenos Aires,100,3.3,0
+mes,2024-01,Todos,Córdoba,66,5.9,1
+mes,2024-01,Todos,Mendoza,34,4.8,0
+mes,2024-01,Todos,Santa Fe,73,5.0,0
+mes,2024-01,Todos,Todas,273,4.6,0
+mes,2024-02,Tienda Online,Buenos Aires,110,3.5,0
+mes,2024-02,Tienda Online,Córdoba,82,5.5,0
+mes,2024-02,Tienda Online,Mendoza,40,5.6,1
+mes,2024-02,Tienda Online,Santa Fe,63,5.3,0
+mes,2024-02,Tienda Online,Todas,295,4.7,0
+mes,2024-02,Tiendas Físicas,Buenos Aires,6,4.0,1
+mes,2024-02,Tiendas Físicas,Córdoba,1,4.0,1
+mes,2024-02,Tiendas Físicas,Mendoza,3,3.7,0
+mes,2024-02,Tiendas Físicas,Santa Fe,6,3.8,0
+mes,2024-02,Tiendas Físicas,Todas,16,3.9,0
+mes,2024-02,Todos,Buenos Aires,116,3.5,0
+mes,2024-02,Todos,Córdoba,83,5.5,1
+mes,2024-02,Todos,Mendoza,43,5.5,0
+mes,2024-02,Todos,Santa Fe,69,5.2,0
+mes,2024-02,Todos,Todas,311,4.7,0
+mes,2024-03,Tienda Online,Buenos Aires,115,3.4,0
+mes,2024-03,Tienda Online,Córdoba,54,5.5,0
+mes,2024-03,Tienda Online,Mendoza,31,5.8,1
+mes,2024-03,Tienda Online,Santa Fe,62,5.2,0
+mes,2024-03,Tienda Online,Todas,262,4.5,0
+mes,2024-03,Tiendas Físicas,Buenos Aires,3,2.3,0
+mes,2024-03,Tiendas Físicas,Córdoba,2,2.0,0
+mes,2024-03,Tiendas Físicas,Mendoza,5,4.0,1
+mes,2024-03,Tiendas Físicas,Santa Fe,2,3.0,0
+mes,2024-03,Tiendas Físicas,Todas,12,3.1,0
+mes,2024-03,Todos,Buenos Aires,118,3.4,0
+mes,2024-03,Todos,Córdoba,56,5.3,0
+mes,2024-03,Todos,Mendoza,36,5.5,1
+mes,2024-03,Todos,Santa Fe,64,5.2,0
+mes,2024-03,Todos,Todas,274,4.5,0
+mes,2024-04,Tienda Online,Buenos Aires,107,3.7,0
+mes,2024-04,Tienda Online,Córdoba,51,5.7,0
+mes,2024-04,Tienda Online,Mendoza,33,5.3,0
+mes,2024-04,Tienda Online,Santa Fe,62,5.8,1
+mes,2024-04,Tienda Online,Todas,253,4.8,0
+mes,2024-04,Tiendas Físicas,Buenos Aires,3,3.0,0
+mes,2024-04,Tiendas Físicas,Córdoba,3,4.3,1
+mes,2024-04,Tiendas Físicas,Santa Fe,1,2.0,0
+mes,2024-04,Tiendas Físicas,Todas,7,3.4,0
+mes,2024-04,Todos,Buenos Aires,110,3.6,0
+mes,2024-04,Todos,Córdoba,54,5.7,0
+mes,2024-04,Todos,Mendoza,33,5.3,0
+mes,2024-04,Todos,Santa Fe,63,5.7,1
+mes,2024-04,Todos,Todas,260,4.8,0
+mes,2024-05,Tienda Online,Buenos Aires,125,3.9,0
+mes,2024-05,Tienda Online,Córdoba,62,6.1,0
+mes,2024-05,Tienda Online,Mendoza,41,6.1,1
+mes,2024-05,Tienda Online,Santa Fe,71,5.6,0
+mes,2024-05,Tienda Online,Todas,299,5.0,0
+mes,2024-05,Tiendas Físicas,Buenos Aires,6,3.3,0
+mes,2024-05,Tiendas Físicas,Mendoza,2,2.5,0
+mes,2024-05,Tiendas Físicas,Santa Fe,1,5.0,1
+mes,2024-05,Tiendas Físicas,Todas,9,3.3,0
+mes,2024-05,Todos,Buenos Aires,131,3.8,0
+mes,2024-05,Todos,Córdoba,62,6.1,1
+mes,2024-05,Todos,Mendoza,43,6.0,0
+mes,2024-05,Todos,Santa Fe,72,5.6,0
+mes,2024-05,Todos,Todas,308,5.0,0
+mes,2024-06,Tienda Online,Buenos Aires,127,3.7,0
+mes,2024-06,Tienda Online,Córdoba,65,5.7,0
+mes,2024-06,Tienda Online,Mendoza,47,5.8,1
+mes,2024-06,Tienda Online,Santa Fe,75,5.7,0
+mes,2024-06,Tienda Online,Todas,314,4.9,0
+mes,2024-06,Tiendas Físicas,Buenos Aires,3,8.3,1
+mes,2024-06,Tiendas Físicas,Córdoba,2,3.0,0
+mes,2024-06,Tiendas Físicas,Mendoza,1,5.0,0
+mes,2024-06,Tiendas Físicas,Santa Fe,3,1.7,0
+mes,2024-06,Tiendas Físicas,Todas,9,4.6,0
+mes,2024-06,Todos,Buenos Aires,130,3.8,0
+mes,2024-06,Todos,Córdoba,67,5.6,0
+mes,2024-06,Todos,Mendoza,48,5.8,1
+mes,2024-06,Todos,Santa Fe,78,5.5,0
+mes,2024-06,Todos,Todas,323,4.9,0
+mes,2024-07,Tienda Online,Buenos Aires,95,8.2,0
+mes,2024-07,Tienda Online,Córdoba,38,10.1,0
+mes,2024-07,Tienda Online,Mendoza,27,10.2,0
+mes,2024-07,Tienda Online,Santa Fe,56,10.3,1
+mes,2024-07,Tienda Online,Todas,216,9.3,0
+mes,2024-07,Tiendas Físicas,Buenos Aires,3,7.3,0
+mes,2024-07,Tiendas Físicas,Córdoba,1,10.0,1
+mes,2024-07,Tiendas Físicas,Mendoza,4,8.8,0
+mes,2024-07,Tiendas Físicas,Santa Fe,4,8.0,0
+mes,2024-07,Tiendas Físicas,Todas,12,8.3,0
+mes,2024-07,Todos,Buenos Aires,98,8.2,0
+mes,2024-07,Todos,Córdoba,39,10.1,0
+mes,2024-07,Todos,Mendoza,31,10.0,0
+mes,2024-07,Todos,Santa Fe,60,10.2,1
+mes,2024-07,Todos,Todas,228,9.3,0
+mes,2024-08,Tienda Online,Buenos Aires,123,8.1,0
+mes,2024-08,Tienda Online,Córdoba,58,9.9,0
+mes,2024-08,Tienda Online,Mendoza,24,9.5,0
+mes,2024-08,Tienda Online,Santa Fe,59,10.0,1
+mes,2024-08,Tienda Online,Todas,264,9.1,0
+mes,2024-08,Tiendas Físicas,Buenos Aires,2,7.0,0
+mes,2024-08,Tiendas Físicas,Córdoba,3,7.3,0
+mes,2024-08,Tiendas Físicas,Mendoza,3,9.7,1
+mes,2024-08,Tiendas Físicas,Santa Fe,4,8.0,0
+mes,2024-08,Tiendas Físicas,Todas,12,8.1,0
+mes,2024-08,Todos,Buenos Aires,125,8.1,0
+mes,2024-08,Todos,Córdoba,61,9.8,0
+mes,2024-08,Todos,Mendoza,27,9.5,0
+mes,2024-08,Todos,Santa Fe,63,9.9,1
+mes,2024-08,Todos,Todas,276,9.0,0
+mes,2024-09,Tienda Online,Buenos Aires,105,3.3,0
+mes,2024-09,Tienda Online,Córdoba,58,5.0,0
+mes,2024-09,Tienda Online,Mendoza,28,5.5,1
+mes,2024-09,Tienda Online,Santa Fe,65,4.8,0
+mes,2024-09,Tienda Online,Todas,256,4.3,0
+mes,2024-09,Tiendas Físicas,Buenos Aires,5,3.6,0
+mes,2024-09,Tiendas Físicas,Córdoba,2,4.0,1
+mes,2024-09,Tiendas Físicas,Mendoza,4,2.3,0
+mes,2024-09,Tiendas Físicas,Todas,11,3.2,0
+mes,2024-09,Todos,Buenos Aires,110,3.4,0
+mes,2024-09,Todos,Córdoba,60,5.0,0
+mes,2024-09,Todos,Mendoza,32,5.1,1
+mes,2024-09,Todos,Santa Fe,65,4.8,0
+mes,2024-09,Todos,Todas,267,4.3,0
+mes,2024-10,Tienda Online,Buenos Aires,119,3.4,0
+mes,2024-10,Tienda Online,Córdoba,75,5.7,0
+mes,2024-10,Tienda Online,Mendoza,51,5.7,1
+mes,2024-10,Tienda Online,Santa Fe,82,5.3,0
+mes,2024-10,Tienda Online,Todas,327,4.7,0
+mes,2024-10,Tiendas Físicas,Buenos Aires,3,2.7,0
+mes,2024-10,Tiendas Físicas,Córdoba,2,3.5,0
+mes,2024-10,Tiendas Físicas,Mendoza,2,2.5,0
+mes,2024-10,Tiendas Físicas,Santa Fe,5,3.6,1
+mes,2024-10,Tiendas Físicas,Todas,12,3.2,0
+mes,2024-10,Todos,Buenos Aires,122,3.4,0
+mes,2024-10,Todos,Córdoba,77,5.6,1
+mes,2024-10,Todos,Mendoza,53,5.6,0
+mes,2024-10,Todos,Santa Fe,87,5.2,0
+mes,2024-10,Todos,Todas,339,4.7,0
+mes,2024-11,Tienda Online,Buenos Aires,159,4.0,0
+mes,2024-11,Tienda Online,Córdoba,89,6.2,1
+mes,2024-11,Tienda Online,Mendoza,53,6.0,0
+mes,2024-11,Tienda Online,Santa Fe,72,5.9,0
+mes,2024-11,Tienda Online,Todas,373,5.2,0
+mes,2024-11,Tiendas Físicas,Buenos Aires,2,4.5,0
+mes,2024-11,Tiendas Físicas,Córdoba,2,5.0,0
+mes,2024-11,Tiendas Físicas,Mendoza,4,3.5,0
+mes,2024-11,Tiendas Físicas,Santa Fe,3,6.0,1
+mes,2024-11,Tiendas Físicas,Todas,11,4.6,0
+mes,2024-11,Todos,Buenos Aires,161,4.0,0
+mes,2024-11,Todos,Córdoba,91,6.2,1
+mes,2024-11,Todos,Mendoza,57,5.8,0
+mes,2024-11,Todos,Santa Fe,75,5.9,0
+mes,2024-11,Todos,Todas,384,5.2,0
+mes,2024-12,Tienda Online,Buenos Aires,220,5.0,0
+mes,2024-12,Tienda Online,Córdoba,93,7.5,1
+mes,2024-12,Tienda Online,Mendoza,70,6.9,0
+mes,2024-12,Tienda Online,Santa Fe,111,7.3,0
+mes,2024-12,Tienda Online,Todas,494,6.3,0
+mes,2024-12,Tiendas Físicas,Buenos Aires,3,6.7,0
+mes,2024-12,Tiendas Físicas,Córdoba,7,4.4,0
+mes,2024-12,Tiendas Físicas,Mendoza,2,6.5,0
+mes,2024-12,Tiendas Físicas,Santa Fe,2,8.0,1
+mes,2024-12,Tiendas Físicas,Todas,14,5.7,0
+mes,2024-12,Todos,Buenos Aires,223,5.0,0
+mes,2024-12,Todos,Córdoba,100,7.3,0
+mes,2024-12,Todos,Mendoza,72,6.9,0
+mes,2024-12,Todos,Santa Fe,113,7.3,1
+mes,2024-12,Todos,Todas,508,6.2,0
+mes,2025-01,Tienda Online,Buenos Aires,145,3.4,0
+mes,2025-01,Tienda Online,Córdoba,75,5.6,1
+mes,2025-01,Tienda Online,Mendoza,50,5.3,0
+mes,2025-01,Tienda Online,Santa Fe,71,5.3,0
+mes,2025-01,Tienda Online,Todas,341,4.6,0
+mes,2025-01,Tiendas Físicas,Buenos Aires,4,3.3,0
+mes,2025-01,Tiendas Físicas,Córdoba,3,4.3,0
+mes,2025-01,Tiendas Físicas,Mendoza,2,4.5,1
+mes,2025-01,Tiendas Físicas,Santa Fe,4,3.5,0
+mes,2025-01,Tiendas Físicas,Todas,13,3.8,0
+mes,2025-01,Todos,Buenos Aires,149,3.4,0
+mes,2025-01,Todos,Córdoba,78,5.5,1
+mes,2025-01,Todos,Mendoza,52,5.3,0
+mes,2025-01,Todos,Santa Fe,75,5.2,0
+mes,2025-01,Todos,Todas,354,4.5,0
+mes,2025-02,Tienda Online,Buenos Aires,156,3.5,0
+mes,2025-02,Tienda Online,Córdoba,76,5.7,1
+mes,2025-02,Tienda Online,Mendoza,50,5.5,0
+mes,2025-02,Tienda Online,Santa Fe,69,5.2,0
+mes,2025-02,Tienda Online,Todas,351,4.6,0
+mes,2025-02,Tiendas Físicas,Buenos Aires,4,4.0,1
+mes,2025-02,Tiendas Físicas,Córdoba,3,3.0,0
+mes,2025-02,Tiendas Físicas,Mendoza,2,4.0,1
+mes,2025-02,Tiendas Físicas,Santa Fe,2,4.0,1
+mes,2025-02,Tiendas Físicas,Todas,11,3.7,0
+mes,2025-02,Todos,Buenos Aires,160,3.5,0
+mes,2025-02,Todos,Córdoba,79,5.6,1
+mes,2025-02,Todos,Mendoza,52,5.4,0
+mes,2025-02,Todos,Santa Fe,71,5.2,0
+mes,2025-02,Todos,Todas,362,4.6,0
+mes,2025-03,Tienda Online,Buenos Aires,145,3.5,0
+mes,2025-03,Tienda Online,Córdoba,68,5.5,1
+mes,2025-03,Tienda Online,Mendoza,66,5.2,0
+mes,2025-03,Tienda Online,Santa Fe,70,5.2,0
+mes,2025-03,Tienda Online,Todas,349,4.6,0
+mes,2025-03,Tiendas Físicas,Buenos Aires,9,3.2,0
+mes,2025-03,Tiendas Físicas,Córdoba,3,3.7,1
+mes,2025-03,Tiendas Físicas,Mendoza,3,2.3,0
+mes,2025-03,Tiendas Físicas,Santa Fe,1,3.0,0
+mes,2025-03,Tiendas Físicas,Todas,16,3.1,0
+mes,2025-03,Todos,Buenos Aires,154,3.5,0
+mes,2025-03,Todos,Córdoba,71,5.4,1
+mes,2025-03,Todos,Mendoza,69,5.1,0
+mes,2025-03,Todos,Santa Fe,71,5.1,0
+mes,2025-03,Todos,Todas,365,4.5,0
+mes,2025-04,Tienda Online,Buenos Aires,136,3.6,0
+mes,2025-04,Tienda Online,Córdoba,72,6.3,1
+mes,2025-04,Tienda Online,Mendoza,35,5.6,0
+mes,2025-04,Tienda Online,Santa Fe,80,5.6,0
+mes,2025-04,Tienda Online,Todas,323,4.9,0
+mes,2025-04,Tiendas Físicas,Buenos Aires,4,3.0,0
+mes,2025-04,Tiendas Físicas,Córdoba,1,4.0,1
+mes,2025-04,Tiendas Físicas,Mendoza,1,2.0,0
+mes,2025-04,Tiendas Físicas,Santa Fe,2,4.0,1
+mes,2025-04,Tiendas Físicas,Todas,8,3.3,0
+mes,2025-04,Todos,Buenos Aires,140,3.6,0
+mes,2025-04,Todos,Córdoba,73,6.2,1
+mes,2025-04,Todos,Mendoza,36,5.5,0
+mes,2025-04,Todos,Santa Fe,82,5.5,0
+mes,2025-04,Todos,Todas,331,4.9,0
+mes,2025-05,Tienda Online,Buenos Aires,181,4.0,0
+mes,2025-05,Tienda Online,Córdoba,85,6.4,1
+mes,2025-05,Tienda Online,Mendoza,53,6.1,0
+mes,2025-05,Tienda Online,Santa Fe,84,5.9,0
+mes,2025-05,Tienda Online,Todas,403,5.2,0
+mes,2025-05,Tiendas Físicas,Buenos Aires,5,3.0,0
+mes,2025-05,Tiendas Físicas,Córdoba,5,4.4,1
+mes,2025-05,Tiendas Físicas,Mendoza,2,2.5,0
+mes,2025-05,Tiendas Físicas,Todas,12,3.5,0
+mes,2025-05,Todos,Buenos Aires,186,4.0,0
+mes,2025-05,Todos,Córdoba,90,6.3,1
+mes,2025-05,Todos,Mendoza,55,5.9,0
+mes,2025-05,Todos,Santa Fe,84,5.9,0
+mes,2025-05,Todos,Todas,415,5.1,0
+mes,2025-06,Tienda Online,Buenos Aires,135,3.3,0
+mes,2025-06,Tienda Online,Córdoba,66,5.1,1
+mes,2025-06,Tienda Online,Mendoza,60,4.9,0
+mes,2025-06,Tienda Online,Santa Fe,75,5.0,0
+mes,2025-06,Tienda Online,Todas,336,4.3,0
+mes,2025-06,Tiendas Físicas,Buenos Aires,4,2.8,0
+mes,2025-06,Tiendas Físicas,Córdoba,5,3.4,1
+mes,2025-06,Tiendas Físicas,Santa Fe,5,3.2,0
+mes,2025-06,Tiendas Físicas,Todas,14,3.1,0
+mes,2025-06,Todos,Buenos Aires,139,3.3,0
+mes,2025-06,Todos,Córdoba,71,5.0,1
+mes,2025-06,Todos,Mendoza,60,4.9,0
+mes,2025-06,Todos,Santa Fe,80,4.9,0
+mes,2025-06,Todos,Todas,350,4.3,0
+mes,2025-07,Tienda Online,Buenos Aires,122,3.8,0
+mes,2025-07,Tienda Online,Córdoba,51,5.5,1
+mes,2025-07,Tienda Online,Mendoza,41,5.2,0
+mes,2025-07,Tienda Online,Santa Fe,64,5.4,0
+mes,2025-07,Tienda Online,Todas,278,4.7,0
+mes,2025-07,Tiendas Físicas,Buenos Aires,1,2.0,0
+mes,2025-07,Tiendas Físicas,Córdoba,3,3.7,0
+mes,2025-07,Tiendas Físicas,Mendoza,3,3.3,0
+mes,2025-07,Tiendas Físicas,Santa Fe,2,4.0,1
+mes,2025-07,Tiendas Físicas,Todas,9,3.4,0
+mes,2025-07,Todos,Buenos Aires,123,3.7,0
+mes,2025-07,Todos,Córdoba,54,5.4,1
+mes,2025-07,Todos,Mendoza,44,5.0,0
+mes,2025-07,Todos,Santa Fe,66,5.4,0
+mes,2025-07,Todos,Todas,287,4.6,0
+mes,2025-08,Tienda Online,Buenos Aires,142,3.3,0
+mes,2025-08,Tienda Online,Córdoba,82,5.6,1
+mes,2025-08,Tienda Online,Mendoza,48,5.5,0
+mes,2025-08,Tienda Online,Santa Fe,81,5.3,0
+mes,2025-08,Tienda Online,Todas,353,4.6,0
+mes,2025-08,Tiendas Físicas,Buenos Aires,4,2.3,0
+mes,2025-08,Tiendas Físicas,Córdoba,1,3.0,0
+mes,2025-08,Tiendas Físicas,Mendoza,3,4.0,1
+mes,2025-08,Tiendas Físicas,Santa Fe,4,3.0,0
+mes,2025-08,Tiendas Físicas,Todas,12,3.0,0
+mes,2025-08,Todos,Buenos Aires,146,3.3,0
+mes,2025-08,Todos,Córdoba,83,5.6,1
+mes,2025-08,Todos,Mendoza,51,5.5,0
+mes,2025-08,Todos,Santa Fe,85,5.2,0
+mes,2025-08,Todos,Todas,365,4.6,0
+mes,2025-09,Tienda Online,Buenos Aires,116,3.4,0
+mes,2025-09,Tienda Online,Córdoba,66,5.6,1
+mes,2025-09,Tienda Online,Mendoza,41,5.4,0
+mes,2025-09,Tienda Online,Santa Fe,50,5.1,0
+mes,2025-09,Tienda Online,Todas,273,4.5,0
+mes,2025-09,Tiendas Físicas,Córdoba,1,2.0,0
+mes,2025-09,Tiendas Físicas,Santa Fe,2,2.5,1
+mes,2025-09,Tiendas Físicas,Todas,3,2.3,0
+mes,2025-09,Todos,Buenos Aires,116,3.4,0
+mes,2025-09,Todos,Córdoba,67,5.5,1
+mes,2025-09,Todos,Mendoza,41,5.4,0
+mes,2025-09,Todos,Santa Fe,52,5.0,0
+mes,2025-09,Todos,Todas,276,4.5,0
+total,Todo,Tienda Online,Buenos Aires,2779,4.0,0
+total,Todo,Tienda Online,Córdoba,1430,6.1,1
+total,Todo,Tienda Online,Mendoza,919,5.9,0
+total,Todo,Tienda Online,Santa Fe,1494,5.9,0
+total,Todo,Tienda Online,Todas,6622,5.2,0
+total,Todo,Tiendas Físicas,Buenos Aires,78,3.8,0
+total,Todo,Tiendas Físicas,Córdoba,52,4.1,0
+total,Todo,Tiendas Físicas,Mendoza,50,4.2,0
+total,Todo,Tiendas Físicas,Santa Fe,54,4.4,1
+total,Todo,Tiendas Físicas,Todas,234,4.1,0
+total,Todo,Todos,Buenos Aires,2857,4.0,0
+total,Todo,Todos,Córdoba,1482,6.1,1
+total,Todo,Todos,Mendoza,969,5.8,0
+total,Todo,Todos,Santa Fe,1548,5.8,0
+total,Todo,Todos,Todas,6856,5.1,0
