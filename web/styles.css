@@ -378,8 +378,6 @@ main { max-width: 1240px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2rem); }
   white-space: nowrap;
 }
 .chip.si { border-color: var(--agua-online); color: var(--agua-online); }
-.descarga { font-size: 0.75rem; font-weight: 700; color: var(--tinta-suave); text-decoration: none; }
-.descarga:hover { color: var(--agua-online); text-decoration: underline; }
 .aviso-filtro {
   margin: -0.4rem 0 0.9rem;
   font-size: 0.8rem;

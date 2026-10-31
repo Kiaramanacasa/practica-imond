@@ -288,7 +288,7 @@ function graficoLinea(cont, puntos, op) {
 }
 
 /* ---------------------------------------------------------------------
-   Encabezados de los paneles: qué filtros aplican y descarga del mart
+   Encabezados de los paneles: a qué filtros responde cada gráfico
    --------------------------------------------------------------------- */
 const NOMBRES_FILTRO = { periodo: "Período", canal: "Canal", provincia: "Provincia" };
 function prepararPaneles() {
@@ -297,8 +297,7 @@ function prepararPaneles() {
     const extra = document.createElement("div");
     extra.className = "panel-extra";
     extra.innerHTML = `<div class="chips">${Object.entries(NOMBRES_FILTRO).map(([k, v]) =>
-      `<span class="chip ${responde.includes(k) ? "si" : ""}" title="${responde.includes(k) ? "Responde" : "No responde"} al filtro de ${v.toLowerCase()}">${v}</span>`).join("")}</div>
-      <a class="descarga" href="${RUTA_MARTS}${panel.dataset.mart}.csv" download>${panel.dataset.mart}.csv</a>`;
+      `<span class="chip ${responde.includes(k) ? "si" : ""}" title="${responde.includes(k) ? "Responde" : "No responde"} al filtro de ${v.toLowerCase()}">${v}</span>`).join("")}</div>`;
     panel.querySelector(".panel-cabeza").appendChild(extra);
     const aviso = document.createElement("p");
     aviso.className = "aviso-filtro";

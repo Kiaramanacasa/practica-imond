@@ -20,7 +20,7 @@ Arranca con una **carátula**: una botella de medir que se llena a medida que se
 
 Después viene un tablero interactivo en tres pestañas, con el mismo recorrido que un tablero de BI, pero hecho en HTML, CSS y JavaScript. Todo se muestra como agua, porque EcoBottle vende botellas: cada botella se llena según un nivel (de 0 a 1) que ya viene calculado en el mart.
 
-**Filtros:** período (todo, 2024 o 2025), mes, canal y provincia. También se filtra tocando los gráficos: una botella de la góndola o un punto del NPS filtra ese mes, una provincia filtra esa provincia y una botella de canal filtra ese canal. Cada gráfico indica a qué filtros responde y tiene un link para descargar el CSV de su mart.
+**Filtros:** período (todo, 2024 o 2025), mes, canal y provincia. También se filtra tocando los gráficos: una botella de la góndola o un punto del NPS filtra ese mes, una provincia filtra esa provincia y una botella de canal filtra ese canal. Cada gráfico indica a qué filtros responde.
 
 **Pestaña 1, Resumen comercial:** botella con las ventas de la selección y su peso sobre el total, KPIs con su evolución mensual, la góndola de los meses, usuarios activos separados en identificados y anónimos, ventas por provincia y ranking mensual por producto.
 
