@@ -189,7 +189,7 @@ SELECT
     CASE WHEN periodo_tipo = 'mes' THEN ROUND(ventas
         / MAX(ventas) OVER (PARTITION BY periodo_tipo, canal, provincia), 4) END AS nivel_mes
 FROM cubo
-ORDER BY periodo_tipo, periodo, canal, provincia, ranking;
+ORDER BY periodo_tipo, periodo, canal, provincia, ranking, producto;
 
 
 -- ---------------------------------------------------------------------
@@ -333,7 +333,7 @@ SELECT
 FROM (
     SELECT *, SUM(sesiones) OVER (PARTITION BY periodo, origen) AS sesiones_origen FROM cubo
 )
-ORDER BY periodo_tipo, periodo, sesiones_origen DESC, origen, sesiones DESC;
+ORDER BY periodo_tipo, periodo, sesiones_origen DESC, origen, sesiones DESC, dispositivo;
 
 
 -- ---------------------------------------------------------------------
@@ -419,7 +419,7 @@ SELECT
     CASE WHEN metodo <> 'Todos' THEN ROUND(pagos * 1.0
         / MAX(CASE WHEN metodo <> 'Todos' THEN pagos END) OVER (PARTITION BY periodo, canal, provincia), 4) END AS nivel
 FROM cubo
-ORDER BY periodo_tipo, periodo, canal, provincia, pagos DESC;
+ORDER BY periodo_tipo, periodo, canal, provincia, pagos DESC, metodo;
 
 
 -- ---------------------------------------------------------------------
