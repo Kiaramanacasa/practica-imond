@@ -375,8 +375,8 @@ mes,2024-05,Tienda Online,Todas,Todos,327,24,7.3,
 mes,2024-05,Tienda Online,Todas,Tarjeta,187,6,3.2,1.0
 mes,2024-05,Tienda Online,Todas,Mercado Pago,140,18,12.9,0.7487
 mes,2024-05,Tiendas Físicas,Buenos Aires,Todos,55,0,0.0,
-mes,2024-05,Tiendas Físicas,Buenos Aires,Efectivo,26,0,0.0,1.0
 mes,2024-05,Tiendas Físicas,Buenos Aires,Tarjeta,26,0,0.0,1.0
+mes,2024-05,Tiendas Físicas,Buenos Aires,Efectivo,26,0,0.0,1.0
 mes,2024-05,Tiendas Físicas,Buenos Aires,Transferencia,3,0,0.0,0.1154
 mes,2024-05,Tiendas Físicas,Córdoba,Todos,56,1,1.8,
 mes,2024-05,Tiendas Físicas,Córdoba,Tarjeta,28,1,3.6,1.0
@@ -546,8 +546,8 @@ mes,2024-08,Tienda Online,Córdoba,Todos,62,3,4.8,
 mes,2024-08,Tienda Online,Córdoba,Tarjeta,39,2,5.1,1.0
 mes,2024-08,Tienda Online,Córdoba,Mercado Pago,23,1,4.3,0.5897
 mes,2024-08,Tienda Online,Mendoza,Todos,26,2,7.7,
-mes,2024-08,Tienda Online,Mendoza,Tarjeta,13,2,15.4,1.0
 mes,2024-08,Tienda Online,Mendoza,Mercado Pago,13,0,0.0,1.0
+mes,2024-08,Tienda Online,Mendoza,Tarjeta,13,2,15.4,1.0
 mes,2024-08,Tienda Online,Santa Fe,Todos,64,3,4.7,
 mes,2024-08,Tienda Online,Santa Fe,Tarjeta,34,0,0.0,1.0
 mes,2024-08,Tienda Online,Santa Fe,Mercado Pago,30,3,10.0,0.8824
@@ -868,8 +868,8 @@ mes,2025-01,Tiendas Físicas,Mendoza,Efectivo,20,0,0.0,0.9524
 mes,2025-01,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.0952
 mes,2025-01,Tiendas Físicas,Santa Fe,Todos,72,2,2.8,
 mes,2025-01,Tiendas Físicas,Santa Fe,Tarjeta,38,2,5.3,1.0
-mes,2025-01,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,0.4474
 mes,2025-01,Tiendas Físicas,Santa Fe,Transferencia,17,0,0.0,0.4474
+mes,2025-01,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,0.4474
 mes,2025-01,Tiendas Físicas,Todas,Todos,266,3,1.1,
 mes,2025-01,Tiendas Físicas,Todas,Tarjeta,132,3,2.3,1.0
 mes,2025-01,Tiendas Físicas,Todas,Efectivo,96,0,0.0,0.7273
@@ -1047,8 +1047,8 @@ mes,2025-04,Tiendas Físicas,Mendoza,Tarjeta,19,2,10.5,1.0
 mes,2025-04,Tiendas Físicas,Mendoza,Efectivo,11,0,0.0,0.5789
 mes,2025-04,Tiendas Físicas,Mendoza,Transferencia,2,0,0.0,0.1053
 mes,2025-04,Tiendas Físicas,Santa Fe,Todos,40,0,0.0,
-mes,2025-04,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,1.0
 mes,2025-04,Tiendas Físicas,Santa Fe,Tarjeta,17,0,0.0,1.0
+mes,2025-04,Tiendas Físicas,Santa Fe,Efectivo,17,0,0.0,1.0
 mes,2025-04,Tiendas Físicas,Santa Fe,Transferencia,6,0,0.0,0.3529
 mes,2025-04,Tiendas Físicas,Todas,Todos,191,2,1.0,
 mes,2025-04,Tiendas Físicas,Todas,Tarjeta,98,2,2.0,1.0
@@ -1103,8 +1103,8 @@ mes,2025-05,Tiendas Físicas,Córdoba,Tarjeta,34,3,8.8,1.0
 mes,2025-05,Tiendas Físicas,Córdoba,Efectivo,16,0,0.0,0.4706
 mes,2025-05,Tiendas Físicas,Córdoba,Transferencia,5,0,0.0,0.1471
 mes,2025-05,Tiendas Físicas,Mendoza,Todos,31,0,0.0,
-mes,2025-05,Tiendas Físicas,Mendoza,Efectivo,13,0,0.0,1.0
 mes,2025-05,Tiendas Físicas,Mendoza,Tarjeta,13,0,0.0,1.0
+mes,2025-05,Tiendas Físicas,Mendoza,Efectivo,13,0,0.0,1.0
 mes,2025-05,Tiendas Físicas,Mendoza,Transferencia,5,0,0.0,0.3846
 mes,2025-05,Tiendas Físicas,Santa Fe,Todos,57,1,1.8,
 mes,2025-05,Tiendas Físicas,Santa Fe,Tarjeta,30,1,3.3,1.0

@@ -47,6 +47,7 @@ sql/               transformaciones en SQL, en orden de ejecución:
   02_hechos.sql        crea las 6 tablas de hechos
   03_consultas.sql     consultas clave de análisis
   04_marts.sql         genera los 11 data marts que lee la web (con GROUPING SETS)
+  05_calidad.sql       controles de calidad: duplicados, nulos, integridad y conciliación
 run_sql.py         ejecuta los archivos de sql/ y arma el data warehouse
 requirements.txt   dependencias de Python (DuckDB)
 dw/                salida del data warehouse (CSV):
@@ -161,16 +162,16 @@ Las transformaciones están escritas en SQL (`sql/01_dimensiones.sql` y `sql/02_
 
 ## Consultas clave
 
-Las consultas de control y KPIs están en [`sql/03_consultas.sql`](sql/03_consultas.sql). Todas cuentan solo pedidos cobrados (PAID o FULFILLED). Los valores de control corresponden al período completo (ene 2024 a sept 2025) y coinciden con los de la visualización web.
+Las consultas de los KPIs están en [`sql/03_consultas.sql`](sql/03_consultas.sql). Los valores de control corresponden al período completo (ene 2024 a sept 2025) y coinciden con los de la visualización web.
 
-| KPI | Definición | Valor de control |
-|---|---|---|
-| 1. Ventas totales | Suma de ventas de pedidos cobrados | $382,41 M |
-| 2. Usuarios activos | Clientes identificados con sesión web más visitantes anónimos (cada sesión sin cliente) | 73.828: 3.077 identificados y 70.751 anónimos |
-| 3. Ticket promedio | Ventas / cantidad de pedidos | $34,77 mil |
-| 4. NPS | % promotores (9 a 10) menos % detractores (0 a 6) | 30,0 |
-| 5. Ventas por provincia | Ventas agrupadas por provincia | Buenos Aires $142,7 M, Córdoba $89,54 M, Santa Fe $87,55 M, Mendoza $62,63 M |
-| 6. Ranking mensual por producto | Ventas mensuales por producto (cada línea prorrateada al total del pedido) y posición en el ranking de cada mes | En todo el período: Sport B Bottle $200,2 M y Classic A Bottle $182,2 M |
+| KPI | Definición | Unidad | Filtro | Valor de control |
+|---|---|---|---|---|
+| 1. Ventas totales | Suma del total de los pedidos (productos, envío e IVA) | Pesos argentinos | Pedidos PAID o FULFILLED | $382,41 M |
+| 2. Usuarios activos | Clientes distintos con sesión web más visitantes anónimos (cada sesión sin cliente) | Usuarios | Todas las sesiones web | 73.828: 3.077 identificados y 70.751 anónimos |
+| 3. Ticket promedio | Ventas totales dividido cantidad de pedidos | Pesos por pedido | Pedidos PAID o FULFILLED | $34.771 |
+| 4. NPS | % promotores (9 a 10) menos % detractores (0 a 6) | Puntos, de −100 a 100 | Todas las respuestas, incluidas las anónimas | 30,0 |
+| 5. Ventas por provincia | Ventas totales agrupadas por la provincia del pedido | Pesos argentinos | Pedidos PAID o FULFILLED | Buenos Aires $142,7 M, Córdoba $89,54 M, Santa Fe $87,55 M, Mendoza $62,63 M |
+| 6. Ranking mensual por producto | Ventas mensuales por producto (cada línea prorrateada al total del pedido) y su puesto en el mes | Pesos argentinos y puesto | Pedidos PAID o FULFILLED | En todo el período: Sport B Bottle $200,2 M y Classic A Bottle $182,2 M |
 
 El código completo de cada consulta:
 
@@ -286,31 +287,69 @@ ORDER BY
     ranking;
 ```
 
+## Calidad de datos
+
+Los controles están en [`sql/05_calidad.sql`](sql/05_calidad.sql), que corre al final de `run_sql.py` y muestra cada resultado en la terminal con un estado OK o REVISAR. Todos dan OK.
+
+| Control | Qué se revisa | Resultado |
+|---|---|---|
+| Duplicados | Que ninguna clave primaria se repita, en las 9 dimensiones y los 6 hechos | 0 duplicados en las 15 tablas |
+| Nulos | Cuántas claves foráneas vienen vacías y si es esperable | Solo hay nulos donde el negocio lo explica: `store_key` en el 60,9 % de los pedidos (son online), `customer_key` en el 70,5 % de las sesiones (visitantes sin sesión iniciada) y en el 4,0 % de las respuestas NPS (anónimas), y `delivery_days` en el 2,2 % de los envíos (todavía no entregados) |
+| Integridad | Que ninguna clave foránea apunte a una fila que no existe | 0 huérfanas en las 12 relaciones revisadas |
+| Conciliación con `raw` | Que el DW tenga las mismas filas y montos que el origen | Pedidos, ítems, sesiones, NPS, pagos, envíos y clientes coinciden fila por fila; ventas ($382.410.636) e IVA ($65.077.236) coinciden al peso |
+| Conciliación de los marts | Que los marts cierren contra el modelo estrella y entre sí | Ventas totales, productos + envíos + IVA, suma de provincias, suma de meses y suma de productos dan lo mismo; identificados + anónimos = usuarios activos; la suma de estados da los 11.969 pedidos |
+
 ## Hallazgos
 
-Resumen del período completo (ene 2024 a sept 2025). Coinciden con lo que muestra la visualización web.
+Resumen del período completo (ene 2024 a sept 2025). Primero, lo que muestran los datos; después, las hipótesis que esos datos sugieren pero no prueban.
 
-### Ventas
+### Hechos observados
+
+Salen directamente de los marts y coinciden con lo que muestra la visualización web.
 
 - **Mejor mes:** diciembre de 2024, con $28,4 M, un 56 % más que un mes promedio ($18,2 M).
-- **Canales:** la tienda online genera el 59,4 % de las ventas y vende más que las cuatro tiendas físicas juntas.
-- **Provincias:** Buenos Aires lidera con el 37,3 % de las ventas.
-
-### Satisfacción
-
+- **Canales:** la tienda online genera el 59,4 % de las ventas, más que las cuatro tiendas físicas juntas.
+- **Provincias:** Buenos Aires concentra el 37,3 % de las ventas.
 - **NPS:** cayó a 5 en agosto de 2024, cuando el del período completo es 30. Ese mes los detractores llegaron al 32,5 %.
-
-### Operación
-
 - **Pagos:** Mercado Pago falla en el 9,8 % de los cobros, más del doble que la tarjeta (4,0 %).
-- **Marketing:** el 80,1 % del tráfico de anuncios llega desde el celular, por eso la experiencia mobile es clave para las campañas.
-- **Entregas:** los envíos bajaron de 5,5 a 4,6 días en 2025, pero Córdoba sigue siendo la provincia más lenta.
-
-### Clientes y ventas netas
-
+- **Tráfico:** el 80,1 % de las sesiones que llegan por anuncios son desde el celular.
+- **Entregas:** el promedio bajó de 5,5 días en 2024 a 4,6 en 2025. Córdoba es la provincia más lenta en 2025.
 - **Estados:** el 91,9 % de los pedidos se concreta. Cancelaciones y reembolsos suman $33,1 M que no se cobraron.
-- **Impuestos y envíos:** de cada $100 cobrados, $81 son productos, $17 IVA y $2 envío. La venta neta es $317,3 M sobre $382,4 M cobrados.
+- **Composición:** de cada $100 cobrados, $81 son productos, $17 IVA y $2 envío. La venta neta es $317,3 M.
 - **Clientes:** el 71 % vuelve a comprar y las recompras generan el 70 % de la facturación. El 20 % de clientes que más compra aporta el 47 %.
+
+### Hipótesis de negocio
+
+No se pueden confirmar con estos datos. Para cada una se indica qué haría falta para validarla.
+
+- **Diciembre por las fiestas.** El pico de diciembre probablemente se debe a compras de regalo. Habría que comparar con más de un diciembre (hay uno solo en los datos) o preguntar el motivo de compra.
+- **La caída del NPS de agosto de 2024 tuvo una causa operativa.** Los datos muestran la caída pero no el motivo. Habría que leer los comentarios de las respuestas de ese mes (`fact_nps.comment`) y cruzarlos con demoras de envío o fallas de pago.
+- **Los fallos de Mercado Pago hacen perder ventas.** Un pago fallido no siempre es una venta perdida, porque el cliente puede reintentar con otro medio. Habría que seguir qué pasa con el pedido después del fallo.
+- **La experiencia mobile define el éxito de los anuncios.** Que el tráfico de anuncios sea mayormente mobile no prueba que convierta peor o mejor. Habría que medir la conversión por dispositivo, que requiere unir sesiones con pedidos.
+- **Retener clientes rinde más que conseguir nuevos.** Las recompras pesan mucho en la facturación, pero no hay datos de costo de adquisición ni de campañas de retención para compararlo.
+
+## Privacidad, accesibilidad y límites de interpretación
+
+### Privacidad
+
+- `dim_customer` tiene nombre, email y teléfono de cada cliente, y se publica en `dw/modelo_estrella/`. Los datos son **inventados**: los generó el programa de la cátedra (`generator/`), y los emails usan el dominio reservado `example.net`. Con datos reales, esos campos no deberían publicarse ni copiarse al DW sin necesidad.
+- La visualización web **no muestra ningún dato personal**: los marts solo tienen totales agregados por período, canal y provincia, y ninguno incluye nombres, emails ni teléfonos.
+
+### Accesibilidad
+
+- Se puede usar entero con teclado: pestañas con flechas, botones y puntos de los gráficos con Tab y Enter.
+- Si el sistema tiene activada la opción de reducir el movimiento, la página desactiva las animaciones y muestra la botella de la carátula llena desde el principio.
+- Tiene modo claro y oscuro según la configuración del dispositivo, y el color nunca es la única forma de leer un dato: los valores también figuran como texto y en los recuadros que aparecen al pasar el cursor.
+- Se adapta a celulares y pantallas chicas.
+
+### Límites de interpretación
+
+- **Usuarios anónimos sobreestimados.** Cada sesión sin cliente cuenta como un usuario distinto, así que una misma persona que entra varias veces sin iniciar sesión se cuenta varias veces.
+- **Muestras chicas en el NPS.** Algunos meses, y más aún al filtrar por canal, tienen pocas respuestas, por lo que el NPS mensual puede moverse mucho sin que cambie la satisfacción real.
+- **Días de entrega.** Solo consideran los envíos entregados (el 2,2 % no tiene fecha de entrega) y se agrupan por la fecha del pedido.
+- **Las ventas incluyen IVA y envío.** Para hablar de lo que gana la empresa conviene mirar la venta neta o los productos.
+- **Datos simulados y período corto.** Son 21 meses de una empresa ficticia: los patrones sirven para practicar el análisis, no para sacar conclusiones sobre un mercado real.
+- **Correlación no es causa.** Los hallazgos describen lo que pasó; las causas son hipótesis, como se aclara arriba.
 
 ## Datos de origen
 

@@ -749,7 +749,7 @@ function dibujarOperacion() {
   const lenta = fila("mart_entregas", { periodo: "2025", canal: "Todos", es_mas_lenta: 1 });
   $("hallazgos-operacion").innerHTML = hallazgos([
     ["Pagos", `<strong>${pTodo[0].metodo} falla en el ${pct(pTodo[0].tasa_fallos)} de los cobros,</strong> más del doble que ${pTodo[1].metodo.toLowerCase()} (${pct(pTodo[1].tasa_fallos)}).`],
-    ["Marketing", ads ? `<strong>El ${pct(ads.pct_del_origen)} del tráfico de anuncios llega desde el celular:</strong> la experiencia mobile es clave para las campañas.` : ""],
+    ["Marketing", ads ? `<strong>El ${pct(ads.pct_del_origen)} de las sesiones que llegan por anuncios son desde el celular,</strong> frente a poco más de la mitad en los demás orígenes.` : ""],
     ["Entregas", `<strong>Los envíos bajaron de ${dec(e24?.dias_promedio)} a ${dec(e25?.dias_promedio)} días en 2025,</strong> pero ${lenta?.provincia} sigue siendo la provincia más lenta.`],
   ]);
 }
