@@ -378,6 +378,8 @@ main { max-width: 1240px; margin: 0 auto; padding: 0 clamp(1rem, 3vw, 2rem); }
   white-space: nowrap;
 }
 .chip.si { border-color: var(--agua-online); color: var(--agua-online); }
+/* el filtro que no aplica se tacha: no depende solo del color */
+.chip:not(.si) { text-decoration: line-through; opacity: 0.75; }
 .aviso-filtro {
   margin: -0.4rem 0 0.9rem;
   font-size: 0.8rem;

@@ -1,5 +1,5 @@
 -- =====================================================================
--- 03_consultas.sql — Consultas de control y KPIs del dashboard
+-- 03_consultas.sql — Consultas de los seis KPIs
 -- =====================================================================
 -- Ventas, ticket promedio y rankings consideran solo pedidos cobrados:
 -- status PAID o FULFILLED (se excluyen CREATED, CANCELLED y REFUNDED).

@@ -45,7 +45,7 @@ raw/               datos de origen: un CSV por tabla (no se modifican)
 sql/               transformaciones en SQL, en orden de ejecución:
   01_dimensiones.sql   crea las 9 dimensiones
   02_hechos.sql        crea las 6 tablas de hechos
-  03_consultas.sql     consultas clave de análisis
+  03_consultas.sql     consultas de los seis KPIs
   04_marts.sql         genera los 11 data marts que lee la web (con GROUPING SETS)
   05_calidad.sql       controles de calidad: duplicados, nulos, integridad y conciliación
 run_sql.py         ejecuta los archivos de sql/ y arma el data warehouse
@@ -61,7 +61,7 @@ generator/         programa que creó los datos de raw/ (no hace falta usarlo)
 
 ## Cómo reproducirlo
 
-Requiere Python 3 y Git. Desde la Terminal:
+Requiere Python 3.9 o más nuevo y Git. Desde la Terminal:
 
 ```
 git clone https://github.com/Kiaramanacasa/practica-imond.git
@@ -88,7 +88,7 @@ y entrar a `http://localhost:8000/web/`.
 
 *La imagen es ancha: hacé clic para verla en tamaño completo. El diagrama editable está en [`dw/modelo_estrella/modelo_estrella.md`](dw/modelo_estrella/modelo_estrella.md).*
 
-El data warehouse sigue el modelo dimensional de Kimball: **6 tablas de hechos** (pedidos, ítems de pedido, sesiones web, NPS, pagos y envíos) rodeadas por **9 dimensiones** (producto, fecha, canal, provincia, cliente, tienda, origen de tráfico, dispositivo y medio de pago). Se validó que cada hecho tiene las mismas filas que su tabla de origen, que las ventas por provincia suman el total y que los pagos están conciliados con las ventas.
+El data warehouse sigue el modelo dimensional de Kimball: **6 tablas de hechos** (pedidos, ítems de pedido, sesiones web, NPS, pagos y envíos) rodeadas por **9 dimensiones** (producto, fecha, canal, provincia, cliente, tienda, origen de tráfico, dispositivo y medio de pago). Los controles de [calidad de datos](#calidad-de-datos) verifican que no haya claves duplicadas ni huérfanas y que cada hecho tenga las mismas filas y montos que su tabla de origen.
 
 ## Supuestos
 
@@ -97,30 +97,10 @@ El data warehouse sigue el modelo dimensional de Kimball: **6 tablas de hechos**
 - **Los marts leen del modelo estrella.** Ningún mart lee las tablas de origen (`raw`): todos se arman a partir de las dimensiones y los hechos.
 - **Ventas = pedidos cobrados.** Ventas, ticket promedio y rankings consideran solo pedidos con estado PAID o FULFILLED. Se excluyen CREATED, CANCELLED y REFUNDED.
 - **Lo que se cobra en cada venta** tiene tres partes: productos (`subtotal`), envío (`shipping_fee`) e IVA (`tax_amount`). **Venta neta** es la venta sin IVA, o sea productos más envío.
-- **Usuarios activos** son los usuarios distintos de las sesiones web, separados en dos grupos que se suman: **identificados** (clientes que iniciaron sesión, contados por `customer_id`) y **anónimos** (cada sesión sin cliente, contada por `session_id`), según la consigna. En el período son 73.828: 3.077 identificados y 70.751 anónimos. La consulta KPI 2 de `03_consultas.sql` devuelve los tres números.
+- **Usuarios activos** son los usuarios distintos de las sesiones web, separados en dos grupos que se suman: **identificados** (clientes que iniciaron sesión, contados por `customer_key`) y **anónimos** (cada sesión sin cliente, contada por `session_id`), según la consigna. En el período son 73.828: 3.077 identificados y 70.751 anónimos. La consulta KPI 2 de `03_consultas.sql` devuelve los tres números.
 - **NPS** es el porcentaje de promotores (9 a 10) menos el porcentaje de detractores (0 a 6).
 - **Ventas por producto.** Cada línea se prorratea al total del pedido (`line_total × total_amount / subtotal`), así las ventas por producto suman lo mismo que las ventas totales.
 - **Período analizado:** enero 2024 a septiembre 2025.
-
-## Diccionario de datos
-
-Los 11 data marts de `dw/mart/` se generan en `sql/04_marts.sql`, leyendo solo de las dimensiones y los hechos. Traen las medidas ya calculadas (totales, porcentajes, rankings, promedios y niveles de llenado) para cada combinación de filtros.
-
-En los marts con filtros, `periodo_tipo` indica el nivel (`total`, `anio` o `mes`) y `periodo` el valor (`Todo`, `2024` o `2024-12`). `canal = 'Todos'` y `provincia = 'Todas'` son las filas de totales.
-
-| Mart | Una fila por… | Filtros | Qué muestra en la web |
-|---|---|---|---|
-| `mart_ventas` | período, canal y provincia | período, canal, provincia | Ventas, ticket, productos, envíos, IVA, venta neta, pedidos que son venta, góndola de meses, provincias, canales y carátula |
-| `mart_productos` | período, canal, provincia y producto | período, canal, provincia | Ranking mensual por producto |
-| `mart_estados` | período, canal, provincia y estado | período, canal, provincia | Pedidos por estado |
-| `mart_usuarios` | período | período | Usuarios activos (identificados y anónimos), sesiones y sesiones identificadas |
-| `mart_trafico` | período, origen y dispositivo | período | Sesiones por origen y dispositivo |
-| `mart_nps` | período y canal | período, canal | NPS, satisfacción por canal y NPS mes a mes |
-| `mart_pagos` | período, canal, provincia y medio de pago | período, canal, provincia | Pagos fallidos y medios de pago |
-| `mart_entregas` | período, canal y provincia | período, canal, provincia | Días promedio de entrega |
-| `mart_compras_estado_cliente` | período, canal, provincia, estado del cliente y producto | período, canal, provincia | Qué compran los clientes activos e inactivos |
-| `mart_clientes` | grupo y categoría | ninguno | Frecuencia de compra, top 20 % y recompras |
-| `mart_periodo` | una sola fila | ninguno | Fechas del período y clientes recurrentes |
 
 ## Diccionario del modelo estrella
 
@@ -158,7 +138,27 @@ Las transformaciones están escritas en SQL (`sql/01_dimensiones.sql` y `sql/02_
 - `fact_shipment.status`: READY, SHIPPED, DELIVERED o CANCELLED.
 - `fact_nps.score`: de 0 a 10. Promotor de 9 a 10, pasivo de 7 a 8 y detractor de 0 a 6.
 - `store_key` vacío en los pedidos online. `customer_key` vacío en las sesiones y respuestas NPS anónimas.
-- `order_id` en ítems, pagos y envíos conserva el id de origen y no es una FK hacia otra tabla del modelo.
+- `order_id` en ítems, pagos y envíos conserva el id del pedido (dimensión degenerada). No se declara como FK, pero `05_calidad.sql` verifica que todos existan en `fact_sales_order`.
+
+## Diccionario de los data marts
+
+Los 11 data marts de `dw/mart/` se generan en `sql/04_marts.sql`, leyendo solo de las dimensiones y los hechos. Traen las medidas ya calculadas (totales, porcentajes, rankings, promedios y niveles de llenado) para cada combinación de filtros.
+
+En los marts con filtros, `periodo_tipo` indica el nivel (`total`, `anio` o `mes`) y `periodo` el valor (`Todo`, `2024` o `2024-12`). `canal = 'Todos'` y `provincia = 'Todas'` son las filas de totales.
+
+| Mart | Una fila por… | Filtros | Qué muestra en la web |
+|---|---|---|---|
+| `mart_ventas` | período, canal y provincia | período, canal, provincia | Ventas, ticket, productos, envíos, IVA, venta neta, pedidos que son venta, góndola de meses, provincias, canales y carátula |
+| `mart_productos` | período, canal, provincia y producto | período, canal, provincia | Ranking mensual por producto |
+| `mart_estados` | período, canal, provincia y estado | período, canal, provincia | Pedidos por estado |
+| `mart_usuarios` | período | período | Usuarios activos (identificados y anónimos), sesiones y sesiones identificadas |
+| `mart_trafico` | período, origen y dispositivo | período | Sesiones por origen y dispositivo |
+| `mart_nps` | período y canal | período, canal | NPS, satisfacción por canal y NPS mes a mes |
+| `mart_pagos` | período, canal, provincia y medio de pago | período, canal, provincia | Pagos fallidos y medios de pago |
+| `mart_entregas` | período, canal y provincia | período, canal, provincia | Días promedio de entrega |
+| `mart_compras_estado_cliente` | período, canal, provincia, estado del cliente y producto | período, canal, provincia | Qué compran los clientes activos e inactivos |
+| `mart_clientes` | grupo y categoría | ninguno | Frecuencia de compra, top 20 % y recompras |
+| `mart_periodo` | una sola fila | ninguno | Fechas del período y clientes recurrentes |
 
 ## Consultas clave
 
@@ -168,7 +168,7 @@ Las consultas de los KPIs están en [`sql/03_consultas.sql`](sql/03_consultas.sq
 |---|---|---|---|---|
 | 1. Ventas totales | Suma del total de los pedidos (productos, envío e IVA) | Pesos argentinos | Pedidos PAID o FULFILLED | $382,41 M |
 | 2. Usuarios activos | Clientes distintos con sesión web más visitantes anónimos (cada sesión sin cliente) | Usuarios | Todas las sesiones web | 73.828: 3.077 identificados y 70.751 anónimos |
-| 3. Ticket promedio | Ventas totales dividido cantidad de pedidos | Pesos por pedido | Pedidos PAID o FULFILLED | $34.771 |
+| 3. Ticket promedio | Ventas totales dividido la cantidad de pedidos cobrados | Pesos por pedido | Pedidos PAID o FULFILLED | $34.771 |
 | 4. NPS | % promotores (9 a 10) menos % detractores (0 a 6) | Puntos, de −100 a 100 | Todas las respuestas, incluidas las anónimas | 30,0 |
 | 5. Ventas por provincia | Ventas totales agrupadas por la provincia del pedido | Pesos argentinos | Pedidos PAID o FULFILLED | Buenos Aires $142,7 M, Córdoba $89,54 M, Santa Fe $87,55 M, Mendoza $62,63 M |
 | 6. Ranking mensual por producto | Ventas mensuales por producto (cada línea prorrateada al total del pedido) y su puesto en el mes | Pesos argentinos y puesto | Pedidos PAID o FULFILLED | En todo el período: Sport B Bottle $200,2 M y Classic A Bottle $182,2 M |
@@ -353,7 +353,7 @@ No se pueden confirmar con estos datos. Para cada una se indica qué haría falt
 
 ## Datos de origen
 
-Los datos de EcoBottle AR (`raw/`) y la plantilla del proyecto (`run_sql.py` y la carpeta `generator/`) vienen del [repositorio de la cátedra](https://github.com/AugustoCarmona/practica-imond), donde está la guía completa de las tablas de origen. La consigna está en este [documento](https://docs.google.com/document/d/15RNP3FVqLjO4jzh80AAkK6mUR5DOLqPxLjQxqvdzrYg/edit?usp=sharing).
+Los datos de EcoBottle AR (`raw/`) y la plantilla del proyecto (`run_sql.py` y la carpeta `generator/`) vienen del [repositorio de la cátedra](https://github.com/AugustoCarmona/practica-imond), donde está la guía completa de las tablas de origen. La teoría está en el [libro de cátedra](https://github.com/AugustoCarmona/IMOND/blob/feat/apunte/libro/README.md), y la entrega sigue su lista de verificación (Apéndice D). La consigna está en este [documento](https://docs.google.com/document/d/15RNP3FVqLjO4jzh80AAkK6mUR5DOLqPxLjQxqvdzrYg/edit?usp=sharing).
 
 El diagrama de las tablas de origen (DER):
 
